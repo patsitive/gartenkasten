@@ -7,7 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Create/Digital Garden Plugin documentation\|Digital Garden Plugin documentation]]: 10:35 AM - August 26, 2025
+- [[Learn in Public/Create/Digital Garden Plugin documentation\|Digital Garden Plugin documentation]]: 10:37 AM - August 26, 2025
 - [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 10:21 PM - August 25, 2025
 - [[Learn in Public/Think/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 10:12 PM - August 25, 2025
 - [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 3:21 PM - August 25, 2025
