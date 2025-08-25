@@ -64,3 +64,28 @@ Benefits:
 - We can still request for Ole to add a link to the showcase site from the Discord and/or DGdocs website 
 
 @palol, I think we can grab a lot of the content from the DG-plugin GH Discussions as use it to seed our own site :) 
+
+#### Example
+
+``` mermaid 
+graph LR
+
+	A1[Showcase site] 
+	A2[IndieWeb]
+	
+	B1[Link to DG plugin]
+	B2[Link to official DG docs]
+	B3[Live examples of components, CSS, etc]
+	B4[How to]
+	B5[Questions]
+	B6[Other?]
+	
+	B1 --> A1 
+	B1 --> A2 
+	B2 --> A1
+	B2 --> A2 
+	B3 --> A1
+	B4 --> A1
+	B5 --> A1
+	B6 --> A1
+```
