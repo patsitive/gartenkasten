@@ -20,7 +20,7 @@ To [**supports**:: [[Learn in Public/Think/(1A2) Zettel creation is writing a mi
 
 **Prev**:: [[Learn in Public/Think/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]
 
-[^1] Reflection described to ChatGPT during [[writing deliberate practice\|writing deliberate practice]] on [[Dailies/2025-07-16\|2025-07-16]]
+[^1] Reflection described to ChatGPT during [[writing deliberate practice\|writing deliberate practice]] on [[Slices/2025-07-16\|2025-07-16]]
 
 
 > [!note]- Folgezettel

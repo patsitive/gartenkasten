@@ -2,7 +2,7 @@
 {"created":"2025-08-25T13:33","updated":"2025-08-25T15:19","dg-publish":true,"dg-permalink":"think/1a1a3","dg-path":"Think/(1A1A3) Prefer to store useful ideas as idea elements.md","permalink":"/think/1a1a3/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-One way to determine what ideas are worth keeping is to only record something if it fits into one of six [**North**:: [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]] ([**source**:: [[@Fast2016ReadingZettelkastenSearching\|@Fast2016ReadingZettelkastenSearching]]]). Applying this heuristic supports [**supports**:: [[Learn in Public/Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files\|managing and organising knowledge]]] because it helps focus attention and facilitates knowledge creation and retention. 
+One way to determine what ideas are worth keeping is to only record something if it fits into one of six [**North**:: [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]] ([**source**:: [[Learn in Public/Reference/@Fast2016ReadingZettelkastenSearching\|@Fast2016ReadingZettelkastenSearching]]]). Applying this heuristic supports [**supports**:: [[Learn in Public/Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files\|managing and organising knowledge]]] because it helps focus attention and facilitates knowledge creation and retention. 
 
 ---
 
