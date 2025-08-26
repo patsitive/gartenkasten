@@ -7,6 +7,8 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Think/I do not blog\|I do not blog]]: 10:06 PM - August 26, 2025
+- [[Learn in Public/Think/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 10:04 PM - August 26, 2025
 - [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 9:24 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 9:20 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 9:19 PM - August 26, 2025
@@ -20,8 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:41 PM - August 25, 2025
 - [[Learn in Public/Think/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(10) The path to depth is sometimes iterative...\|(10) The path to depth is sometimes iterative...]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(3B) Coaching\|(3B) Coaching]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(15) Reparations are not charity and can be cashed\|(15) Reparations are not charity and can be cashed]]: 12:38 PM - August 25, 2025
 
 { .block-language-dataview}
 
