@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:34","updated":"2025-08-26T22:08","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:34","updated":"2025-08-27T07:10","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
 ---
 
 ## Start Here 
@@ -8,7 +8,7 @@ Much like a cottage garden, this digital space is messy, magical, and you never 
 
 > [!tip] Curious about **what even is this**? 
 > Please start with one of these questions
-> - What is a [[Learn in Public/Think/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]?
+> - What is a [[Learn in Public/Think/Digital garden\|Digital garden]]?
 > - What is a [[Learn in Public/Think/Zettelkasten\|Zettelkasten]]?
 > - Why do I say [[Learn in Public/Think/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]?
 > - What are the [[Learn in Public/Think/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]? 

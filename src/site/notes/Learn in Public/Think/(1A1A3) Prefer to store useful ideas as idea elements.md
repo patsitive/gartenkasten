@@ -12,7 +12,6 @@ One way to determine what ideas are worth keeping is to only record something if
 > - [[Learn in Public/Think/(1A1A1A) Personal Knowledge Management\|(1A1A1A) Personal Knowledge Management]]
 > - [[Learn in Public/Think/(1A1A1A1) Ontology In Information Science\|(1A1A1A1) Ontology In Information Science]]
 > - [[Learn in Public/Think/(1A1A1A2) Write it down to remember\|(1A1A1A2) Write it down to remember]]
-> - [[Learn in Public/Think/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]
 > - [[Learn in Public/Think/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]
 > - [[Learn in Public/Think/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
 > - [[Learn in Public/Think/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
