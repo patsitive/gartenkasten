@@ -7,21 +7,21 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/(1A1A1) Personal Knowledge Management Allows You To Systematically Organise And Integrate Thoughts And Files\|(1A1A1) Personal Knowledge Management Allows You To Systematically Organise And Integrate Thoughts And Files]]: 7:54 PM - August 26, 2025
+- [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 9:24 PM - August 26, 2025
+- [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 9:20 PM - August 26, 2025
+- [[Learn in Public/Think/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 9:19 PM - August 26, 2025
+- [[Learn in Public/Think/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]: 9:17 PM - August 26, 2025
+- [[Learn in Public/Think/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]: 9:15 PM - August 26, 2025
+- [[Learn in Public/Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files\|(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files]]: 8:01 PM - August 26, 2025
+- [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 7:57 PM - August 26, 2025
 - [[Learn in Public/Start Here\|Start Here]]: 2:06 PM - August 26, 2025
 - [[Learn in Public/Create/Digital Garden Plugin documentation\|Digital Garden Plugin documentation]]: 10:44 AM - August 26, 2025
-- [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 10:21 PM - August 25, 2025
 - [[Learn in Public/Think/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 10:12 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 3:21 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 3:19 PM - August 25, 2025
 - [[Learn in Public/Think/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:41 PM - August 25, 2025
 - [[Learn in Public/Think/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(10) The path to depth is sometimes iterative...\|(10) The path to depth is sometimes iterative...]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(3B) Coaching\|(3B) Coaching]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(15) Reparations are not charity and can be cashed\|(15) Reparations are not charity and can be cashed]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]: 12:38 PM - August 25, 2025
 
 { .block-language-dataview}
 

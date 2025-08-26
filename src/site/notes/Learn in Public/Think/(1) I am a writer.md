@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-02-18T08:38","updated":"2025-07-14T09:49","dg-publish":true,"noteIcon":"flower","dg-permalink":"think/1","dg-path":"Think/(1) I am a writer.md","permalink":"/think/1/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-02-18T08:38","updated":"2025-08-26T21:08","dg-publish":true,"noteIcon":"flower","dg-permalink":"1-writer","id":1,"toc":"writer","dg-path":"Think/(1) I am a writer.md","permalink":"/1-writer/","dgPassFrontmatter":true}
 ---
 
 
