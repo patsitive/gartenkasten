@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:34","updated":"2025-08-24T16:19","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:34","updated":"2025-08-26T14:06","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
 ---
 
 ## Start Here 
@@ -61,6 +61,6 @@ Oh, you scrolled down? 😅 Hiiii! I'm Pat Oyson-Matthan. This is my gartenkaste
 - Or [[Coaching Package Offer\|Work with me]] 1:1 💖—update this when it goes live, remove for now 
 - [[Uses\|Uses]]—stuff I use 
 - [[Now\|Now]]—what am I up to 
-- [[Colophon\|Colophon]]—update with how I made this page + link to Github repo
+- [[Gartenkasten colophon\|Gartenkasten colophon]]—update with how I made this page + link to Github repo
 - [[Garden Growth\|Garden Growth]]—add running changelog here
 
