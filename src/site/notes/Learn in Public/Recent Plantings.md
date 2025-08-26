@@ -7,7 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Welcome to Pat's gartenkasten\|Welcome to Pat's gartenkasten]]: 7:15 AM - August 27, 2025
+- [[Learn in Public/Welcome to Pat's gartenkasten\|Welcome to Pat's gartenkasten]]: 7:19 AM - August 27, 2025
 - [[Learn in Public/Think/Digital garden\|Digital garden]]: 7:12 AM - August 27, 2025
 - [[Learn in Public/Think/I do not blog\|I do not blog]]: 7:10 AM - August 27, 2025
 - [[Learn in Public/Think/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]: 7:10 AM - August 27, 2025

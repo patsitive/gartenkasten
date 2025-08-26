@@ -9,7 +9,7 @@
 
 <p class="vcard">I'm <a class="fn url" href="https://patsitive.co.nz">Pat Oyson-Matthan</a>, a <span class="title">student and life coach</span> living in <span class="adr"><span class="region">Waikato</span>, <span class="country-name">New Zealand</span></span>, and this digital 'garden-box' is where I shake off my fear and learn in public: by sharing ideas and exploring what delights and challenges me.</p>
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -22,6 +22,7 @@ Gartenkasten is my whimsical portmanteau of these two thinking and writing model
 (Notice how the term is German—and I _don't_ speak it—so I've skipped the 'digital' part 😅 German, I love you for your elegant modularity)
 
 </div></div>
+
 
 
 --- 
