@@ -7,8 +7,9 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/I do not blog\|I do not blog]]: 10:06 PM - August 26, 2025
-- [[Learn in Public/Think/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 10:04 PM - August 26, 2025
+- [[Learn in Public/Think/I do not blog\|I do not blog]]: 10:08 PM - August 26, 2025
+- [[Learn in Public/Start Here\|Start Here]]: 10:08 PM - August 26, 2025
+- [[Learn in Public/Think/Zettelkasten\|Zettelkasten]]: 10:04 PM - August 26, 2025
 - [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 9:24 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 9:20 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 9:19 PM - August 26, 2025
@@ -16,7 +17,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]: 9:15 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files\|(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files]]: 8:01 PM - August 26, 2025
 - [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 7:57 PM - August 26, 2025
-- [[Learn in Public/Start Here\|Start Here]]: 2:06 PM - August 26, 2025
 - [[Learn in Public/Create/Digital Garden Plugin documentation\|Digital Garden Plugin documentation]]: 10:44 AM - August 26, 2025
 - [[Learn in Public/Think/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 10:12 PM - August 25, 2025
 - [[Learn in Public/Think/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:41 PM - August 25, 2025
