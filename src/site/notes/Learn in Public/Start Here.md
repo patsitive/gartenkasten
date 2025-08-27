@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:34","updated":"2025-08-27T07:48","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:34","updated":"2025-08-26T14:06","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
 ---
 
 ## Start Here 
@@ -8,8 +8,8 @@ Much like a cottage garden, this digital space is messy, magical, and you never 
 
 > [!tip] Curious about **what even is this**? 
 > Please start with one of these questions
-> - What is a [[Learn in Public/Think/Digital garden\|Digital garden]]?
-> - What is a [[Learn in Public/Think/Zettelkasten\|Zettelkasten]]?
+> - What is a [[(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]?
+> - What is a [[(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]?
 > - Why do I say [[Learn in Public/Think/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]?
 > - What are the [[Learn in Public/Think/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]? 
 > - [[How to navigate the gartenkasten\|How to navigate the gartenkasten]]? 
@@ -46,10 +46,21 @@ Here are some things I hope it will contain:
 
 ### About Me
 
-Oh, you scrolled down? 😅 Hiiii! [**source**:: [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]]. This is my gartenkasten!
+Oh, you scrolled down? 😅 Hiiii! I'm Pat Oyson-Matthan. This is my gartenkasten!
 
 #### Want to hang out? 🌿 
 
+- Whose garden is this? [**source**:: [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]] 💖
 - You can also find me on my 'polished' [website](https://patsitive.co.nz) 🌟
 - Or please send me an [email](https://patsitive.co.nz/connect) 📨 
+
+%%
+- Join the [[mailing list\|mailing list]] —link to the Sense-sational Spekllbook lead magnet... 
+- [[Self-Coaching Offer\|Give tweaking your systems a go]]
+- Attend [[Office Hours\|Office Hours]] —comment out for now, add back later
+- Or [[Coaching Package Offer\|Work with me]] 1:1 💖—update this when it goes live, remove for now 
+- [[Uses\|Uses]]—stuff I use 
+- [[Now\|Now]]—what am I up to 
+- [[Gartenkasten colophon\|Gartenkasten colophon]]—update with how I made this page + link to Github repo
+- [[Garden Growth\|Garden Growth]]—add running changelog here
 

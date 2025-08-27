@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-18T04:45","updated":"2025-08-25T15:21","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-permalink":"think/1a1a-info-elements","id":"1a1a","dg-path":"Think/(1A1A) Elements Of Information.md","permalink":"/think/1a1a-info-elements/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-18T04:45","updated":"2025-08-25T15:21","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-permalink":"think/1a1a","dg-path":"Think/(1A1A) Elements Of Information.md","permalink":"/think/1a1a/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

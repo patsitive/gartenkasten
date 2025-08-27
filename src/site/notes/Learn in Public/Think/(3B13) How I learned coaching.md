@@ -8,4 +8,4 @@ I am formalising my theoretical understanding via [[Graduate Certificate in Prof
 - [[Learn in Public/Reference/@zaatMGT725StudyGuide\|@zaatMGT725StudyGuide]]
 - [[Learn in Public/Reference/@duncanMGT726StudyGuide\|@duncanMGT726StudyGuide]]
 
-I am currently researching [[Tales & Trials/Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)\|Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)]]
+I am currently researching [[Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)\|Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)]]
