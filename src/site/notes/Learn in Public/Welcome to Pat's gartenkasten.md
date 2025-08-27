@@ -19,7 +19,7 @@ Gartenkasten is my whimsical portmanteau of these two thinking and writing model
 > - '**[[Learn in Public/Think/Digital garden\|Digital garden]]**' (`garten`) — where ideas are expected to evolve and interconnect 
 > - '[[Learn in Public/Think/Zettelkasten\|Zettelkasten]]' (`slip/note box`) — where ideas are atomic and branching off each other 
 
-(Notice how the term is German—and I _don't_ speak it—so I've skipped the 'digital' part 😅 German, I love you for your elegant modularity)
+(Notice how the term is German—and I _don't_ speak it—so I've skipped the 'digital' part 😅 German, I love you for your elegant modularity 💕)
 
 **Why make a new term?**
 [**Prev**:: [[Perennial nature of gartenkasten feels freeing\|Perennial nature of gartenkasten feels freeing]]]

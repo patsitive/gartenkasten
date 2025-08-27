@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-28T14:57","updated":"2025-08-26T19:54","dg-permalink":"think/1a1a1-pkm-organise-integrate","dg-publish":true,"dg-path":"Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files.md","permalink":"/think/1a1a1-pkm-organise-integrate/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-28T14:57","updated":"2025-08-27T09:44","dg-permalink":"think/1a1a1-pkm-organise-integrate","dg-publish":true,"dg-path":"Think/(1A1A1) Personal Knowledge Management allows you to organise and integrate thoughts and files.md","permalink":"/think/1a1a1-pkm-organise-integrate/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Various systems exist for managing the knowledge that you hold (e.g. PARA, Getting Things Done, etc.) What connects these [**north**:: [[Learn in Public/Think/(1A1A1A) Personal Knowledge Management\|PKM]]] methodologies is the intent: systematic integration and organisation of knowledge ([**source**:: [[Learn in Public/Reference/@butlerBuildYourPersonal2022\|@butlerBuildYourPersonal2022]]]). 
