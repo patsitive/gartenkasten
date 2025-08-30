@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-08-04T14:00","type":"journal article","status":"Done","created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Keshav2007HowReadPaper.md","permalink":"/reference/keshav2007-how-read-paper/","dgPassFrontmatter":true}
+{"updated":"2025-08-30T15:33","type":"journal article","status":"Done","created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Keshav2007HowReadPaper.md","permalink":"/reference/keshav2007-how-read-paper/","dgPassFrontmatter":true}
 ---
 
 # Keshav (2007) How to Read a Paper
@@ -54,8 +54,8 @@
 
 ## Reaction 
 > [!tip] Reaction 
-> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[Learn in Public/Think/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]]. 
-> Very applicable to the [**example**:: [[Learn in Public/Think/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]], especially with respect to pass 2 and 3. 
+> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[Learn in Public/Think/Writers are made through writing and reading\|Writers are made through writing and reading]]]. 
+> Very applicable to the [**example**:: [[Learn in Public/Think/Flow of zettelkasten\|Flow of zettelkasten]]], especially with respect to pass 2 and 3. 
 
 ## Connections  
 

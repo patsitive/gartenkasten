@@ -1,12 +1,12 @@
 ---
-{"title":"ICF, the Gold Standard in Coaching | Read About ICF.","authors":"International Coaching Federation","year":null,"type":"webpage","created":"2024-10-28T14:29","updated":"2025-08-24T15:13","aliases":["International Coaching Federation (ICF)"],"dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@internationalcoachingfederationICFGoldStandard.md","permalink":"/reference/internationalcoachingfederation-icf-gold-standard/","dgPassFrontmatter":true}
+{"title":"ICF, the Gold Standard in Coaching | Read About ICF.","authors":"International Coaching Federation","year":null,"type":"webpage","created":"2024-10-28T14:29","updated":"2025-08-30T16:00","aliases":["International Coaching Federation (ICF)"],"dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@internationalcoachingfederationICFGoldStandard.md","permalink":"/reference/internationalcoachingfederation-icf-gold-standard/","dgPassFrontmatter":true}
 ---
 
 
 # International Coaching Federation (ICF)
 
 >[!tldr]+ Summary
-> The International Coach Federation is the largest association for professional coaches. This body continually works on improving the [[Learn in Public/Think/(3B) Coaching\|(3B) Coaching]] profession by developing best practice and standards and enforcing ICF credentials. 
+> The International Coach Federation is the largest association for professional coaches. This body continually works on improving the [[Learn in Public/Think/Coaching\|Coaching]] profession by developing best practice and standards and enforcing ICF credentials. 
 >
 
 >[!note] Reference:: _ICF, the Gold Standard in Coaching | Read About ICF._ (n.d.). International Coaching Federation. Retrieved 18 March 2025, from [https://coachingfederation.org/about](https://coachingfederation.org/about)

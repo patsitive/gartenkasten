@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"created":"2025-02-18T08:29","updated":"2025-06-17T13:47","dg-publish":true,"excalidraw-open-md":true,"noteIcon":"flower","dg-permalink":"think/1c","dg-path":"Think/(1C) I am a reader.md","permalink":"/think/1c/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"created":"2025-02-18T08:29","updated":"2025-06-17T13:47","dg-publish":true,"excalidraw-open-md":true,"noteIcon":"flower","dg-permalink":"think/1c","id":"1c","dg-path":"Think/(1C) I am a reader.md","permalink":"/think/1c/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,11 +21,11 @@ Just give me the words of others.
 
 There is no movie playing in my head (thanks, aphantasia), but words are still my escape and respite. 
 
-And I guess because I read, then that's why [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]. 
+And I guess because I read, then tha[[Learn in Public/Think/I am a writer\|I am a writer]]writer]]. 
 
 **Part of [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]].**
 
-**prev**:: [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]
+**p[[Learn in Public/Think/I am a writer\|I am a writer]]writer]]
 
 
 ## Drawing

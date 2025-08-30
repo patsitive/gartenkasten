@@ -1,11 +1,11 @@
 ---
-{"created":"2025-05-30T12:59","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/3b1c","dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/think/3b1c/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T12:59","updated":"2025-08-30T16:00","dg-publish":true,"dg-permalink":"think/3b1c","id":"3b1c","dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/think/3b1c/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-The [[Learn in Public/Think/(3B) Coaching\|Definition of coaching]] can't seem to be extricated from the [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]] because [[Learn in Public/Think/(3B8) Coaching is future focussed\|(3B8) Coaching is future focussed]] and as a result how you describe what it is almost always talks about what it is meant to do. 
+The [[Learn in Public/Think/Coaching\|Definition of coaching]] can't seem to be extricated from the [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]] because [[Learn in Public/Think/(3B8) Coaching is future focussed\|(3B8) Coaching is future focussed]] and as a result how you describe what it is almost always talks about what it is meant to do. 
 
 Here's how I have defined coaching: 
-[[Learn in Public/Think/(3B) Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.\|(3B) Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.]]
+[[Learn in Public/Think/Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.\|Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.]]
 
 The process itself needs to take into account its purpose: making meaningful progress in the life of the coachee. 
 

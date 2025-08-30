@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-29T08:41","updated":"2025-08-24T16:03","dg-publish":true,"noteIcon":"log","aliases":["Who I am - an activity in Inspirational Writing for Academic Publication"],"dg-path":"Create/Becoming a researcher.md","permalink":"/create/becoming-a-researcher/","dgPassFrontmatter":true}
+{"created":"2025-05-29T08:41","updated":"2025-08-30T15:33","dg-publish":true,"noteIcon":"log","aliases":["Who I am - an activity in Inspirational Writing for Academic Publication"],"dg-path":"Create/Becoming a researcher.md","permalink":"/create/becoming-a-researcher/","dgPassFrontmatter":true}
 ---
 
 [Becoming a Researcher: A Personal Invocation | by Patricia Oyson | May, 2025 | Medium](https://medium.com/@patricia.oyson/becoming-a-researcher-a-personal-invocation-a24d6639e022)
@@ -50,10 +50,10 @@ The bird circles overhead; I long to weave its cast-off feathers in the tapestry
 
 **Are you ready to follow your bird's song?** 
 
-> Note: This was written in response to a writing exercise given in [[Learn in Public/Reference/@boltonInspirationalWritingAcademic2014\|@boltonInspirationalWritingAcademic2014]]. Then I fed it to ChatGPT and asked it to critique me. I then edited it myself. I'm using ChatGPT as a writing coach, in an attempt to do deliberate practice. 
+> Note: This was written in response to a writing exercise given in [[Learn in Public/Reference/@Bolton2014InspirationalWritingAcademic\|@Bolton2014InspirationalWritingAcademic]]. Then I fed it to ChatGPT and asked it to critique me. I then edited it myself. I'm using ChatGPT as a writing coach, in an attempt to do deliberate practice. 
 
-**supports**:: [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]
-**leads to**:: [[Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)\|Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)]]
+**supports**:: [[Learn in Public/Think/I am a writer\|I am a writer]]
+**leads to**:: [[Tales & Trials/Ideas/Patterns, Pathways, and Power-Bibliometric analysis\|Patterns, Pathways, and Power-Bibliometric analysis]]
 
 **Reference** 
 Bolton, G. (2014). _Inspirational writing for academic publication_. SAGE Publications.

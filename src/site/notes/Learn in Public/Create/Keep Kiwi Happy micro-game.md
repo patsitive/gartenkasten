@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-09T12:33","updated":"2025-07-10T11:01","dg-publish":true,"noteIcon":"log","dg-path":"Create/Keep Kiwi Happy micro-game.md","permalink":"/create/keep-kiwi-happy-micro-game/","dgPassFrontmatter":true}
+{"created":"2025-07-09T12:33","updated":"2025-08-03T14:45","dg-publish":true,"noteIcon":"log","dg-path":"Create/Keep Kiwi Happy micro-game.md","permalink":"/create/keep-kiwi-happy-micro-game/","dgPassFrontmatter":true}
 ---
 
 
@@ -45,7 +45,7 @@ There are probably other books or studies out there about raising your baseline 
  
  I first encountered these ideas in [[@Gilbert2006StumblingHappiness\|@Gilbert2006StumblingHappiness]]* (which honestly I should re-read because it's been at least 15 years since I read it...)
 
-*// The nice thing about having a bookworm as a dad is that you can borrow all his books. In my younger years, my dad read a lot of Tom Clancy, but he also had A LOT of non-fiction. Tom Clancy isn't for me, but I love non-fiction!!!! If ONLY I took notes and knew about zettelkasten and [[Learn in Public/Think/(1A1A1A) Personal Knowledge Management\|PKM]] back then... 
+*// The nice thing about having a bookworm as a dad is that you can borrow all his books. In my younger years, my dad read a lot of Tom Clancy, but he also had A LOT of non-fiction. Tom Clancy isn't for me, but I love non-fiction!!!! If ONLY I took notes and knew about zettelkasten and [[Learn in Public/Think/Personal Knowledge Management\|PKM]] back then... 
 // I also read a LOT of Newsweek and TIME magazine. No, I wasn't popular. Why do you ask? 🤣*
 
 ### 🧰 Scope Notes

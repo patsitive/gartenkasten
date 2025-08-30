@@ -7,21 +7,21 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Start Here\|Start Here]]: 2:06 PM - August 26, 2025
-- [[Learn in Public/Create/Digital Garden Plugin documentation\|Digital Garden Plugin documentation]]: 10:44 AM - August 26, 2025
-- [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 10:21 PM - August 25, 2025
-- [[Learn in Public/Think/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 10:12 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 3:21 PM - August 25, 2025
-- [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 3:19 PM - August 25, 2025
-- [[Learn in Public/Think/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:41 PM - August 25, 2025
-- [[Learn in Public/Think/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(5A1A1) POSSE\|(5A1A1) POSSE]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(6) In An Accident Do Not Admit Blame\|(6) In An Accident Do Not Admit Blame]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(4A5A) Clarify reference points when discussing emotionally charged topics\|(4A5A) Clarify reference points when discussing emotionally charged topics]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 12:38 PM - August 25, 2025
+- [[Learn in Public/Think/Skills for Intimacy\|Skills for Intimacy]]: 7:54 PM - August 30, 2025
+- [[Learn in Public/Think/How I learned coaching\|How I learned coaching]]: 7:32 PM - August 30, 2025
+- [[Learn in Public/Think/Coaching\|Coaching]]: 7:32 PM - August 30, 2025
+- [[Learn in Public/Think/Write it down to remember\|Write it down to remember]]: 7:28 PM - August 30, 2025
+- [[Learn in Public/Think/Academic writing is conversation\|Academic writing is conversation]]: 7:27 PM - August 30, 2025
+- [[Learn in Public/Think/Academic Humility\|Academic Humility]]: 7:25 PM - August 30, 2025
+- [[Learn in Public/Think/Flow of zettelkasten\|Flow of zettelkasten]]: 7:24 PM - August 30, 2025
+- [[Learn in Public/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 7:23 PM - August 30, 2025
+- [[Learn in Public/Think/Act of zettelkasten is associative in thinking\|Act of zettelkasten is associative in thinking]]: 7:23 PM - August 30, 2025
+- [[Learn in Public/Think/Writers are made through writing and reading\|Writers are made through writing and reading]]: 7:22 PM - August 30, 2025
+- [[Learn in Public/Think/Compass of Thoughts can generate ideas or connections\|Compass of Thoughts can generate ideas or connections]]: 7:20 PM - August 30, 2025
+- [[Learn in Public/Think/Prefer to store useful idea elements\|Prefer to store useful idea elements]]: 7:10 PM - August 30, 2025
+- [[Learn in Public/Think/Elements of information\|Elements of information]]: 7:09 PM - August 30, 2025
+- [[Learn in Public/Think/'Women are like your favourite food... '\|'Women are like your favourite food... ']]: 7:08 PM - August 30, 2025
+- [[Learn in Public/Think/Cultivating a garden is continual effort\|Cultivating a garden is continual effort]]: 7:06 PM - August 30, 2025
 
 { .block-language-dataview}
 
