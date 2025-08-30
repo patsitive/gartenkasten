@@ -10,9 +10,9 @@
 ***/
 
 body {
-  --font-default: "Pixelify Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-  --font-text: "Pixelify Sans", var(--font-default);
-  --font-interface: "Pixelify Sans", var(--font-default);
+  --font-default: Nunito, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  --font-text: Nunito, var(--font-default);
+  --font-interface: Nunito, var(--font-default);
 }
 
 a[href^="http"]:not([href*="patsitive.co.nz"]) {
@@ -31,10 +31,11 @@ a:hover {
    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
 }
 
-main.content h2 {
+main.content blockquote {
   font-family: 'Jacquard 24', cursive;
 }
 
+main.content h2, 
 main.content h3, 
 main.content h4, 
 main.content h5, 
