@@ -7,7 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/Skills for Intimacy\|Skills for Intimacy]]: 7:54 PM - August 30, 2025
+- [[Learn in Public/Think/Skills for Intimacy\|Skills for Intimacy]]: 8:01 PM - August 30, 2025
 - [[Learn in Public/Think/How I learned coaching\|How I learned coaching]]: 7:32 PM - August 30, 2025
 - [[Learn in Public/Think/Coaching\|Coaching]]: 7:32 PM - August 30, 2025
 - [[Learn in Public/Think/Write it down to remember\|Write it down to remember]]: 7:28 PM - August 30, 2025
