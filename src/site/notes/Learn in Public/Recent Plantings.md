@@ -7,21 +7,21 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/Mix shots  to tell succinct story\|Mix shots  to tell succinct story]]: 1:07 PM - August 31, 2025
-- [[Learn in Public/Start Here\|Start Here]]: 1:06 PM - August 31, 2025
-- [[Learn in Public/Think/Note types in MY gartenkasten\|Note types in MY gartenkasten]]: 1:06 PM - August 31, 2025
-- [[Learn in Public/Think/Skills for Intimacy\|Skills for Intimacy]]: 8:03 PM - August 30, 2025
-- [[Learn in Public/Think/How I learned coaching\|How I learned coaching]]: 7:32 PM - August 30, 2025
-- [[Learn in Public/Think/Coaching\|Coaching]]: 7:32 PM - August 30, 2025
-- [[Learn in Public/Think/Write it down to remember\|Write it down to remember]]: 7:28 PM - August 30, 2025
-- [[Learn in Public/Think/Academic writing is conversation\|Academic writing is conversation]]: 7:27 PM - August 30, 2025
-- [[Learn in Public/Think/Academic Humility\|Academic Humility]]: 7:25 PM - August 30, 2025
-- [[Learn in Public/Think/Flow of zettelkasten\|Flow of zettelkasten]]: 7:24 PM - August 30, 2025
-- [[Learn in Public/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 7:23 PM - August 30, 2025
-- [[Learn in Public/Think/Act of zettelkasten is associative in thinking\|Act of zettelkasten is associative in thinking]]: 7:23 PM - August 30, 2025
-- [[Learn in Public/Think/Writers are made through writing and reading\|Writers are made through writing and reading]]: 7:22 PM - August 30, 2025
-- [[Learn in Public/Think/Compass of Thoughts can generate ideas or connections\|Compass of Thoughts can generate ideas or connections]]: 7:20 PM - August 30, 2025
-- [[Learn in Public/Think/Prefer to store useful idea elements\|Prefer to store useful idea elements]]: 7:10 PM - August 30, 2025
+- [[Learn in Public/Think/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]: 1:46 PM - August 31, 2025
+- [[Learn in Public/Think/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 1:46 PM - August 31, 2025
+- [[Learn in Public/Think/(5A1A1) POSSE\|(5A1A1) POSSE]]: 1:45 PM - August 31, 2025
+- [[Learn in Public/Think/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 1:45 PM - August 31, 2025
+- [[Learn in Public/Think/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]: 1:45 PM - August 31, 2025
+- [[Learn in Public/Think/(6) In An Accident Do Not Admit Blame\|(6) In An Accident Do Not Admit Blame]]: 1:45 PM - August 31, 2025
+- [[Learn in Public/Think/(15) Reparations are not charity and can be cashed\|(15) Reparations are not charity and can be cashed]]: 1:45 PM - August 31, 2025
+- [[Learn in Public/Think/(1C) I am a reader\|(1C) I am a reader]]: 1:44 PM - August 31, 2025
+- [[Learn in Public/Think/(1B2A1) If a task isn't getting done, it isn't 'ease-y' enough\|(1B2A1) If a task isn't getting done, it isn't 'ease-y' enough]]: 1:44 PM - August 31, 2025
+- [[Learn in Public/Think/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]]: 1:44 PM - August 31, 2025
+- [[Learn in Public/Think/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 1:44 PM - August 31, 2025
+- [[Learn in Public/Think/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 1:44 PM - August 31, 2025
+- [[Learn in Public/Think/Zettel creation is writing a micro-essay\|Zettel creation is writing a micro-essay]]: 1:43 PM - August 31, 2025
+- [[Learn in Public/Think/Arrange information to construct  paragraphs\|Arrange information to construct  paragraphs]]: 1:39 PM - August 31, 2025
+- [[Learn in Public/Think/Good day vs bad day in aged care\|Good day vs bad day in aged care]]: 1:37 PM - August 31, 2025
 
 { .block-language-dataview}
 
