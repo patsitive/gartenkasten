@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-06T07:26","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/4a5a","id":"4a5a","dg-path":"Think/(4A5A) Clarify reference points when discussing emotionally charged topics.md","permalink":"/think/4a5a/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-06-06T07:26","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"4a5a-clarify-reference-points","id":"4a5a","dg-path":"Think/(4A5A) Clarify reference points when discussing emotionally charged topics.md","permalink":"/4a5a-clarify-reference-points/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 [[Learn in Public/Think/(4A5) It is necessary to agree on and establish reference points or directions in anatomy\|(4A5) It is necessary to agree on and establish reference points or directions in anatomy]] because that's how you know you are talking about the same thing. 

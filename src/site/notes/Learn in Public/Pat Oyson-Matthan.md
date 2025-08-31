@@ -1,5 +1,5 @@
 ---
-{"created":"2024-09-21T21:14","updated":"2025-08-30T19:02","dg-publish":true,"noteIcon":"butterfly","title":"Who I Am","aliases":["Who Am I","Who I Am","My Identities"],"dg-path":"Pat Oyson-Matthan.md","permalink":"/pat-oyson-matthan/","dgPassFrontmatter":true}
+{"created":"2024-09-21T21:14","updated":"2025-09-01T10:48","dg-publish":true,"noteIcon":"butterfly","title":"Who I Am","aliases":["Who Am I","Who I Am","My Identities"],"dg-path":"Pat Oyson-Matthan.md","permalink":"/pat-oyson-matthan/","dgPassFrontmatter":true}
 ---
 
 
@@ -35,7 +35,7 @@ As a [[Owned Identities/Human Design 6-2\|Human Design 6-2]] [[Generator\|Genera
 ## Who am I? I am a/an
 
 - 💼 Professional: [[Student\|Student]], [[Owned Identities/Business Woman/!Business Woman\|!Business Woman]], [[Learn in Public/Think/I am a writer\|Writer]]
-- 🧠 Intellectual: [[Owned Identities/Brain/!Brain\|!Brain]], [[Learn in Public/Think/(1C) I am a reader\|Reader]], [[(0) Structure/All Zettels\|Zettelkasten Practitioner]]
+- 🧠 Intellectual: [[Owned Identities/Brain/!Brain\|!Brain]], [[Learn in Public/Think/I am a reader\|Reader]], [[(0) Structure/All Zettels\|Zettelkasten Practitioner]]
 - 💕 Relational: [[Owned Identities/Wife/Wife\|Wife]], [[Owned Identities/Daughter in Law\|Daughter in Law]], [[Owned Identities/Socialiser\|Socialiser]]
 - 🧘‍♀️ Embodied: [[Owned Identities/Pole Dancer/!Pole Dancer\|!Pole Dancer]], [[Owned Identities/Gardener\|Gardener]], [[Owned Identities/Nail Tech\|Nail Tech]], [[Body\|Body]]
 - 🐾 Playful: [[Owned Identities/Animal Lover/!Animal Lover\|!Animal Lover]], [[Owned Identities/Home Maker/!Home Maker\|!Home Maker]], [[Owned Identities/Money Maker/!Money Conscious\|!Money Conscious]]

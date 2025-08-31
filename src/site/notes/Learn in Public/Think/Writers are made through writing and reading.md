@@ -11,7 +11,7 @@ Our growth as writers comes not only from the act of writing itself but from abs
 
 Therefore, [[Learn in Public/Think/Writing depends on your ability to read\|Writing depends on your ability to read]]. 
 
-If we undertake this work diligently, then our writing will progress because [[Learn in Public/Think/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]. 
+If we undertake this work diligently, then our writing will progress because [[Learn in Public/Think/'Serious Play' creates great work\|'Serious Play' creates great work]]. 
 
 <!--
 # Excalidraw Data

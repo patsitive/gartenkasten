@@ -1,8 +1,8 @@
 ---
-{"created":"2025-08-01T15:01","updated":"2025-08-31T13:05","noteIcon":1,"dg-publish":true,"dg-permalink":"1a4a-my-note-types","id":"1a4a","dg-path":"Think/Note types in MY gartenkasten.md","permalink":"/1a4a-my-note-types/","dgPassFrontmatter":true}
+{"created":"2025-08-01T15:01","updated":"2025-08-31T15:04","noteIcon":1,"dg-publish":true,"dg-permalink":"1a4a-my-note-types","id":"1a4a","dg-path":"Think/Note types in MY gartenkasten.md","permalink":"/1a4a-my-note-types/","dgPassFrontmatter":true}
 ---
 
-I previously thought about the [**Prev**:: [[Learn in Public/Think/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
+I previously thought about the [**Prev**:: [[Learn in Public/Think/Zettel as micro-essay\|Zettel as micro-essay]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
 
 These are the different notes in my [**source**:: [[Learn in Public/Welcome to Pat's gartenkasten\|Gartenkasten]]]: 
 

@@ -7,7 +7,7 @@
 
 I am not a great writer, but still I write. Words can pour out of me like a high-pressure shower or barely trickle like a painful pimple you've been squeezing close to infection. 
 
-I think I write because [[Learn in Public/Think/(1C) I am a reader\|(1C) I am a reader]] or hear something and want to respond. "I recognise you," my heart says. And I write something. "I hear you," it sings. And more words come. 
+I think I write because [[Learn in Public/Think/I am a reader\|I am a reader]] or hear something and want to respond. "I recognise you," my heart says. And I write something. "I hear you," it sings. And more words come. 
 
 I see connections both obvious and those tangled by half-hidden knots. And when you see them, you need to write it down. Or tell someone. 
 

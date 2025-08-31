@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-25T16:46","updated":"2025-08-31T13:22","id":"1a1a1b1a1","dg-permalink":"1a1a1b1a1-hustle-time-available","dg-publish":true,"dg-path":"Think/Your Hustle Time is for clients.md","permalink":"/1a1a1b1a1-hustle-time-available/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-25T16:46","updated":"2025-08-31T15:04","id":"1a1a1b1a1","dg-permalink":"1a1a1b1a1-hustle-time-available","dg-publish":true,"dg-path":"Think/Your Hustle Time is for clients.md","permalink":"/1a1a1b1a1-hustle-time-available/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Monaco[^Pricing] says, "Your hustle is either seeing clients or hustling to find clients". During your hustle hours, you're doing the work that pays the bills - i.e., you are literally getting paid in the moment for this work. 

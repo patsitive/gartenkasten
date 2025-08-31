@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-07T13:26","updated":"2025-08-30T15:29","dg-publish":true,"noteIcon":2,"dg-permalink":"think/3b2b2c2","id":"3b2b2c2","dg-path":"Think/(3B2B2C2) Scope of coaching outcomes on continuum.md","permalink":"/think/3b2b2c2/","dgPassFrontmatter":true}
+{"created":"2025-07-07T13:26","updated":"2025-08-31T13:48","dg-publish":true,"noteIcon":2,"dg-permalink":"3b2b2c2-coaching-outcomes","id":"3b2b2c2","dg-path":"Think/(3B2B2C2) Scope of coaching outcomes on continuum.md","permalink":"/3b2b2c2-coaching-outcomes/","dgPassFrontmatter":true}
 ---
 
 [**source**:: [[Learn in Public/Reference/@Trevillion2018ExecutiveCoachingOutcomes\|@Trevillion2018ExecutiveCoachingOutcomes]]] identifies the scope of coaching outcomes along a continuum, where: 
