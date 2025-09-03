@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-16T12:59","updated":"2025-08-31T13:44","dg-publish":true,"dg-permalink":"1a4-zettel-micro-essay","id":"1a4","dg-path":"Think/Zettel as micro-essay.md","permalink":"/1a4-zettel-micro-essay/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-16T12:59","updated":"2025-08-31T15:04","dg-publish":true,"dg-permalink":"1a4-zettel-micro-essay","id":"1a4","dg-path":"Think/Zettel as micro-essay.md","permalink":"/1a4-zettel-micro-essay/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Writers like Ahrens, Doto and Kadavy — who introduced Luhmann's zettelkasten to a new generation — describe a zettel as one note that expresses a singular, complete thought. 

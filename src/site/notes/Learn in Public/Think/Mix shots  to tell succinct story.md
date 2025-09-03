@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-01T15:23","updated":"2025-08-31T13:07","id":"1a1c","dg-permalink":"1a1c-story-shots-succinct","dg-publish":true,"dg-path":"Think/Mix shots  to tell succinct story.md","permalink":"/1a1c-story-shots-succinct/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-04-01T15:23","updated":"2025-08-31T15:04","id":"1a1c","dg-permalink":"1a1c-story-shots-succinct","dg-publish":true,"dg-path":"Think/Mix shots  to tell succinct story.md","permalink":"/1a1c-story-shots-succinct/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 According to [[Learn in Public/Reference/@greiss7TipsDocument2025\|@greiss7TipsDocument2025]], offering a mix of wide, medium and tight shots tell a story in simple form, because: 

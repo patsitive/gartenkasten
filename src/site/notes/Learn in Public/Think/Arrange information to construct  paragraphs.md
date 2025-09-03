@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-24T12:09","updated":"2025-08-30T18:54","aliases":["Modes of discourse (paragraphs)"],"id":"1a1a2","dg-permalink":"1a1a2-elements-paragraph","dg-publish":true,"dg-path":"Think/Arrange information to construct  paragraphs.md","permalink":"/1a1a2-elements-paragraph/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-24T12:09","updated":"2025-08-31T15:04","aliases":["Modes of discourse (paragraphs)"],"id":"1a1a2","dg-permalink":"1a1a2-elements-paragraph","dg-publish":true,"dg-path":"Think/Arrange information to construct  paragraphs.md","permalink":"/1a1a2-elements-paragraph/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Writing a body paragraph in an essay is a matter of arranging and rearranging [**Prev**::[[Learn in Public/Think/Elements of information\|Elements of information]]] to argue a point. 

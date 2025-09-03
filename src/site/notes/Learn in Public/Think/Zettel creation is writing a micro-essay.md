@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-09T20:40","updated":"2025-08-31T13:49","id":"1a2","dg-permalink":"1a2-zettel-micro-essay","dg-publish":true,"dg-path":"Think/Zettel creation is writing a micro-essay.md","permalink":"/1a2-zettel-micro-essay/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-09T20:40","updated":"2025-08-31T15:04","id":"1a2","dg-permalink":"1a2-zettel-micro-essay","dg-publish":true,"dg-path":"Think/Zettel creation is writing a micro-essay.md","permalink":"/1a2-zettel-micro-essay/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 In my practice, writing a zettel is like writing a micro-essay, insofar as the mechanics are the same: [**supports**:: [[Learn in Public/Think/(1C1) Read like a detective\|you start by reading]]], [**supports**:: [[Refactoring reflects ongoing progress\|you reflect and synthesise]]], then you [**supports**:: [[Learn in Public/Think/Writing depends on your ability to read\|express that thinking]]] as the [**example**:: [[Learn in Public/Think/Zettel as micro-essay\|complete zettel]]]. In this manner, [**supports**:: [[Learn in Public/Think/(1A3) We act out our identity\|(1A3) We act out our identity]]] as [**supports**:: [[Learn in Public/Think/Writers are made through writing and reading\|Writers are made through writing and reading]]]. Therefore, [**north**:: [[Creation is recursive\|Creation is recursive]]].

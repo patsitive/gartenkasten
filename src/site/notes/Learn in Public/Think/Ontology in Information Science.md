@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-15T07:32","updated":"2025-08-31T13:18","id":"1a1a1a1","dg-permalink":"1a1a1a1-ontology","dg-publish":true,"dg-path":"Think/Ontology in Information Science.md","permalink":"/1a1a1a1-ontology/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-04-15T07:32","updated":"2025-08-31T15:04","id":"1a1a1a1","dg-permalink":"1a1a1a1-ontology","dg-publish":true,"dg-path":"Think/Ontology in Information Science.md","permalink":"/1a1a1a1-ontology/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 In [[Information Science\|Information Science]], an ontology formally defines the conceptual conventions of entities: their properties and relationships to each other ([[Learn in Public/Reference/@guarinoWhatOntology2003\|@guarinoWhatOntology2003]]). An ontology answers the questions "what is this?" "what is it like?" and "how does it connect to other entities?" 

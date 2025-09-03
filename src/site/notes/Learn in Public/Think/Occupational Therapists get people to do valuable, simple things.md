@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-23T22:30","updated":"2025-08-31T13:36","id":"8a1","dg-permalink":"8a1-ot-simple-value","dg-publish":true,"dg-path":"Think/Occupational Therapists get people to do valuable, simple things.md","permalink":"/8a1-ot-simple-value/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-23T22:30","updated":"2025-08-31T15:04","id":"8a1","dg-permalink":"8a1-ot-simple-value","dg-publish":true,"dg-path":"Think/Occupational Therapists get people to do valuable, simple things.md","permalink":"/8a1-ot-simple-value/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Occupational Therapists identify the best interventions for a patient, taking into consideration their needs and situation. Since the goal is to help people live life successfully, OTs need to provide value through these interventions. 

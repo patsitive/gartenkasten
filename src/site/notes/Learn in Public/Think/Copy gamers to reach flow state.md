@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-30T17:46","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"1b2a-gamers-flow","id":"1b2a","dg-path":"Think/Copy gamers to reach flow state.md","permalink":"/1b2a-gamers-flow/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-03-30T17:46","updated":"2025-09-01T15:38","dg-publish":true,"dg-permalink":"1b2a-gamers-flow","id":"1b2a","dg-path":"Think/Copy gamers to reach flow state.md","permalink":"/1b2a-gamers-flow/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

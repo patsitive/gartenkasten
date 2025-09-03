@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-24T07:57","updated":"2025-08-31T13:30","id":"8a","dg-permalink":"8a-ot-practical-change","dg-publish":true,"dg-path":"Think/I am drawn to Occupational Therapy's practical approach to change.md","permalink":"/8a-ot-practical-change/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-24T07:57","updated":"2025-08-31T15:04","id":"8a","dg-permalink":"8a-ot-practical-change","dg-publish":true,"dg-path":"Think/I am drawn to Occupational Therapy's practical approach to change.md","permalink":"/8a-ot-practical-change/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 I am motivated to become an Occupational Therapist because of its model of using practical interventions to create lasting, impactful change. 
