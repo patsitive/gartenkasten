@@ -12,10 +12,4 @@ I use this tag hierarchy to support this:
 3. custom (descriptive): `<user-profile><game-over><lotto-ticket>`
 4. generic containers [[Learn in Public/Think/Prefer div and span as last resort\|when nothing else works]]: `<div><span>`
 
-Reasons: 
-- this order prioritises semantics and structure over other aspects
-- human readability 
-- custom html tags are standard
-- no semantic loss: custom tags at least tell humans what's inside (in theory)
-
-In other words, I agree with [replacing divs with custom elements](https://matthewjamestaylor.com/div-custom-elements)  
+This order prioritises semantics and structure over other aspects and aims to be accessible and SEO-friendly. 

@@ -7,8 +7,8 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/HTML tag hierarchy\|HTML tag hierarchy]]: 1:24 PM - September 04, 2025
-- [[Learn in Public/Think/Prefer div and span as last resort\|Prefer div and span as last resort]]: 1:19 PM - September 04, 2025
+- [[Learn in Public/Think/Prefer div and span as last resort\|Prefer div and span as last resort]]: 1:31 PM - September 04, 2025
+- [[Learn in Public/Think/HTML tag hierarchy\|HTML tag hierarchy]]: 1:31 PM - September 04, 2025
 - [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]: 1:19 PM - September 04, 2025
 - [[Learn in Public/Think/Copy gamers to reach flow state\|Copy gamers to reach flow state]]: 3:38 PM - September 01, 2025
 - [[Learn in Public/Think/I am a reader\|I am a reader]]: 3:38 PM - September 01, 2025
