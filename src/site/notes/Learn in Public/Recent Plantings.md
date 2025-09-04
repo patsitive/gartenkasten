@@ -7,6 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Think/(1A3A) Shift your identity by changing your actions\|(1A3A) Shift your identity by changing your actions]]: 1:58 PM - September 04, 2025
 - [[Learn in Public/Think/Prefer semantic links between notes\|Prefer semantic links between notes]]: 1:40 PM - September 04, 2025
 - [[Learn in Public/Think/Compass of Thoughts can generate ideas or connections\|Compass of Thoughts can generate ideas or connections]]: 1:40 PM - September 04, 2025
 - [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]: 1:34 PM - September 04, 2025
@@ -21,7 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/(1B2A1A) Change how you wash dishes to strengthen your executive function\|(1B2A1A) Change how you wash dishes to strengthen your executive function]]: 10:50 AM - September 01, 2025
 - [[Learn in Public/Think/Academic writing is conversation\|Academic writing is conversation]]: 10:48 AM - September 01, 2025
 - [[Learn in Public/Think/I am a writer\|I am a writer]]: 10:48 AM - September 01, 2025
-- [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]: 10:48 AM - September 01, 2025
 
 { .block-language-dataview}
 
