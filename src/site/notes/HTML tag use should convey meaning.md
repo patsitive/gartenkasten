@@ -5,9 +5,9 @@
 HTML defines structure and meaning of web content, so our use of HTML tags should support this. 
 
 I use this tag hierarchy to support this: 
-1. semantic: `<aside><article><nav><h3><figure>`
+1. semantic: `<aside><article><nav><figure>`
 2. structural: `<p><ul><table>`
-3. custom (describing contents): `<user-profile><game-over><lotto-ticket>`
+3. custom (descriptive): `<user-profile><game-over><lotto-ticket>`
 4. generic containers [[prefer div and span as last resort\|when nothing else works]]: `<div><span>`
 
 Reasons: 
