@@ -7,6 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Think/(5A1A1) POSSE\|(5A1A1) POSSE]]: 11:32 AM - September 05, 2025
 - [[Learn in Public/Think/Prefer work I can leave at work\|Prefer work I can leave at work]]: 11:20 AM - September 05, 2025
 - [[Learn in Public/Think/Prefer semantic links between notes\|Prefer semantic links between notes]]: 2:59 PM - September 04, 2025
 - [[Learn in Public/Think/Creation is recursive\|Creation is recursive]]: 2:59 PM - September 04, 2025
@@ -21,7 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/If a task isn't getting done, it isn't 'ease-y' enough\|If a task isn't getting done, it isn't 'ease-y' enough]]: 3:38 PM - September 01, 2025
 - [[Learn in Public/Think/(1B1) Short-Term Deadlines Create Urgency\|(1B1) Short-Term Deadlines Create Urgency]]: 10:50 AM - September 01, 2025
 - [[Learn in Public/Think/(1B2) Gamers Easily Reach Flow State\|(1B2) Gamers Easily Reach Flow State]]: 10:50 AM - September 01, 2025
-- [[Learn in Public/Think/(1B2A1A) Change how you wash dishes to strengthen your executive function\|(1B2A1A) Change how you wash dishes to strengthen your executive function]]: 10:50 AM - September 01, 2025
 
 { .block-language-dataview}
 
