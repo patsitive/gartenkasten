@@ -7,9 +7,12 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Think/Prefer semantic links between notes\|Prefer semantic links between notes]]: 1:40 PM - September 04, 2025
+- [[Learn in Public/Think/Compass of Thoughts can generate ideas or connections\|Compass of Thoughts can generate ideas or connections]]: 1:40 PM - September 04, 2025
+- [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]: 1:34 PM - September 04, 2025
+- [[Learn in Public/Think/Ontology in Information Science\|Ontology in Information Science]]: 1:34 PM - September 04, 2025
 - [[Learn in Public/Think/Prefer div and span as last resort\|Prefer div and span as last resort]]: 1:31 PM - September 04, 2025
 - [[Learn in Public/Think/HTML tag hierarchy\|HTML tag hierarchy]]: 1:31 PM - September 04, 2025
-- [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]: 1:19 PM - September 04, 2025
 - [[Learn in Public/Think/Copy gamers to reach flow state\|Copy gamers to reach flow state]]: 3:38 PM - September 01, 2025
 - [[Learn in Public/Think/I am a reader\|I am a reader]]: 3:38 PM - September 01, 2025
 - [[Learn in Public/Think/If a task isn't getting done, it isn't 'ease-y' enough\|If a task isn't getting done, it isn't 'ease-y' enough]]: 3:38 PM - September 01, 2025
@@ -19,9 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/Academic writing is conversation\|Academic writing is conversation]]: 10:48 AM - September 01, 2025
 - [[Learn in Public/Think/I am a writer\|I am a writer]]: 10:48 AM - September 01, 2025
 - [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]: 10:48 AM - September 01, 2025
-- [[Learn in Public/Think/(2A1B2C) Change food inputs to boost satiety\|(2A1B2C) Change food inputs to boost satiety]]: 10:48 AM - September 01, 2025
-- [[Learn in Public/Create/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 10:47 AM - September 01, 2025
-- [[Learn in Public/Think/Writers are made through writing and reading\|Writers are made through writing and reading]]: 10:47 AM - September 01, 2025
 
 { .block-language-dataview}
 
