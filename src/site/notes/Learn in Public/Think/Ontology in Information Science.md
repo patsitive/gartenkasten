@@ -20,4 +20,4 @@ doi = {10.1007/978-3-540-92673-3}
 
 I thin, the above reference can be considered an example of an ontological expression? In BibTex, a book is defined as an entity with the properties of author, year, etc. Relationships to other books can be expressed using these properties. What other books have Staab and Studer authored? What other books were published in the same year? 
 
-Elaborating on ontology or requiring [[Links between notes are semantic\|semantic links]] supports the practice of [**Prev**:: [[Learn in Public/Think/Personal Knowledge Management\|PKM]]].
+Elaborating on ontology or requiring [[Learn in Public/Think/Links between notes are semantic\|semantic links]] supports the practice of [**Prev**:: [[Learn in Public/Think/Personal Knowledge Management\|PKM]]].
