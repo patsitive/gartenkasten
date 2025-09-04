@@ -2,7 +2,7 @@
 {"created":"2025-09-04T13:01","updated":"2025-09-04T13:22","id":"17b","dg-permalink":"17b-html-hierarchy","dg-publish":true,"dg-path":"Think/HTML tag hierarchy.md","permalink":"/17b-html-hierarchy/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-[[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]] because HTML defines structure and meaning of web content.
+[**Prev**:: [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]] because HTML defines structure and meaning of web content.
 
 So why keep using `<div>` and `<span>`? 🤔
 
