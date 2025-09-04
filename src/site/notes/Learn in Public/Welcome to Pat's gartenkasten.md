@@ -22,7 +22,7 @@ Gartenkasten is my whimsical portmanteau of these two thinking and writing model
 (Notice how the term is German—and I _don't_ speak it—so I've skipped the 'digital' part 😅 German, I love you for your elegant modularity 💕)
 
 **Why make a new term?**
-[**Prev**:: [[Perennial nature of gartenkasten feels freeing\|Perennial nature of gartenkasten feels freeing]]]
+[**Prev**:: [[Learn in Public/Think/Perennial nature of gartenkasten feels freeing\|Perennial nature of gartenkasten feels freeing]]]
 
 </div></div>
 
