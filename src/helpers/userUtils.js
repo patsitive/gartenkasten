@@ -49,6 +49,11 @@ const noteLabels = {
 
 function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
+
+  const filteredNotes = data.collections.note.filter((n) => {
+    return !n.filePath.includes("notes/Slices/");
+  });
+  
   const canvasTrees = data.collections.note.map((n) => {
     let rawIcon = n.data.noteIcon;
     let height = 2;
