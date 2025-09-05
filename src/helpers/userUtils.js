@@ -51,7 +51,7 @@ function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
 
   const filteredNotes = data.collections.note.filter((n) => {
-    return !n.inputPath.includes("notes/Slices/");
+    return !n.inputPath.includes("Slices/");
   });
   
   const canvasTrees = data.collections.note.map((n) => {
