@@ -1,8 +1,8 @@
 ---
-{"created":"2025-05-30T12:59","updated":"2025-08-30T16:00","dg-publish":true,"dg-permalink":"3b1c-coaching-definition-purpose","id":"3b1c","dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/3b1c-coaching-definition-purpose/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T12:59","updated":"2025-09-06T14:00","dg-publish":true,"dg-permalink":"3b1c-coaching-definition-purpose","id":"3b1c","dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/3b1c-coaching-definition-purpose/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-The [[Learn in Public/Think/Coaching\|Definition of coaching]] can't seem to be extricated from the [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]] because [[Learn in Public/Think/(3B8) Coaching is future focussed\|(3B8) Coaching is future focussed]] and as a result how you describe what it is almost always talks about what it is meant to do. 
+The [[Learn in Public/Think/Coaching\|Definition of coaching]] can't seem to be extricated from the [[Learn in Public/Think/Purpose of coaching\|Purpose of coaching]] because [[Learn in Public/Think/(3B8) Coaching is future focussed\|(3B8) Coaching is future focussed]] and as a result how you describe what it is almost always talks about what it is meant to do. 
 
 Here's how I have defined coaching: 
 [[Learn in Public/Think/Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.\|Coaching#Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, and use their own agency to make meaningful progress.]]
@@ -16,6 +16,6 @@ However, if you describe something like basketball, you could say it is a ball s
 
 But you cannot divorce coaching from the purpose of empowering change. Without change, it is no longer coaching. 
 
-**Prev**:: [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]]
+**Prev**:: [[Learn in Public/Think/Purpose of coaching\|Purpose of coaching]]
 
 #zettel/need-analog 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-18T03:28","updated":"2025-08-30T18:47","dg-publish":true,"aliases":["Definition of coaching","Coaching definition"],"dg-permalink":"3b-coaching","id":"3b","dg-path":"Think/Coaching.md","permalink":"/3b-coaching/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-03-18T03:28","updated":"2025-09-06T14:00","dg-publish":true,"aliases":["Definition of coaching","Coaching definition"],"dg-permalink":"3b-coaching","id":"3b","dg-path":"Think/Coaching.md","permalink":"/3b-coaching/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ## Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, to make meaningful progress, of their own volition.  
@@ -24,7 +24,7 @@ This is my definition of coaching, that I have developed by engaging with litera
 
 - Related connections: 
 	- ==**origin**:: [[Learn in Public/Think/How I learned coaching\|How I learned coaching]]==
-	- **supports**:: [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]]
+	- **supports**:: [[Learn in Public/Think/Purpose of coaching\|Purpose of coaching]]
 	- **child**:: [[Learn in Public/Think/(3B1C) Coaching definition and purpose are intertwined\|(3B1C) Coaching definition and purpose are intertwined]]
 
  
