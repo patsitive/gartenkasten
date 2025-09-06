@@ -2,7 +2,7 @@
 {"created":"2025-04-22T11:31","updated":"2025-08-30T19:04","dg-publish":true,"noteIcon":2,"dg-permalink":"1a1a1b1a-interstitial-journal-plan","id":"1a1a1b1a","dg-path":"Think/Interstitial journal to proactively plan.md","permalink":"/1a1a1b1a-interstitial-journal-plan/","dgPassFrontmatter":true}
 ---
 
-In keeping an [**Parent**:: [[Interstitial Journaling\|Interstitial Journaling]]] practice, one keeps a running record of daily life by recording logs that state the __current time__ and **description**. 
+In keeping an [**Parent**:: [[Learn in Public/Think/Interstitial Journaling\|Interstitial Journaling]]] practice, one keeps a running record of daily life by recording logs that state the __current time__ and **description**. 
 
 I initially believed that this definition meant that interstitial journaling can only be used retrospectively: to log what has already happened. 
 
