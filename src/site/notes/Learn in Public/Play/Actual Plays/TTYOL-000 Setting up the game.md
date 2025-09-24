@@ -1,6 +1,9 @@
 ---
-{"dg-permalink":"ttyol-000","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"ttyol-000","dg-publish":true,"created":"2025-09-24T19:34","updated":"2025-09-24T20:35","dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_11q7e3NX00?si=h8vAgQdK5o0cP620" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 🎲 COZY SOLO RPG ACTUAL PLAY ✨ 
 
