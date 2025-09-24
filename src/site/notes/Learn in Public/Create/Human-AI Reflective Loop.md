@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-12T20:09","updated":"2025-08-25T10:07","dg-publish":true,"dg-path":"Create/Human-AI Reflective Loop.md","permalink":"/create/human-ai-reflective-loop/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-12T20:09","updated":"2025-09-09T10:54","dg-publish":true,"dg-path":"Create/Human-AI Reflective Loop.md","permalink":"/create/human-ai-reflective-loop/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ![Human-AI Reflective Loop-1752376096262.png](/img/user/Resources/Attachments/Human-AI%20Reflective%20Loop-1752376096262.png)
 
-The **Human** user provides _input_ in the form of prompts. Prompts can be strengthened by providing more information when answering Kipling's 5W1H for AI prompting. The prompt asks the LLM "Can you" do one of Bloom's higher-order thinking skills (CEAAUR). 
+The **Human** user provides _input_ in the form of prompts. Prompts can be strengthened by providing more information when answering Kipling's [[Learn in Public/Think/Kipling Method\|5W1H]] for AI prompting. The prompt asks the LLM "Can you" do one of Bloom's higher-order thinking skills (CEAAUR). 
 
 The **AI** model responds by creating _output_. The generated output is computed using the prompt. Higher quality prompts lead to more targeted output, taking into consideration Kipling's 5W1H for AI output generation. The AI answers the input "I did" one of Bloom's higher-order thinking skills. 
 

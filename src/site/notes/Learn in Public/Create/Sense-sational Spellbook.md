@@ -7,7 +7,7 @@
 
 ## Properties 
 
-- date:: [[2025-09-10\|2025-09-10]]
+- date:: [[Slices/2025-09-10\|2025-09-10]]
 - time_spent:: 09:30-17:50 = 8 hours 20 minutes??? But minus many frequent breaks... so take off 2 hours...?
 - format:: PDF
 - url:: [Link or file path]

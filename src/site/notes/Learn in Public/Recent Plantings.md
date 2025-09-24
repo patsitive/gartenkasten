@@ -7,21 +7,21 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]: 8:27 PM - September 24, 2025
+- [[Learn in Public/Play/Actual Plays/TTYOL-000 Setting up the game\|TTYOL-000 Setting up the game]]: 8:22 PM - September 24, 2025
+- [[Learn in Public/Play/Actual Plays/TTYOL-001 Let's make a deal\|TTYOL-001 Let's make a deal]]: 7:36 PM - September 24, 2025
+- [[Learn in Public/Play/Resources/TTYOC Worldbuilding\|TTYOC Worldbuilding]]: 7:30 PM - September 24, 2025
+- [[Learn in Public/Think/I am a writer\|I am a writer]]: 9:14 AM - September 19, 2025
+- [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]: 9:09 AM - September 19, 2025
+- [[Learn in Public/Create/Human-AI Reflective Loop\|Human-AI Reflective Loop]]: 11:31 AM - September 09, 2025
+- [[Learn in Public/Think/Change food inputs to boost satiety\|Change food inputs to boost satiety]]: 12:20 PM - September 07, 2025
+- [[Learn in Public/Think/Knowledge\|Knowledge]]: 5:49 AM - September 07, 2025
+- [[Learn in Public/Think/Personal Knowledge Management\|Personal Knowledge Management]]: 5:25 AM - September 07, 2025
+- [[Learn in Public/Think/Confidence is a verb\|Confidence is a verb]]: 2:21 PM - September 06, 2025
 - [[Learn in Public/Reference/@ConventionalCommits\|@ConventionalCommits]]: 2:14 PM - September 06, 2025
 - [[Learn in Public/Think/Purpose of coaching\|Purpose of coaching]]: 2:00 PM - September 06, 2025
 - [[Learn in Public/Think/Coaching\|Coaching]]: 2:00 PM - September 06, 2025
 - [[Learn in Public/Think/(3B1C) Coaching definition and purpose are intertwined\|(3B1C) Coaching definition and purpose are intertwined]]: 2:00 PM - September 06, 2025
-- [[Learn in Public/Think/Change food inputs to boost satiety\|Change food inputs to boost satiety]]: 1:58 PM - September 06, 2025
-- [[Learn in Public/Think/Interstitial Journaling\|Interstitial Journaling]]: 1:56 PM - September 06, 2025
-- [[Learn in Public/Think/(3B6A2) Life coaching clients seek fit over experience\|(3B6A2) Life coaching clients seek fit over experience]]: 2:08 PM - September 05, 2025
-- [[Learn in Public/Think/(5A1A1) POSSE\|(5A1A1) POSSE]]: 11:32 AM - September 05, 2025
-- [[Learn in Public/Think/Prefer work I can leave at work\|Prefer work I can leave at work]]: 11:20 AM - September 05, 2025
-- [[Learn in Public/Think/Prefer semantic links between notes\|Prefer semantic links between notes]]: 2:59 PM - September 04, 2025
-- [[Learn in Public/Think/Creation is recursive\|Creation is recursive]]: 2:59 PM - September 04, 2025
-- [[Learn in Public/Think/HTML tag hierarchy\|HTML tag hierarchy]]: 2:59 PM - September 04, 2025
-- [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]: 2:59 PM - September 04, 2025
-- [[Learn in Public/Think/Prefer div and span as last resort\|Prefer div and span as last resort]]: 2:59 PM - September 04, 2025
-- [[Learn in Public/Think/(1A3A) Shift your identity by changing your actions\|(1A3A) Shift your identity by changing your actions]]: 1:58 PM - September 04, 2025
 
 { .block-language-dataview}
 

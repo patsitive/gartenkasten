@@ -5,7 +5,7 @@
 > The path to depth is sometimes iterative and not the result of major leaps. I call that the Good Life Algorithm
 - @Cal Newport [youtube video [[2025-05-30\|2025-05-30]]]
 
-[**example**:: [[Career Capital Pathway Map\|The Life]]] you want is [**supports**:: [[Learn in Public/Think/My daily actions and thoughts cultivate my garden of identity\|built brick by brick]], or painted stroke by stroke. [**supports**:: [[Learn in Public/Think/(5A2A) Take Small Visible Actions\|Moving in the desired or optimal direction]]] consistently can be more important than making leaps and bounds toward a destination that unknowingly may not be what you want. 
+[**example**:: [[Resources/Career Capital Pathway Map\|The Life]]] you want is [**supports**:: [[Learn in Public/Think/My daily actions and thoughts cultivate my garden of identity\|built brick by brick]], or painted stroke by stroke. [**supports**:: [[Learn in Public/Think/(5A2A) Take Small Visible Actions\|Moving in the desired or optimal direction]]] consistently can be more important than making leaps and bounds toward a destination that unknowingly may not be what you want. 
 
 Similar: Everything, Everywhere All At Once 
 

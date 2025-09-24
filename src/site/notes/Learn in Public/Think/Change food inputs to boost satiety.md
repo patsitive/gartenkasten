@@ -1,10 +1,10 @@
 ---
-{"created":"2025-07-13T20:46","updated":"2025-09-01T10:48","dg-publish":true,"dg-permalink":"2a1b2c-input-satiety","id":"2a1b2c","dg-path":"Think/Change food inputs to boost satiety.md","permalink":"/2a1b2c-input-satiety/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-13T20:46","updated":"2025-09-07T12:20","dg-publish":true,"dg-permalink":"2a1b2c-input-satiety","id":"2a1b2c","dg-path":"Think/Change food inputs to boost satiety.md","permalink":"/2a1b2c-input-satiety/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 I get hungry fast and often, despite eating what seems like a lot of food. There's a lot of 'food noise' that goes on in my head. I would like the noise to quiet down, and to do that, I think I need my stomach to feel full longer (without gorging myself). It's important that I work on my health because you [**Prev**:: [[Learn in Public/Think/(2A1B2) Care For Yourself\|(2A1B2) Care For Yourself]]]. 
 
-According to [[ChatGPT MoC\|ChatGPT MoC]], there's a rule of 5 to help with that
+According to [[Resources/ChatGPT LLM MoC\|ChatGPT LLM MoC]], there's a rule of 5 to help with that
 - protein
 - fibre 
 - healthy fats 
