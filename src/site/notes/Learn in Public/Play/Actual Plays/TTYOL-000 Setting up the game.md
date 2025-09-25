@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"ttyol-000","dg-publish":true,"created":"2025-09-24T19:34","updated":"2025-09-24T20:35","dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"ttyol-000","dg-publish":true,"created":"2025-09-24T19:34","updated":"2025-09-24T22:35","dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -32,11 +32,22 @@ Ngā mihi nui, Pat
 
 --- 
 
-## Tea Time with your Orc Lover 
+## Tea Time with your Orc Lover  Episode 0
 
 Systems: 
 - [Wandering Tea Garden by AP](https://ap-cartography.itch.io/the-wandering-tea-garden)
 - [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
+
+What I got up to: 
+- Understanding the rules of Wandering Tea Garden and Iron Valley 
+- What is Solo RPG, what about TTRPG? What do I even know? 
+- Set-up! 
+	- What are the World Truths? [[Learn in Public/Play/Resources/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+	- What are your Player Character Truths? [[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]]
+	- What are Sampaguita's Starting Promises? [[Learn in Public/Play/Resources/TTYOL-Promise Tracker-Sampaguita\|TTYOL-Promise Tracker-Sampaguita]]
+- Tangent about ISO-8061
+- Tangent about executive function 
+- Tangent about sampaguita flowers and random Filipino lore
 
 Interesting links: 
 - [Tips for playing Solo RPGs as a newbie by Man Alone](https://youtu.be/fZbr9Id1Zlw?si=Hfd0G6F0TGCMuiMa)
@@ -47,4 +58,5 @@ Interesting links:
 	- [The magical ISO-8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 	- [Executive function strategies for adults](https://theadultspeechtherapyworkbook.com/executive-functioning-activities-for-adults/)
 
-**One-stop shop for TTYOL Playthrough: [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]**
+> [!note] **One-stop shop for TTYOL Playthrough: [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]**
+

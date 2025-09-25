@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-23T16:06","updated":"2025-09-24T06:33","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-23T16:06","updated":"2025-09-24T22:35","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 > Entry worked on: 
@@ -24,7 +24,7 @@ Location: {Oracle This}
 
 Sampaguita paid the gnome no mind, stepping into the carriage. In her experience, doors tended to stick more than not or couldn't be trusted to stay shut. Inside, she took stock of the rounded space with its sloped ceiling and curved walls. On the far wall was a large window with stained glass extending nearly from corner to corner. What little winter sun was available streamed in, bathing the space in a warm glow and rainbow hues. Beneath the window lay a solid wood cabinet with many drawers. To its right was a plush seat.
 
-"That pulls out into your bed," declared the [[Learn in Public/Play/Resources/TTYOC NPCs#Bayabas (Merchant Gnome)\|gnome]], as he shut the door behind him. Surprisingly, there was plenty of room for the two of them. He stepped past Sampaguita and tugged at the seat cushion. "It goes like— well, it goes like," he huffed, pulling at something under the seat. 
+"That pulls out into your bed," declared the [[Learn in Public/Play/Resources/TTYOL NPCs#Bayabas (Merchant Gnome)\|gnome]], as he shut the door behind him. Surprisingly, there was plenty of room for the two of them. He stepped past Sampaguita and tugged at the seat cushion. "It goes like— well, it goes like," he huffed, pulling at something under the seat. 
 
 Cocking her head, Sampaguita easily lifted the cushion for him. "Thanks," chirped the gnome, before he unfolded hinged wooden slats. The merchant patted at the wood base. "Now the bedding," he declared, pointing meaningfully at the thick material Sampaguita held. She tugged at it, and the material unfurled to reveal its new form as a mattress. 
 
