@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-23T16:06","updated":"2025-09-26T09:45","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-23T16:06","updated":"2025-09-26T10:26","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -9,16 +9,11 @@
 
 ### Welcome to my Actual Play!
 
-
 OMG hi, kia ora and mabuhay, fellow nerd! 
 
-This Actual Play episode page is organised by mode of interaction: 
-- WATCH or LISTEN: Check out the embedded Youtube video where I talk through my Actual Play and share my computer screen. It's the chatty version. 🎙️
-- READ (or LISTEN via screen reader): Check out the textual version, where I write out the game as if I'm writing a novel 😂
+This is an Actual Play, which means it is a log of me roleplaying a tabletop game. I'm sharing my Actual Plays because I thought it would be fun for people to join me on my fictional adventures. 
 
-Sooo... pick your poison! I know I have different preferences, based on mood hehe. 
-
-There's also a reflection section because I like that sort of thing lol! 
+Maybe these logs will entertain you, give you ideas or make you want to send me irate emails—maybe I messed up a rule? ignored something obvious?!—whatever it might be, I hope you get something out of me sharing with the ~internet~. 
 
 
 </div></div>
@@ -43,6 +38,28 @@ Look out, world! Sampaguita is on her way.
 </div></div>
 
 > > This actual play series will be **written in third-person prose and 'performed' on video by the roleplayer**. Roleplay game elements like dice rolls, Oracle pulls, and roleplayer comments will be denoted through callouts with emojis to specify type. (I like emojis! 💗)
+
+</div></div>
+
+
+--- 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+### Interaction Modes 
+**This Actual Play episode page is typically organised by mode of interaction:**
+- WATCH or LISTEN: Check out the embedded Youtube video where I talk through my Actual Play and share my computer screen. It's the chatty version. 🎙️
+- READ (or LISTEN via screen reader): Check out the textual version, where I write out the game as if I'm writing a novel 😂
+
+Sooo... pick your poison! I know I have different preferences, based on mood hehe. 
+
+There's also a reflection section because I like that sort of thing lol! 
+
+If it's missing one of these modes, either I messed up my templates 🫠 or I changed what modes I offer for this adventure at some point during the campaign/playthrough 🤔. 
+
 
 </div></div>
 
