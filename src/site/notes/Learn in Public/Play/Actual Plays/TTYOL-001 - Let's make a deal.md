@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-23T16:06","updated":"2025-09-26T10:40","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-23T16:06","updated":"2025-09-26T17:15","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -31,7 +31,7 @@ Maybe these logs will entertain you, give you ideas or make you want to send me 
 
 
 > [!note] Roleplay theme
-[[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
+[[Learn in Public/Play/Resources/Player Characters/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
 On the journey for new tea blends, new friends, new experiences and new places, maybe she'll find her **'special someone'** too.  
 Look out, world! Sampaguita is on her way. 
 _[[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] is an adventure set in the Iron Valley and Wandering Tea Garden TTRPG systems._
@@ -136,7 +136,7 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 
 > [!info]- **📌 Location**: STILL NEED TO FLESH IT OUT—add to [[Learn in Public/Play/Resources/TTYOL-All Locations\|TTYOL-All Locations]]
 
-[[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]] pulled the door open, yanking at it with more force than needed. She found herself off-balance, her midnight black hair thrown back suddenly. The woman held fast to the wood, steadying herself and smoothing out her wide blue skirts. 
+[[Learn in Public/Play/Resources/Player Characters/Character-Sampaguita\|Sampaguita]] pulled the door open, yanking at it with more force than needed. She found herself off-balance, her midnight black hair thrown back suddenly. The woman held fast to the wood, steadying herself and smoothing out her wide blue skirts. 
 
 "I told you it's in good condition," chided a sour voice. 
 

@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-09-06T14:13","type":"website","status":"Stub","created":"2024-10-28T14:29","dg-publish":true,"dg-path":"Reference/@ConventionalCommits.md","permalink":"/reference/conventional-commits/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"updated":"2025-09-06T14:14","type":"website","status":"Stub","created":"2024-10-28T14:29","dg-publish":true,"dg-path":"Reference/@ConventionalCommits.md","permalink":"/reference/conventional-commits/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

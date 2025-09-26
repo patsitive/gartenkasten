@@ -26,7 +26,7 @@ Create tension and conflict by having 3 different NPCs with opposing motivations
 
 As at [[Slices/2025-09-25\|2025-09-25]], I am toying with this idea in the [[Learn in Public/Play/Making Space for You\|Making Space for You]] adventure: 
 - [[Learn in Public/Play/Resources/TTYOL NPCs#Makisig (Dwarf)\|Makisig]] wants to reopen the closed down mine.
-- [[Learn in Public/Play/Resources/TTYOL NPCs#Eskama (Human Aunt)\|Aunt Eskama]] is supporting [[Learn in Public/Play/Resources/Character-Amaya\|Amaya's]] as-yet unnamed love interest to petition the government to pay reparations for previous handling of mine that has contributed to the landslide that killed love interest's family and wrecked said love interest's home 
+- [[Learn in Public/Play/Resources/TTYOL NPCs#Eskama (Human Aunt)\|Aunt Eskama]] is supporting [[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Amaya's]] as-yet unnamed love interest to petition the government to pay reparations for previous handling of mine that has contributed to the landslide that killed love interest's family and wrecked said love interest's home 
 - ??? needs a third conflicting motivation hmmm
 #### 5x5
 

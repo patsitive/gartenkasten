@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Play/Making Space for You.md","permalink":"/play/making-space-for-you/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"created":"2025-09-26T13:50","updated":"2025-09-26T13:24","dg-path":"Play/Making Space for You.md","permalink":"/play/making-space-for-you/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
+
+![game-ironvalley.png](/img/user/Learn%20in%20Public/Play/Resources/game-ironvalley.png) 
 
 ## Plot synopsis 
 
@@ -25,7 +27,7 @@ Systems of gameplay:
 
 ### World 
 
-[[Learn in Public/Play/Resources/Character-Amaya\|Character-Amaya]]
+[[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Character-Amaya]]
 
 [[Learn in Public/Play/Resources/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
 [[Learn in Public/Play/Resources/TTYOL NPCs\|TTYOL NPCs]]

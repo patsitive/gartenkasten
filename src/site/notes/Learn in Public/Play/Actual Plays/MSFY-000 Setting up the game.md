@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"msfy-000","dg-publish":true,"created":"2025-09-25T10:40","updated":"2025-09-25T16:50","dg-path":"Play/Actual Plays/MSFY-000 Setting up the game.md","permalink":"/msfy-000/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"msfy-000","dg-publish":true,"created":"2025-09-25T10:40","updated":"2025-09-26T13:01","dg-path":"Play/Actual Plays/MSFY-000 Setting up the game.md","permalink":"/msfy-000/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -135,7 +135,7 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 - I decided on some Character Truths for my character
 - Character Truth: Amaya is feminine and uses she/her pronouns 
 	- **💭 Commentary:** I decided this—no rolls! 
-- Character Truth: Character name is [[Learn in Public/Play/Resources/Character-Amaya\|Amaya]]
+- Character Truth: Character name is [[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Amaya]]
 	- **🔮 Oracle:** Question: What is my character's name?
 	- - Oracle type: Rolled from [Filipino name generator](https://www.fantasynamegenerators.com/filipino-names.php)
 	- - Result: There were a lot! So I picked one I liked
@@ -185,11 +185,11 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 		- Inquire — As an overthinker _and_ people pleaser, Amaya has learned the art of asking in a way that people _want_ to answer. This is the upgraded skill. 
 		- Creature handling — While Dad specialised in caring for holy pigeons, there was no shortage of animals needing help in the city. She knows exactly how to lift safely and strongly. The best part? Animals love unconditionally. 
 	- **💭 Commentary:**  Amaya is going to need to get satisfaction fast because she will need to repair the house ahahaha, ahhh this entertains me
-- Starting Promise - town setting: [[Learn in Public/Play/Resources/MSFY-Promise Tracker-Amaya#Find out what caused Aurora to get so rundown (6)\|Find out what caused Aurora to get so rundown (6)]] 
+- Starting Promise - town setting: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Find out what caused Aurora to get so rundown (6)\|Find out what caused Aurora to get so rundown (6)]] 
 	- **💭 Commentary:** Since I decided that Aurora is a rundown place, I think this makes sense.  
-- Starting Promise - where you're staying: [[Learn in Public/Play/Resources/MSFY-Promise Tracker-Amaya#Fix up Aunt's old house (5)\|Fix up Aunt's old house (5)]]
+- Starting Promise - where you're staying: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Fix up Aunt's old house (5)\|Fix up Aunt's old house (5)]]
 	- **💭 Commentary:** I borrowed this one from the guidebook! I thought it made sense given the condition of Aurora that her aunt's house also needs fixing up. 
-- Starting Promise - reason you're moving to Aurora: [[Learn in Public/Play/Resources/MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)]]
+- Starting Promise - reason you're moving to Aurora: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)]]
 	- **💭 Commentary:**  Uhhh... Amaya knew about the invitation 3 years ago. So I need to think about why she's moving _now_
 	- **🔮 Oracle:** Question: Why is she moving now??
 	- - Oracle type: Tarot card pull

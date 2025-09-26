@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-26T07:11","updated":"2025-09-26T08:50","noteIcon":"signpost","dg-publish":true,"id":"1b2a2","dg-permalink":"1b2a2-why-rpg-log-key","dg-path":"Think/Why have visual keys for roleplay Actual Play logs.md","permalink":"/1b2a2-why-rpg-log-key/","dgPassFrontmatter":true}
+{"created":"2025-09-26T07:11","updated":"2025-09-26T17:15","noteIcon":"signpost","dg-publish":true,"id":"1b2a2","dg-permalink":"1b2a2-why-rpg-log-key","dg-path":"Think/Why have visual keys for roleplay Actual Play logs.md","permalink":"/1b2a2-why-rpg-log-key/","dgPassFrontmatter":true}
 ---
 
 

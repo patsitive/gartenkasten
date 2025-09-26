@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"ttyol-000","dg-publish":true,"created":"2025-09-24T19:34","updated":"2025-09-26T10:24","dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"ttyol-000","dg-publish":true,"created":"2025-09-24T19:34","updated":"2025-09-26T10:39","dg-path":"Play/Actual Plays/TTYOL-000 Setting up the game.md","permalink":"/ttyol-000/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -31,7 +31,7 @@ Maybe these logs will entertain you, give you ideas or make you want to send me 
 
 
 > [!note] Roleplay theme
-[[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
+[[Learn in Public/Play/Resources/Player Characters/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
 On the journey for new tea blends, new friends, new experiences and new places, maybe she'll find her **'special someone'** too.  
 Look out, world! Sampaguita is on her way. 
 _[[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] is an adventure set in the Iron Valley and Wandering Tea Garden TTRPG systems._
@@ -130,8 +130,8 @@ What I got up to:
 - What is Solo RPG, what about TTRPG? What do I even know? 
 - Set-up! 
 	- What are the World Truths? [[Learn in Public/Play/Resources/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
-	- What are your Player Character Truths? [[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]]
-	- What are Sampaguita's Starting Promises? [[Learn in Public/Play/Resources/TTYOL-Promise Tracker-Sampaguita\|TTYOL-Promise Tracker-Sampaguita]]
+	- What are your Player Character Truths? [[Learn in Public/Play/Resources/Player Characters/Character-Sampaguita\|Sampaguita]]
+	- What are Sampaguita's Starting Promises? [[Learn in Public/Play/Resources/Player Characters/TTYOL-Promise Tracker-Sampaguita\|TTYOL-Promise Tracker-Sampaguita]]
 - Tangent about ISO-8061 — why it is the best date standard
 - Tangent about executive function — the Chase Promises mechanic literally asks you to break down the tasks of the your character's goals, and that is GENIUS executive function hacking
 - Tangent about sampaguita flowers and random Filipino lore

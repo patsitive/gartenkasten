@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-18T17:15","updated":"2025-08-30T19:07","dg-publish":true,"dg-permalink":"1a1a1b3-women-food-quote","id":"1a1a1b3","dg-path":"Think/'Women are like your favourite food... '.md","permalink":"/1a1a1b3-women-food-quote/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-18T17:15","updated":"2025-08-30T19:08","dg-publish":true,"dg-permalink":"1a1a1b3-women-food-quote","id":"1a1a1b3","dg-path":"Think/'Women are like your favourite food... '.md","permalink":"/1a1a1b3-women-food-quote/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 As a teenager, my father told me and my then boyfriend that we should not get intimate because:
