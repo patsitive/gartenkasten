@@ -7,13 +7,13 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Play/Actual Plays/TTYOL-001 - Let's make a deal\|TTYOL-001 - Let's make a deal]]: 10:40 AM - September 26, 2025
+- [[Learn in Public/Play/Actual Plays/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]: 1:01 PM - September 26, 2025
+- [[Learn in Public/Play/Actual Plays/TTYOL-001 - Let's make a deal\|TTYOL-001 - Let's make a deal]]: 10:57 AM - September 26, 2025
+- [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]: 10:47 AM - September 26, 2025
 - [[Learn in Public/Play/Actual Plays/TTYOL-000 Setting up the game\|TTYOL-000 Setting up the game]]: 10:39 AM - September 26, 2025
-- [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]: 10:10 AM - September 26, 2025
 - [[Learn in Public/Play/Actual Plays/MSFY-001\|MSFY-001]]: 9:47 AM - September 26, 2025
 - [[Learn in Public/Think/Why have visual keys for roleplay Actual Play logs\|Why have visual keys for roleplay Actual Play logs]]: 9:17 AM - September 26, 2025
 - [[Learn in Public/Reference/@GameMasters2025HowRunSandbox\|@GameMasters2025HowRunSandbox]]: 4:54 PM - September 25, 2025
-- [[Learn in Public/Play/Actual Plays/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]: 4:50 PM - September 25, 2025
 - [[Learn in Public/Play/Resources/TTYOL-All Locations\|TTYOL-All Locations]]: 4:02 PM - September 25, 2025
 - [[Learn in Public/Play/Resources/TTYOL-Calendar\|TTYOL-Calendar]]: 12:58 PM - September 25, 2025
 - [[Learn in Public/Play/Making Space for You\|Making Space for You]]: 11:53 AM - September 25, 2025

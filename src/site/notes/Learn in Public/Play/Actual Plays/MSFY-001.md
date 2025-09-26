@@ -37,138 +37,25 @@ Some ideas:
 > > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
 > > _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
 > > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
+> > This actual play series will be **written in shorthand** by primarily detailing the gameplay through a series of bullet points. Actions and dialogue are 1st-level bullet points. Meanwhile, roleplay game elements like dice rolls, Oracle pulls, and my comments are 2nd-level bullet points under the action/dialogue they pertain to. 
+> > I'm experimenting with both third-person prose and bulleted shorthand to see if I have a preference! ✨🤔
 
 ^msfy-info
-
 
 > [!note] Want more Making Space for You?
 > Go to **[[Learn in Public/Play/Making Space for You\|Making Space for You]]** for links to all available Actual Play logs and relevant lore. 
 
 ^msfy-link
 
----
+### Interaction Modes 
 
-## Copy this template
-```markdown 
+**This Actual Play episode page is designed to be read or listened to.**
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+I use bullet levels and emojis to help convey semantic meaning, and I've tried to make this screen reader or text-to-speech compatible. 
 
+Sooo... pick your poison! I know I have different preferences, based on mood hehe. 
 
-
-### Welcome to my Actual Play!
-
-OMG hi, kia ora and mabuhay, fellow nerd! 
-
-This is an Actual Play, which means it is a log of me roleplaying a tabletop game. I'm sharing my Actual Plays because I thought it would be fun for people to join me on my fictional adventures. 
-
-Maybe these logs will entertain you, give you ideas or make you want to send me irate emails—maybe I messed up a rule? ignored something obvious?!—whatever it might be, I hope you get something out of me sharing with the ~internet~. 
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Making Space for You — cosy, solo roleplay
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play/making-space-for-you/#plot-synopsis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Plot synopsis 
-
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt. 
-
-{Love Interest} is down on {LI pronoun} luck and homeless after a freak landslide by the old mine wrecked {LI pronoun} home. Everyone is struggling in Aurora. But luckily {Aunt} has opened up her home. In Aurora, they always pay it forward. That's exactly what {Love Interest} is going to do. 
-
-Some ideas: 
-- enemies to lovers
-- forced proximity 
-- small town romance 
-- MARRIAGE OF CONVENIENCE? 
-
-
-</div></div>
-
-> > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
-> > _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
-> > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
-
-</div></div>
-
-
-## 📌 Table of contents
-- [[#Video Actual Play]]
-- [[#Textual Actual Play]]
-- [[#Reflection]]
-
---- 
-## Making Space for You Episode x
-
-Intro goes here! 
-
-System/s and/or resources: 
-- [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
-- [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
-
-> Entry worked on: 
-> - 
-
-### Events 
-
-
-### Reflection 
-
---- 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-## Templates 
-
-
-
-> [!note]- Making Space for You — cosy, solo roleplay
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play/making-space-for-you/#plot-synopsis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Plot synopsis 
-
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt. 
-
-{Love Interest} is down on {LI pronoun} luck and homeless after a freak landslide by the old mine wrecked {LI pronoun} home. Everyone is struggling in Aurora. But luckily {Aunt} has opened up her home. In Aurora, they always pay it forward. That's exactly what {Love Interest} is going to do. 
-
-Some ideas: 
-- enemies to lovers
-- forced proximity 
-- small town romance 
-- MARRIAGE OF CONVENIENCE? 
-
-
-</div></div>
-
-> > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
-> > _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
-> > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
-
-^msfy-info
-
-
-> [!note] Want more Making Space for You?
-> Go to **[[Learn in Public/Play/Making Space for You\|Making Space for You]]** for links to all available Actual Play logs and relevant lore. 
-
-^msfy-link
+I am committed to accessibility, and I recognise this is an ongoing journey to achieve universal design. 🤔 If I miss the mark, I humbly ask for you to message me with compassion to say how I can do better. 💗
 
 ---
 
@@ -220,212 +107,114 @@ Some ideas:
 > > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
 > > _[[Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
 > > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
+> > This actual play series will be **written in shorthand** by primarily detailing the gameplay through a series of bullet points. Actions and dialogue are 1st-level bullet points. Meanwhile, roleplay game elements like dice rolls, Oracle pulls, and my comments are 2nd-level bullet points under the action/dialogue they pertain to. 
+> > I'm experimenting with both third-person prose and bulleted shorthand to see if I have a preference! ✨🤔
 
 </div></div>
 
 
-## 📌 Table of contents
-- [[#Video Actual Play]]
-- [[#Textual Actual Play]]
-- [[#Reflection]]
-
---- 
-## Making Space for You Episode x
-
-Intro goes here! 
-
-System/s and/or resources: 
-- [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
-- [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
-
-> Entry worked on: 
-> - 
-
-### Events 
-
-
-### Reflection 
-
---- 
+---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
+### Interaction Modes 
 
-## Templates 
+**This Actual Play episode page is designed to be read or listened to.**
 
+I use bullet levels and emojis to help convey semantic meaning, and I've tried to make this screen reader or text-to-speech compatible. 
 
+Sooo... pick your poison! I know I have different preferences, based on mood hehe. 
 
-> [!note]- Making Space for You — cosy, solo roleplay
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play/making-space-for-you/#plot-synopsis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+I am committed to accessibility, and I recognise this is an ongoing journey to achieve universal design. 🤔 If I miss the mark, I humbly ask for you to message me with compassion to say how I can do better. 💗
 
-
-
-## Plot synopsis 
-
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt. 
-
-{Love Interest} is down on {LI pronoun} luck and homeless after a freak landslide by the old mine wrecked {LI pronoun} home. Everyone is struggling in Aurora. But luckily {Aunt} has opened up her home. In Aurora, they always pay it forward. That's exactly what {Love Interest} is going to do. 
-
-Some ideas: 
-- enemies to lovers
-- forced proximity 
-- small town romance 
-- MARRIAGE OF CONVENIENCE? 
+---
 
 
 </div></div>
 
-> > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
-> > _[[Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
-> > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
 
-^msfy-info
+## 📌 Table of contents
+- [[#Textual Actual Play]]
+- [[#Reflection]]
+
+--- 
+
+## Textual Actual Play
+
+**Episode x**
+
+**System/s and/or resources**: 
+- [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
+- [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
+
+> Entry played on: 
+> - [[daily-pages]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!info] Emojis as visual keys (or cues!)
+> - **🎲 Dice:** for game decisions influenced by dice
+> - **🔮 Oracle:** for game decisions influenced by cards, Oracles, etc.
+> - **💭 Commentary:** for any random meta thoughts I might have during roleplay
+> - **📦 Inventory:** for any changes to main character inventory 
+> - **🎥 {Move}**: for any {Move}s that affect gameplay (Movie camera = action) 
+> 	- Examples of Moves: Time Passes, Combat (presumably??)
+> 	
+> 🔗 *[**North**:: [[Why have a legend for roleplay logs\|Why have a legend for roleplay logs]]]* 🤔
+
+</div></div>
+
+
+### **One-line synopsis:**
+{{one-sentence logline}}
+
+### Events 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!tip]- Espanso text expander reminders
+>  **Callouts:**
+>  - ;call-fail
+>  - ;call-succ
+>  - ;call-info
+>   **Keys:** 
+>  - ;rp-dice
+>  - ;rp-oracle
+>  - ;rp-meta
+> - ;rp-bag
+> - ;rp-move
+
+</div></div>
+
+
+{In-game date + time}
+
+{Roleplay prose as bulleted list...}
+
+--- 
+
+## Reflection 
+
+{Anything jump out at me?}
+
+--- 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
 
 
 > [!note] Want more Making Space for You?
 > Go to **[[Making Space for You]]** for links to all available Actual Play logs and relevant lore. 
-
-^msfy-link
-
----
-
-## Copy this template
-```markdown 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-### Welcome to my Actual Play!
-
-OMG hi, kia ora and mabuhay, fellow nerd! 
-
-This is an Actual Play, which means it is a log of me roleplaying a tabletop game. I'm sharing my Actual Plays because I thought it would be fun for people to join me on my fictional adventures. 
-
-Maybe these logs will entertain you, give you ideas or make you want to send me irate emails—maybe I messed up a rule? ignored something obvious?!—whatever it might be, I hope you get something out of me sharing with the ~internet~. 
-
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-> [!note]- Making Space for You — cosy, solo roleplay
-> ![[Making Space for You#Plot synopsis]]
-> > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
-> > _[[Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
-> > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
-
-</div></div>
-
-
-## 📌 Table of contents
-- [[#Video Actual Play]]
-- [[#Textual Actual Play]]
-- [[#Reflection]]
-
---- 
-## Making Space for You Episode x
-
-Intro goes here! 
-
-System/s and/or resources: 
-- [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
-- [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
-
-> Entry worked on: 
-> - 
-
-### Events 
-
-
-### Reflection 
-
---- 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-## Templates 
-
-
-
-> [!note]- Making Space for You — cosy, solo roleplay
-> ![[Making Space for You#Plot synopsis]]
-> > [!alert] **💖 Small town romance because I wanted to keep playing Iron Valley!!!🪻**
-> > _[[Making Space for You]] is an adventure set in the Iron Valley TTRPG system._
-> > 
-> > This actual play series will be **written in shorthand** by primarily detailing only rolls, actions, and events. The idea is to test if I enjoy this kind of gameplay more than the novel-esque journalling style. ✨🤔
-
-^msfy-info
-
-
-> [!note] Want more Making Space for You?
-> Go to **[[Making Space for You]]** for links to all available Actual Play logs and relevant lore. 
-
-^msfy-link
-
----
-
-## Copy this template
-```markdown 
-![[Learn in Public/Play/Actual Plays/TTYOL Actual Play Template#Welcome to my Actual Play!\|TTYOL Actual Play Template#Welcome to my Actual Play!]]
-
-![[Learn in Public/Play/Actual Plays/MSFY Actual Play template#^msfy-info\|MSFY Actual Play template#^msfy-info]]
-
-## 📌 Table of contents
-- [[#Video Actual Play]]
-- [[#Textual Actual Play]]
-- [[#Reflection]]
-
---- 
-## Making Space for You Episode x
-
-Intro goes here! 
-
-System/s and/or resources: 
-- [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
-- [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
-
-> Entry worked on: 
-> - 
-
-### Events 
-
-
-### Reflection 
-
---- 
-
-![[Learn in Public/Play/Actual Plays/MSFY Actual Play template#^504caf\|MSFY Actual Play template#^504caf]]
-
-```
-
-
-</div></div>
-
-
-```
-
-
-</div></div>
-
-
-```
-
 
 </div></div>
 
@@ -460,7 +249,7 @@ System and/or resources:
 > - **🎥 {Move}**: for any {Move}s that affect gameplay (Movie camera = action) 
 > 	- Examples of Moves: Time Passes, Combat (presumably??)
 > 	
-> 🔗 *[**North**:: [[Why have a legend for roleplay logs\|Why have a legend for roleplay logs]]]* 🤔
+> 🔗 *[**North**:: [[Why have a legend for roleplay logs]]]* 🤔
 
 </div></div>
 

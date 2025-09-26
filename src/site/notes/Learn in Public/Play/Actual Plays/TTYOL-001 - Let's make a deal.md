@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-23T16:06","updated":"2025-09-26T10:26","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-23T16:06","updated":"2025-09-26T10:40","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"Play/Actual Plays/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -34,10 +34,12 @@ Maybe these logs will entertain you, give you ideas or make you want to send me 
 [[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
 On the journey for new tea blends, new friends, new experiences and new places, maybe she'll find her **'special someone'** too.  
 Look out, world! Sampaguita is on her way. 
+_[[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] is an adventure set in the Iron Valley and Wandering Tea Garden TTRPG systems._
 
 </div></div>
 
 > > This actual play series will be **written in third-person prose and 'performed' on video by the roleplayer**. Roleplay game elements like dice rolls, Oracle pulls, and roleplayer comments will be denoted through callouts with emojis to specify type. (I like emojis! 💗)
+> > I'm experimenting with both third-person prose and bulleted shorthand to see if I have a preference! ✨🤔
 
 </div></div>
 
@@ -56,9 +58,9 @@ Look out, world! Sampaguita is on her way.
 
 Sooo... pick your poison! I know I have different preferences, based on mood hehe. 
 
-There's also a reflection section because I like that sort of thing lol! 
-
 If it's missing one of these modes, either I messed up my templates 🫠 or I changed what modes I offer for this adventure at some point during the campaign/playthrough 🤔. 
+
+I am committed to accessibility, and I recognise this is an ongoing journey to achieve universal design. 🤔 If I miss the mark, I humbly ask for you to message me with compassion to say how I can do better.💗
 
 
 </div></div>
@@ -86,6 +88,7 @@ If it's missing one of these modes, either I messed up my templates 🫠 or I ch
 **Episode 1**
 
 **System/s and/or resources**: 
+- [Wandering Tea Garden](https://ap-cartography.itch.io/the-wandering-tea-garden)
 - [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
 - [Solo RPG Toolkit](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/solo-rpg-toolkit)
 

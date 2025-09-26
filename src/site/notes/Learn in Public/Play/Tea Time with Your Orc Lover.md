@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-22T18:17","updated":"2025-09-26T06:56","dg-publish":true,"aliases":["TTYOL"],"dg-path":"Play/Tea Time with Your Orc Lover.md","permalink":"/play/tea-time-with-your-orc-lover/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-22T18:17","updated":"2025-09-26T10:10","dg-publish":true,"aliases":["TTYOL"],"dg-path":"Play/Tea Time with Your Orc Lover.md","permalink":"/play/tea-time-with-your-orc-lover/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -7,6 +7,7 @@
 [[Learn in Public/Play/Resources/Character-Sampaguita\|Sampaguita]] Roces loves tea, plants and new experiences. Finally, she has the chance to combine her passions by going on the road as the owner of a new wandering tea garden cafe. She's promised her mother that they'll find a place to call their own when she finds that **'special someplace'**.
 On the journey for new tea blends, new friends, new experiences and new places, maybe she'll find her **'special someone'** too.  
 Look out, world! Sampaguita is on her way. 
+_[[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] is an adventure set in the Iron Valley and Wandering Tea Garden TTRPG systems._
 { #6bb3b0}
 
 
