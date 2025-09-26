@@ -166,14 +166,104 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 #### Summer 5 part 2 
 
 - Amaya and Aunt Eskama finish eating 
-- Amaya says she remembers where the old house is and will come find her around dinnertime. It might be Rest Day, but she feels like wandering around. 
-- 
+- Amaya says she remembers where the old house is and will come find her around dinnertime. It might be Rest Day, but she feels like wandering around. Aunt Eskama recommends checking out the Request Board. 
+- Amaya checked out the Request Board and will look for {{Hollow}} to "Find out if that house is haunted". Amaya thinks this is odd but might be a cool way to get to know the neighbourhood... 
+	- **🔮 Oracle:** Question: What requests are there? 
+	- - Oracle type: Townie Request
+		- - Result: `d100 = 68` = Find out if that house is haunted	OR Run for office
+	- - Interpretation: The first one sounds interesting. Need to make a new townie to accept the request.
+	- **🔮 Oracle:** Question: What's the townie like? 
+	- - Oracle type: [Townie Maker](https://chartopia.d12dev.com/chart/72857/)
+	- - Result: Name: Hollow. Human. She/Her. Androgynous. Birthday: Spring 10. Animal Tamer/Keeper. Adult. 
+	- - Interpretation: Ooh! Keeping all of that, but instead of Animal Tamer/Keeper, it will be the Wildlife Rescue person (which is one the people Amaya needs to meet for one of her promises!!!!)
+	- **🎥 Move**: Move: Make a Promise 
+	- - In-game effects: Added a new promise to tracker. 
+	- - Meta (if any): Think Hollow has a kid wh
+- Amaya found ➕ Idea(1) to help with her promise. Time passes.
+	- **🎥 Move**: Move: Root Around
+		- **🎲 Dice:** Question: Does she find an Idea to help with [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)\|Mum and Aunt's fight]]?
+		- - Roll type: Action roll (specific resource)
+		- - Result: Action roll 1d6 = 1+2 Iron. Challenge rolls 2d10 = 7, 3. 
+		- - Interpretation:  3 means she gets a weak hit. 
+		- **📦 Inventory:** Change: ➕Idea (1)
+		- - Note in character changelog 
+		- 💞 **Promise progress**: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)]] +1
+		- **🎥 Move**: Time passes 3/4 
+- Nubelli fly overhead, and Amaya plays the flute (badly). Two Nubelli like it and decide to swoop at her. She ducks and they keep swooping at her playfully. They show signs of wanting to come home with her. Someone comes and yells at her. She's startled and yells back. The Nubelli (2) settle on her shoulders. 
+	- **🔮 Oracle:** Does Amaya run into love interest on her way back to Aunt's house?
+	- - Oracle type: MUNE: Fair 
+	- - Result: No, and 
+	- - Interpretation: No, it's not on her way back, and in fact she will run into them while foraging! 
+	- **🎥 Move**: Root Around 
+	- **🎲 Dice:** Does she find a Wild Livestock (😂)
+	- - Roll type: Action roll (specific)
+	- - Result: Action roll: 1d6 = 6 + 2 Iron. Challenge rolls: 2d10 = [6, 7]
+	- - Interpretation:  8 > 6. 8 > 7. Strong hit! Gain (2) of Wild Livestock (Roll). Gain (2) to relevant promise. 
+	- 💞 **Promise progress**: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Decide how to help the community through work (2)\|MSFY-Promise Tracker-Amaya#Decide how to help the community through work (2)]] +2
+	- **🎲 Dice:** What Wild Livestock does she get (2)?
+	- - Roll type: 1d100
+	- - Result: 56 = Cow or Nubelli. 
+	- - Interpretation: LOL. 2 magical birds to add to her inventory... 
+	- **📦 Inventory:** Change: ➕ Nubelli (2)
+	- **💭 Commentary:** This is a funny situation, I think.  
+	- **🎲 Dice:** Is Love Interest friendly in this meet-cute? 
+	- - Roll type: MUNE
+	- - Result: No
+	- - Interpretation: HAHAHAA ENEMIES TO LOVERS IT IS. 
+	- **🔮 Oracle:** What is Love Interest like?
+	- - Oracle type: Generate a Townie
+	- - Result: Skipped 10 results before settling on Wild Elf (Slime was one of the options lol). He/Him. Other. Fall 5. Coffee / Tea House Keeper. Independent.
+	- - Interpretation: Makes sense! Elves give chill about presentation vibes. 
+		- Stefan. Adult. He/Him. Other (wears what he likes). Barista. Independent. 
+- They clear up the misunderstanding. Amaya's spooked, so she decides to head back. 
+	- **🎲 Dice:** Does the argument escalate? 
+	- - Roll type: MUNE: Fair
+	- - Result: No
+	- - Interpretation: No fight. 
+- Amaya strengthens her bond with the Nubelli, which helps with one of her promises! Time got away from her as she kept stopping while doing this on the way to Aunt's. 
+	- **🎥 Move**: Try your best!! Strengthen bond with Nubelli (2)
+	- **🎲 Dice:** Does it work?
+	- - Roll type: Action roll (Wits)
+	- - Result: Action roll: 1d6 = 5 + 3 Wits = 8. Challenge rolls: 2d10 = [7, 10]
+	- - Interpretation:  7 < 8 < 10. Weak hit. +1 Promise. Time passes.
+	- **💭 Commentary:** I just realised I did my Root Around moves earlier wrong... Note to self for future...
+	- 💞 **Promise progress**: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Decide how to help the community through work (2)\|MSFY-Promise Tracker-Amaya#Decide how to help the community through work (2)]] +1
+	- **🎥 Move**: Time Passes: 4/4. Time to end the day (no more moves, can roleplay) 
+- Amaya notices the stranger from earlier behind her... She thinks it's weird but doesn't say anything.
+	- **🔮 Oracle:** Question: Does Amaya confront Stefan?
+	- - Oracle type: MUNE Fair
+	- - Result: No
+	- - Interpretation: Okay, no fight. 
+- They make it back to town. He's still following her. People-pleaser that she is, she doesn't say anything...
+	- **🔮 Oracle:** Question: Does Amaya confront Stefan now?
+	- - Oracle type: MUNE Fair
+	- - Result: No
+	- - Interpretation: Okay, no fight.
+- He's followed her to the door! Amaya's so freaked out, she starts screaming at him. He's yelling back at her. The door swings open. Aunt Eskama comes out and explains the situation. Excuse me—he lives here? Yes, his house got destroyed in a recent landslide, and Aunt took him in for now. His family also died.  Amaya feels so bad, she apologises. He apologises for coming across creepy. They introduce themselves. They have dinner with Aunt Eskama. It's kind of awkward... but it's... fine. It's Day 1, Amaya omg. 
+	- **🔮 Oracle:** Question: Does Amaya confront Stefan _now_?
+	- - Oracle type: MUNE Likely
+	- - Result: Yes
+	- - Interpretation: Fight time!
+	- **🔮 Oracle:** Question: Does Amaya feel bad for yelling at Stefan?
+	- - Oracle type: MUNE Likely
+	- - Result: Yes and
+	- - Interpretation: Oh okay, maybe _not_ Enemies to Lovers...
+- It's time for bed. Where is everyone sleeping? What? Both Amaya and Stefan are staying in the living room? What? Okay, the room that was going to be Amaya's got damaged recently. Need to repair it before she can stay there. Right. She holds her tongue even though she's thinking she could have delayed her move to Aurora until she had her own room... She **promises** herself that she'll get that room sorted as soon as she can. Good night. 
+	- **🔮 Oracle:** Question: Where is Stefan sleeping in the house?
+	- - Oracle type: Tarot
+	- - Result: ![Resources/Decks/Tarot/10-WheelOfFortune.png|srt-flip2](/img/user/Learn%20in%20Public/Play/Resources/Decks/Tarot/10-WheelOfFortune.png)
+	- - Interpretation: Upside down Wheel of Fortune! **Reversed:** no control, clinging to control, bad luck (From Labyrinthos). Hmm... Maybe it changes...?
+	- **🎥 Move**: Make a promise (Urgent x Complicated) 
+	- - In-game effects: ➕ [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Repair the damage to Amaya's room (3)\|MSFY-Promise Tracker-Amaya#Repair the damage to Amaya's room (3)]]
+- That's it for the episode, folks! 
 
 ---
 ## Reflection 
 
 First reflection was during the 1st play session: 
 ![[#^87f2c6]]
+
+The Enemies to Lovers thing is kinda promising at the moment, except for Amaya's people-pleaser doormat tendencies... Hmmm... Stay tuned. 
 
 --- 
 
@@ -186,7 +276,4 @@ First reflection was during the 1st play session:
 > Go to **[[Learn in Public/Play/Making Space for You\|Making Space for You]]** for links to all available Actual Play logs and relevant lore. 
 
 </div></div>
-
-
-```
 

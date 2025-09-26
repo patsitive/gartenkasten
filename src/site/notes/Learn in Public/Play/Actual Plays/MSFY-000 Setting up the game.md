@@ -118,60 +118,86 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 
 - Checked I am allowed to play
 	- **💭 Commentary:** Per Iron Valley rules, you need to make sure you're not a bigot. Can confirm I'm not, so I am allowed to play ✨ (Phew!)
+
+---
+
 - Checked I have what I need
 	- **💭 Commentary:** Rulebook + player sheet + virtual dice + virtual oracles = ✔️
+
+- ---
 - I needed to decide on some World Truths! 
+---
+
 - World Truths: This Iron Valley has fantasy species living in the game world. It also has some magic. Also favour economy is preferred, but I may roleplay using precious metals for currency as well!
 	- **💭 Commentary:** I have bended the Iron Valley setting rules to suit my narrative. Is this a bad move as a newbie? Time will tell.  
 	- **💭 Commentary:** Set in the same game universe as [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]	
 	- **💭 Commentary:** More worldbuilding here: [[Learn in Public/Play/Resources/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+---
+
 - World Truth: Picked name of Iron Valley: Aurora (just Aurora)
 	- **🎲 Dice:** Question: What should I call it?
 	- - Roll type: [`d4 = 3` + `d12 = 4`] => Refresh options 3x then pick from 4th entry on [Random address in Philippines](https://www.bestrandoms.com/random-address-in-ph?quantity=10)
 	- - Result: I didn't like the 4th entry so...
 	- - Interpretation: Town = Aurora! Decided to pick one from entry 3 instead lol
+---
 - World Truth: Aurora is a small town in disrepair 
 	- **💭 Commentary:** I just picked one of the 3 options in the Iron Valley guidebook 💗 
+---
 - I decided on some Character Truths for my character
+---
+
 - Character Truth: Amaya is feminine and uses she/her pronouns 
 	- **💭 Commentary:** I decided this—no rolls! 
+
+---
 - Character Truth: Character name is [[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Amaya]]
 	- **🔮 Oracle:** Question: What is my character's name?
 	- - Oracle type: Rolled from [Filipino name generator](https://www.fantasynamegenerators.com/filipino-names.php)
 	- - Result: There were a lot! So I picked one I liked
 	- - Interpretation: Picked **Amaya**. No last name as per Iron Valley convention 
+---
+
 - Character Truth: I am leaving the big city because... Estranged aunt has invited you to stay with her. It's been years since your whole family lived in Aurora together... before mum and aunt had that big fight...
 	- **💭 Commentary:** Why did you leave the big city? IDK. I just felt like this would make an interesting backdrop? 
+---
 - Character Truth: Where are you staying in town? In Aunt's house
 	- **💭 Commentary:** Spoiler: Amaya doesn't know that there's someone else there too?! 😂 I am trying to use the 'forced proximity' romance trope HAHA.
+---
+
 - Character Truth: When are you arriving in Aurora? Summer 5
 	- **🔮 Oracle:** Question: When are you arriving? 
 	- - Oracle type: Iron Valley date oracle
 	- - Result: [| 30  | Summer                  | 5   |]
 	- - Interpretation: Summer 5 :)
+---
 - Character Truth: How long do you plan to stay? 1-year, maybe?
 	- **💭 Commentary:** She's not sure if she'll want to return home to the big city
+---
 - Character Truth: Backpack item #1 is Sturdy work boots
 	- **🔮 Oracle:** Question: What's in your backpack? 
 	- - Oracle type: Iron Valley random item oracle
 	- - Result: Eek — I lost the numbers, but I noted which items to pick from below
 	- - Interpretation: Sturdy work boots — Mum heard that Aurora has 'gone to the dogs' so insisted on the boots
+---
 - Character Truth: Backpack item #2 is First Aid Kit
 	- **🔮 Oracle:** Question: What's in your backpack? 
 	- - Oracle type: Iron Valley random item oracle
 	- - Result: Eek — I lost the numbers, but I noted which items to pick from below
 	- - Interpretation: First aid kit — If it's that bad, then a first aid kit makes sense too... just in case 
+---
 - Character Truth: Backpack item #3 is Tin of Mints
 	- **🔮 Oracle:** Question: What's in your backpack? 
 	- - Oracle type: Iron Valley random item oracle
 	- - Result: Eek — I lost the numbers, but I noted which items to pick from below
 	- - Interpretation: Tin of mints — Amaya would rather die than have bad breath 
+---
 - Character Truth: Birthday is Summer 12
 	- **🔮 Oracle:** Question: When is your birthday?
 	- - Oracle type: Iron Valley date oracle
 	- - Result: [| 37  | Summer  | 12  |]
 	- - Interpretation: Summer 12
 	- **💭 Commentary:** OMG that's exciting, in-game birthday is coming up soon
+---
 - Character Truth: Amaya's stats are [Heart: 2, Iron: 2, Shadow: 1, Wits: 3, Edge: 1]
 	- **💭 Commentary:** I decided on what stats to have for Amaya based on the stat values allowed: [3, 2, 2, 1, 1]. Here's what I picked and why: 
 		- Heart: 2 — That fight between Mum and her Aunt really shook her up. She's scared of ruining relationships and treads carefully; she wants people to be happy. 
@@ -179,16 +205,22 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 		- Shadow: 1 — Amaya is pretty straight-laced and very much unmagical 
 		- Wits: 3 — Thinking things through has never let her down. Except, when she overthinks and doesn't act and that leads to problems, but Amaya doesn't think about that. Much. Well, tries not to.
 		- Edge: 1 — Could Amaya outrun someone? Hmm, maybe not. 
+---
 - Character Truth: Amaya's skills are First Aid, Inquire, and Creature handling
 	- **💭 Commentary:** What skills might help Amaya in Aurora? I am going to pick from the skills and not randomise this!!! Here are my picks: 
 		- First Aid — Amaya never wanted people to know if she got hurt, so she got really good at patching herself up. 
 		- Inquire — As an overthinker _and_ people pleaser, Amaya has learned the art of asking in a way that people _want_ to answer. This is the upgraded skill. 
 		- Creature handling — While Dad specialised in caring for holy pigeons, there was no shortage of animals needing help in the city. She knows exactly how to lift safely and strongly. The best part? Animals love unconditionally. 
 	- **💭 Commentary:**  Amaya is going to need to get satisfaction fast because she will need to repair the house ahahaha, ahhh this entertains me
+---
+- Needed to decide on 3 starting promises! 
+---
 - Starting Promise - town setting: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Find out what caused Aurora to get so rundown (6)\|Find out what caused Aurora to get so rundown (6)]] 
 	- **💭 Commentary:** Since I decided that Aurora is a rundown place, I think this makes sense.  
+---
 - Starting Promise - where you're staying: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Fix up Aunt's old house (5)\|Fix up Aunt's old house (5)]]
-	- **💭 Commentary:** I borrowed this one from the guidebook! I thought it made sense given the condition of Aurora that her aunt's house also needs fixing up. 
+	- **💭 Commentary:** I borrowed this one from the guidebook! I thought it made sense given the condition of Aurora that her aunt's house lso needs fixing up. 
+---
 - Starting Promise - reason you're moving to Aurora: [[Learn in Public/Play/Resources/Player Characters/MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-Promise Tracker-Amaya#Figure out why Mum and Aunt fought and make peace with their history (8)]]
 	- **💭 Commentary:**  Uhhh... Amaya knew about the invitation 3 years ago. So I need to think about why she's moving _now_
 	- **🔮 Oracle:** Question: Why is she moving now??
@@ -199,6 +231,7 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 	- **💭 Commentary:** Narrative explanation:
 		- Amaya is burnout. Too many expectations and too many things to do. But she's scared of something happening — like with Mum and Aunt — and of that happening to _her_. But she's so tired. And maybe if she figures out just what happened years ago when her Mum vowed her Aunt was dead to them — well, maybe, she could stop it happening to her... and maybe reunite her family. Her sisters refused to come; her Mum got so mad, but Dad said he's proud of her. That's something.
 		- Originally, Aunt was dead, and she inherited the house. But I'm kind of sick of the dead relative trope lol. And I wanted the hopefulness of a possible reconciliation and how emotionally fraught that can be—like you want it so much, but you're scared it will cost you. But maybe it's worth the risk.
+
 - That's it, folks! 
 #### Backpack Oracle roll 
 

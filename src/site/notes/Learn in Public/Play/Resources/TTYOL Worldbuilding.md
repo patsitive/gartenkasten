@@ -54,6 +54,8 @@ The gamebook recommends starting with three promises, relating to:
 - the reason you left the city and moved to Iron Valley
 - where you are staying in 
 
+
+--- 
 Thoughts 
 The Fantasy Forge 
 The way way to to l create a history for your fantasy world 
