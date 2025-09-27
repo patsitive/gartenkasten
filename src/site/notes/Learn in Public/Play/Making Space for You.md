@@ -6,12 +6,12 @@
 
 ## Plot synopsis 
 
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt. 
+Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt Eskama. 
 
-{Love Interest} is down on {LI pronoun} luck and homeless after a freak landslide by the old mine wrecked {LI pronoun} home. Everyone is struggling in Aurora. But luckily {Aunt} has opened up her home. In Aurora, they always pay it forward. That's exactly what {Love Interest} is going to do. 
+Stefan is down on his luck and homeless after a freak landslide by the old mine wrecked his home. In Aurora, people look after each other even when they're all struggling. So when Eskama offers him a place to stay, he says yes — he'll find a way to repay her kindness and pay it forward. 
 
-Some ideas: 
-- enemies to lovers
+Some tropes I'm trying to explore in the roleplay: 
+- (One-sided?) enemies to lovers
 - forced proximity 
 - small town romance 
 - MARRIAGE OF CONVENIENCE? 
@@ -36,4 +36,5 @@ Inhabits same world as [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea 
 ### Actual Plays 
 - [[Learn in Public/Play/Actual Plays/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]
 - [[Learn in Public/Play/Actual Plays/MSFY-001\|MSFY-001]]
+- 
 
