@@ -7,7 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/(1D) Emotion Can Be Captured Using Causative Details\|(1D) Emotion Can Be Captured Using Causative Details]]: 9:26 PM - September 28, 2025
+- [[Learn in Public/Think/Capture emotion through Causative Details\|Capture emotion through Causative Details]]: 9:32 PM - September 28, 2025
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001\|MSFY-001]]: 9:03 PM - September 28, 2025
 - [[Learn in Public/Play/Resources/Hubs/TTYOL-All Locations\|TTYOL-All Locations]]: 8:49 PM - September 28, 2025
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]: 6:19 PM - September 28, 2025
