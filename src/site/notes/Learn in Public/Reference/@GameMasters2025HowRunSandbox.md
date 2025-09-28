@@ -10,7 +10,7 @@ Simplify game setup with these techniques to create a sandbox with near unlimite
 ### Techniques I want to use for solo roleplay
 There were three more techniques, but I opted not to take notes on them. 😅
 
-This video has inspired me so much that I did more prep-setting for [[Learn in Public/Play/Making Space for You\|Making Space for You]] which I detail here: [[Learn in Public/Play/Actual Plays/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]]
+This video has inspired me so much that I did more prep-setting for [[Learn in Public/Play/Making Space for You\|Making Space for You]] which I detail here: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]]
 
 #### Situation, NOT Story
 
@@ -25,8 +25,8 @@ For solo roleplay, this may mean fleshing out NPCs more, but I think this will c
 Create tension and conflict by having 3 different NPCs with opposing motivations and desires. Interacting with the NPCs reveal the underlying tension and help shape the narrative. 
 
 As at [[Slices/2025-09-25\|2025-09-25]], I am toying with this idea in the [[Learn in Public/Play/Making Space for You\|Making Space for You]] adventure: 
-- [[Learn in Public/Play/Resources/TTYOL NPCs#Makisig (Dwarf)\|Makisig]] wants to reopen the closed down mine.
-- [[Learn in Public/Play/Resources/TTYOL NPCs#Eskama (Human Aunt)\|Aunt Eskama]] is supporting [[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Amaya's]] as-yet unnamed love interest to petition the government to pay reparations for previous handling of mine that has contributed to the landslide that killed love interest's family and wrecked said love interest's home 
+- [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Makisig (Dwarf)\|Makisig]] wants to reopen the closed down mine.
+- [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Eskama (Human Aunt)\|Aunt Eskama]] is supporting [[Character-Amaya\|Amaya's]] as-yet unnamed love interest to petition the government to pay reparations for previous handling of mine that has contributed to the landslide that killed love interest's family and wrecked said love interest's home 
 - ??? needs a third conflicting motivation hmmm
 #### 5x5
 

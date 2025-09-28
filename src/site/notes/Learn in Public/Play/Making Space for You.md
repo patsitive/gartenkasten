@@ -2,7 +2,7 @@
 {"dg-publish":true,"created":"2025-09-26T13:50","updated":"2025-09-26T13:24","dg-path":"Play/Making Space for You.md","permalink":"/play/making-space-for-you/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-![game-ironvalley.png](/img/user/Learn%20in%20Public/Play/Resources/game-ironvalley.png) 
+![game-ironvalley.png](/img/user/Learn%20in%20Public/Play/Resources/Games/game-ironvalley.png) 
 
 ## Plot synopsis 
 
@@ -27,14 +27,14 @@ Systems of gameplay:
 
 ### World 
 
-[[Learn in Public/Play/Resources/Player Characters/Character-Amaya\|Character-Amaya]]
+[[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|PC-Amaya]]
 
-[[Learn in Public/Play/Resources/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
-[[Learn in Public/Play/Resources/TTYOL NPCs\|TTYOL NPCs]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|TTYOL NPCs]]
 Inhabits same world as [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] — because I didn't want to wait to have to record videos to play Iron Valley LOL 
 
 ### Actual Plays 
-- [[Learn in Public/Play/Actual Plays/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]
-- [[Learn in Public/Play/Actual Plays/MSFY-001\|MSFY-001]]
+- [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]
+- [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001\|MSFY-001]]
 - 
 
