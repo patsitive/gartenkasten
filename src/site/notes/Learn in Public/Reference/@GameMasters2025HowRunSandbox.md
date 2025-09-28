@@ -18,11 +18,38 @@ Instead of preparing a story in advance, concoct situations for players and char
 
 > [!tip] Compelling situation = **Location + Conflict + Motivated characters** (PC & NPC)
 
-For solo roleplay, this may mean fleshing out NPCs more, but I think this will combine well with [[#NPC Triangle]] and [[#5x5]]
+For solo roleplay, this may mean fleshing out NPCs more, but I think this will combine well with [[Learn in Public/Reference/@GameMasters2025HowRunSandbox#NPC Triangle\|#NPC Triangle]] and [[Learn in Public/Reference/@GameMasters2025HowRunSandbox#5x5\|#5x5]] below. 
 
 #### NPC Triangle 
 
 Create tension and conflict by having 3 different NPCs with opposing motivations and desires. Interacting with the NPCs reveal the underlying tension and help shape the narrative. 
+
+This sounds similar to [Karpman's Drama Triangle](https://cmdrysdale.wordpress.com/2015/03/20/using-karpmans-drama-triangle-to-help-develop-realistic-characters-in-when-writing-fiction-and-when-living-your-life/): where there is a victim, villain and rescuer (I don't know anything about this triangle, but I do want to learn more).
+
+```mermaid
+flowchart TD
+  A[Bob]
+  B[Anise]
+  C[Feyra]
+
+  A --buys bargains from--> C
+  C --needs stolen goods from--> B
+  B --undermines / resents--> A
+
+```
+I gave ChatGPT what I thought was a good NPC Triangle, and then it pointed out that it wasn't good at all. Anyway, it gave me above, based off my idea.
+
+Here's another example it gave me: 
+
+> [!info]- ☕ Example: Tea Shop Triangle
+-**Bob** wants quiet tea time.
+-**Anise** wants to chat with him (she’s loud, friendly)
+-**Feyra** wants to study in peace.
+Loop:
+> - Bob asks Anise to quiet down → hurts her feelings.
+> - Anise vents to Feyra → Feyra sides with Bob (“yes, you’re loud”).
+> - Feyra’s bluntness annoys Bob → now Bob avoids both of them.
+All tiny, fixable conflicts → but until they talk it out, it’s drama!
 
 #### 5x5
 Draw a grid that has 5 columns and 6 rows. Make each column a distinct category. Filling out each column with your ideas will give you 25 distinct prompts that you can mix and match in new ways. 
