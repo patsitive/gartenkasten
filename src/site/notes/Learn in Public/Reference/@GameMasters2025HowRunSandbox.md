@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T16:11","updated":"2025-09-25T16:54","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:11","updated":"2025-09-29T08:40","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,7 +31,13 @@ Create tension and conflict by having 3 different NPCs with opposing motivations
 
 
 #### Clockwork 
+Plan a pre-ordained event that affects the story and your player character/s in some way. Your character doesn't need to know what is happening in-game for them to be affected. 
 
+- Example provided: Necromancer hatches a plan. While party is adventuring, if the party inquires, they would notice that some people are disappearing. At a predetermined day, the event happens whether or not the party knew about it beforehand. They still need to react to it. 
+- Cosy setting: Two NPCs 
 
 #### Reskin
-Take an existing resource and apply
+Take an existing resource and apply a new skin to make it fresh. Modify accordingly. 
+
+- Combat: Zombie becomes Sand Wolf 
+- Character: Old Man who runs the Inn becomes Old Woman who runs the Tavern 
