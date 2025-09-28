@@ -3,7 +3,6 @@
 ---
 
 
-
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -22,39 +21,7 @@ Maybe these logs will entertain you, give you ideas or make you want to send me 
 
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-### Plot
-
- **💖 _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is a solo roleplay playthrough set in the Iron Valley TTRPG system._
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play/making-space-for-you/#plot-synopsis" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-## Plot synopsis 
-
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt Eskama. 
-
-Stefan is down on his luck and homeless after a freak landslide by the old mine wrecked his home. In Aurora, people look after each other even when they're all struggling. So when Eskama offers him a place to stay, he says yes — he'll find a way to repay her kindness and pay it forward. 
-
-Some tropes I'm trying to explore in the roleplay: 
-- (One-sided?) enemies to lovers
-- forced proximity 
-- small town romance 
-- MARRIAGE OF CONVENIENCE? 
-
-
-</div></div>
-
-
-
-</div></div>
-
+ **💖 _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is a solo roleplay campaign set in the Iron Valley TTRPG system._**
 
 ---
 
@@ -74,19 +41,18 @@ Some tropes I'm trying to explore in the roleplay:
 > >Detailing game elements like dice rolls, Oracle pulls, moves, inventory changes and my commentary will be contained in callouts and written as bullet points. 
 
 
-
 </div></div>
 
 
 ---
 
-**This Actual Play episode page is currently not completely accessible to screen readers. I am currently working on improving this. Thank you for your patience 🙏**
+**This Actual Play episode page is currently not completely accessible to screen readers. 🫠 I am currently working on improving this. Thank you for your patience 🙏**
 
 ## 📌 Table of contents
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game#Textual Actual Play\|MSFY-000 Setting up the game#Textual Actual Play]]
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game#Reflection\|MSFY-000 Setting up the game#Reflection]]
 
-Next: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001\|MSFY-001]]
+Next: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001 - Welcome to Aurora\|MSFY-001 - Welcome to Aurora]]
 
 --- 
 
@@ -278,3 +244,6 @@ I WILL KEEP THIS COSY. LIKE, OKAY, FEELINGS, BUT GOOD VIBES. LESHGOOOOO.
 
 
 </div></div>
+
+
+Next: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001 - Welcome to Aurora\|MSFY-001 - Welcome to Aurora]]

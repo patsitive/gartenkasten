@@ -4,17 +4,18 @@
 
 ![game-ironvalley.png](/img/user/Learn%20in%20Public/Play/Resources/Games/game-ironvalley.png) 
 
+ **💖 _[[Learn in Public/Play/Making Space for You\|Making Space for You]] is a solo roleplay campaign set in the Iron Valley TTRPG system._**
+ 
 ## Plot synopsis 
 
-Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to stay with her estranged Aunt Eskama. 
+Tender-hearted Amaya is burnt out and tired. Always putting people first, her fear of losing people has pushed her to the limit. It's time to face the past to stop it from repeating. Maybe it's time to accept that invitation to return to the town of Aurora and stay with her estranged Aunt Eskama. 
 
-Stefan is down on his luck and homeless after a freak landslide by the old mine wrecked his home. In Aurora, people look after each other even when they're all struggling. So when Eskama offers him a place to stay, he says yes — he'll find a way to repay her kindness and pay it forward. 
+Stefan is down on his luck after a freak landslide by the old mine wrecked his home. In Aurora, people look after each other even when they're all struggling. So when Eskama offers him a place to stay, he says yes — he'll find a way to repay her kindness and pay it forward. 
 
 Some tropes I'm trying to explore in the roleplay: 
 - (One-sided?) enemies to lovers
 - forced proximity 
 - small town romance 
-- MARRIAGE OF CONVENIENCE? 
 
 ## The Game 
 
@@ -35,6 +36,6 @@ Inhabits same world as [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea 
 
 ### Actual Plays 
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]
-- [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001\|MSFY-001]]
+- [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001 - Welcome to Aurora\|MSFY-001 - Welcome to Aurora]]
 - 
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-12T20:09","updated":"2025-09-09T11:31","dg-publish":true,"dg-path":"Create/Human-AI Reflective Loop.md","permalink":"/create/human-ai-reflective-loop/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-12T20:09","updated":"2025-09-09T10:54","dg-publish":true,"dg-path":"Create/Human-AI Reflective Loop.md","permalink":"/create/human-ai-reflective-loop/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

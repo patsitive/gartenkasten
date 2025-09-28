@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:39","updated":"2025-09-01T10:50","id":"1b2","dg-permalink":"1b2-gamers-flow","dg-publish":true,"dg-path":"Think/(1B2) Gamers Easily Reach Flow State.md","permalink":"/1b2-gamers-flow/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-17T15:39","updated":"2025-09-01T10:49","id":"1b2","dg-permalink":"1b2-gamers-flow","dg-publish":true,"dg-path":"Think/(1B2) Gamers Easily Reach Flow State.md","permalink":"/1b2-gamers-flow/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 see: that book about game design on Kindle 
