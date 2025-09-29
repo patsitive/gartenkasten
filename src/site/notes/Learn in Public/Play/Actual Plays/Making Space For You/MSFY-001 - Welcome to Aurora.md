@@ -101,14 +101,14 @@ Amaya reunites with her Aunt. Conflict already?
 > [!info] **📌 Location change** 
 > - [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|PC-Amaya]] changed location: A few km from Aurora
 
-[📖ROLEPLAY]The young woman named [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|Amaya]] jumps off the wagon, some distance away from Aurora. The wagon driver says there's not much to see there, so they won't be passing by this time. 
+[📖ROLEPLAY] The young woman named [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|Amaya]] jumps off the wagon, some distance away from the town of Aurora. The wagon driver says there's not much to see there, so they won't be passing by this time. 
 
 ---
 > [!info]- **🎲 Dice:** Does the wagon driver do anything as she says goodbye?
 > - Roll type: MUNE Fair 
 > - Result: No
 
-[📖ROLEPLAY] Amaya waves goodbye and starts the long trek to the small town she used to live in. Lucky she wore her work boots. Aunt doesn't have a spare donkey to come get her. 
+[📖ROLEPLAY] Amaya waves goodbye and starts the long trek to the small town she used to live in. Lucky she wore her work boots. Aunt doesn't have an animal spare to come get her. 
 
 ---
 > [!info]- **🎲 Dice:** Does she run into anyone on the way to Aurora?
@@ -122,17 +122,16 @@ Amaya reunites with her Aunt. Conflict already?
 >
 > > [!info]- **🔮 Oracle:** Who is the NPC?  
 > > - Oracle type: Combo of Iron Valley Random Townie + Picking my own stuff  
-> > - Result: {Partly generated} Dwarf. Male. Adult. Name: Makisig. Friendly. ➡️➕[[Learn in Public/Play/Resources/NPCharacters/NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]] 
+> > - Result: {Partly generated} Dwarf. Male. Adult. Name: Makisig. Friendly. 
 > > - Interpretation: He does not live in Aurora but he is thinking about reopening the mines — or using that area for something else. His gold could be the injection the local economy needs to get back on track. Or bring about its ruin? 
 { #Makisig-001a}
 
->
-> ---
+> - 👤 **NEW Character**: ➕[[NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]]
 
 > [!info] New Promise
 > - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P004-Ask around about what the townies think of this plan (2)\|MSFY-P004-Ask around about what the townies think of this plan (2)]]
 
-[📖ROLEPLAY]A dwarf named [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Makisig (Dwarf)\|Makisig]] introduces himself to Amaya.  He tells her about his fledgling plans of potentially reopening the old town mine, as they walk/ride side-by-side. Amaya **promises** to find out what the townies think of his plans. 
+[📖ROLEPLAY] A dwarf named Makisig introduces himself to Amaya.  He tells her about his fledgling plans of potentially reopening the old town mine, as they walk/ride side-by-side. Amaya **promises** to find out what the townies think of his plans. 
 
 Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He goes. 
 
@@ -161,7 +160,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > - **🔮 Oracle:** Partially generate [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
 > - Oracle type: IV Townie
 > - Result: Added NPC details
-> [!success]- **🎥 Move**: Try Your Best! **🎲 Dice:** Ask about state of town?
+> >[!success]-  **🎥 Move**: Try Your Best! **🎲 Dice:** Ask about state of town?
 > > - **💭 Commentary:** Honestly, kinda rude to ask this first thing but lol. 
 > > - Roll type: Action Roll (1d6 + Relevant Stat + Relevant Skill/s) vs 2d10
 > > - Result: 
@@ -172,7 +171,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > - **💞 Promise progress**: [0.2/4] ➕️1+1 (Inquire Level 2) [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P004-Ask around about what the townies think of this plan (2)\|MSFY-P004-Ask around about what the townies think of this plan (2)]]
 > - **🕰️ Time passes**: 
 > 	- Favour: [1] = ➕1 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
-> 	- Favour: [1] ➕ 1 [[Learn in Public/Play/Resources/NPCharacters/NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]] 
+> 	- Favour: [1] ➕ 1 [[NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]] 
 
 [📖ROLEPLAY] Amaya makes it to town and her Aunt spots her straight away! The two talk right where they are, and Amaya asks about the state of the town. Aunt Eskama talks about a large payment that the **town** had to pay to buy out the old owners and _safely_ close down the **mine** — townies were split on whether to do it or not.
 
@@ -191,7 +190,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > - **💞 Promise progress**: [1.0/4] ➕️1+1 (Inquire Level 2) [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P004-Ask around about what the townies think of this plan (2)\|MSFY-P004-Ask around about what the townies think of this plan (2)]]
 > - **🕰️ Time passes**:
 >    - Favour: [2] = ➕1 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
->    - Favour: [2] = ➕ 1 [[Learn in Public/Play/Resources/NPCharacters/NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]]
+>    - Favour: [2] = ➕ 1 [[NPC-Makisig (Dwarf)\|NPC-Makisig (Dwarf)]]
 { #2fe9ec}
 
 
@@ -201,7 +200,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > - Interpretation: [[LOC-Old Mine Museum\|LOC-Old Mine Museum]] also serves food. And it's even open on Rest Days.
 { #OMM001}
 
-> - [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|Amaya]] and [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]] eat at [[LOC-Old Mine Museum\|LOC-Old Mine Museum]]. 
+> - Amaya and [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]] eat at [[LOC-Old Mine Museum\|LOC-Old Mine Museum]]. 
 >- **🎲 Dice:** Does Aunt Eskama open up?  
 >- Roll type: MUNE > Unlikely 
 >-  - Result: No, and 
@@ -238,15 +237,16 @@ Amaya says she remembers where the old house is and will come find her around di
 > - Interpretation: The first one sounds interesting. Need to make a new townie to accept the request.
 > > [!info] - **🔮 Oracle:** Question: What's the townie like? 
 > > - Oracle type: [IV Townie Maker](https://chartopia.d12dev.com/chart/72857/)
-> > - Result: Name: [[Learn in Public/Play/Resources/NPCharacters/NPC-Hollow (Human)\|NPC-Hollow (Human)]]. Human. She/Her. Androgynous. Birthday: Spring 10. Animal Tamer/Keeper. Adult.
+> > - Result: Name: Hollow. Human. She/Her. Androgynous. Birthday: Spring 10. Animal Tamer/Keeper. Adult.
 { #Hollow001}
  
 > > - Interpretation: Ooh! Instead of Animal Tamer/Keeper, she will be the Wildlife Rescue person (which is one the people Amaya needs to meet for one of her promises!!!!). Also, I think I'll give her a kid.
 { #Hollow002}
 
+> - 👤 **NEW Character**: ➕️  [[Learn in Public/Play/Resources/NPCharacters/NPC-Hollow (Human)\|NPC-Hollow (Human)]]
 
 > [!info] New Promise
-> - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P006- Investigate Hollow's Haunted House (x)\|MSFY-P006- Investigate Hollow's Haunted House (x)]]
+> - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P006- Investigate Hollow's Haunted House (2)\|MSFY-P006- Investigate Hollow's Haunted House (2)]]
 
 [📖ROLEPLAY] Amaya checked out the Request Board and will look for Hollow to "Find out if that house is **haunted**". Amaya thinks this is odd but might be a cool way to get to know the neighbourhood... 
 
@@ -254,11 +254,11 @@ Amaya says she remembers where the old house is and will come find her around di
 > - Roll type: Action roll (specific resource)
 > - Result: Action roll 1d6 = 1+2 Iron. Challenge rolls 2d10 = 7, 3. 
 > - Interpretation:  3 means she gets a weak hit. 
-> - - **📦 Inventory:** Change: ➕Idea (1) [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya#Backpack\|PC-Amaya#Backpack]]
-> - - 💞 **Promise progress**: ➕️1 Tick [0.1/4] [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P002-Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-P002-Figure out why Mum and Aunt fought and make peace with their history (8)]]
+> - **📦 Inventory:** Change: ➕Idea (1) [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya#Backpack\|PC-Amaya#Backpack]]
+> - 💞 **Promise progress**: ➕️1 Tick [0.1/4] [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P002-Figure out why Mum and Aunt fought and make peace with their history (8)\|MSFY-P002-Figure out why Mum and Aunt fought and make peace with their history (8)]]
 > - **🎥 Move**: Time passes 3/4. No Favour. 
 
-[📖ROLEPLAY] Amaya got an idea to help with figuring out what happened between her mum and Aunt all those years ago. She'll try and grow closer to her Aunt Eskama. 
+[📖ROLEPLAY] Amaya got an **idea** to help with figuring out what happened between her mum and Aunt all those years ago. She'll try and grow closer to her Aunt Eskama. 
 
 ##### Day left: ⏰️
 
@@ -284,22 +284,26 @@ Amaya says she remembers where the old house is and will come find her around di
 > > - Oracle type: Generate a Townie
 > > - Result: Skipped 10 results before settling on Wild Elf (Slime was one of the options lol). He/Him. Other. Fall 5. Coffee / Tea House Keeper. Independent.
 > > - Interpretation: Makes sense! Elves give chill about gender presentation vibes. 
-> > - Stefan. Adult. He/Him. Other (wears what he likes). Barista. Independent. [[NPC-Stefan\|NPC-Stefan]]
+> > - Stefan. Adult. He/Him. Other (wears what he likes). Barista. Independent. 
 > > - **🔮 Oracle:** Where does Stefan work?
 > > - Oracle type: IV Location 
 > > - Result: | 75  | Small island|
-> > - Interpretation: Lil Cafe & Resto is an outdoor-only spot that lets you drink & dine while swimming in the lake. Open only in Summer and Spring.
-{ #LilCafe001}
- 
-> > - **📌 Location**: ➕️ [[LOC-Lil Cafe n Resto\|LOC-Lil Cafe n Resto]]
+> > - Interpretation: Lil Cafe & Resto is an outdoor-only spot that lets you drink & dine while swimming in the lake. Open only in Summer and Spring.  
 > > - **🎲 Dice:** Does the argument escalate? 
 > > - ​Roll type: MUNE: Fair
 > > - ​Result: No
 > > - Interpretation: No fight. Just time to hold a grudge.
+>  -  **📌 Location**: ➕️ [[LOC-Lil Cafe n Resto\|LOC-Lil Cafe n Resto]]
+{ #LilCafe001}
+
+> - 👤 **NEW Character**:  ➕️  [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]]
 
 [📖ROLEPLAY] **Nubelli** fly overhead, and Amaya plays the flute (badly). Two Nubelli like it and decide to swoop at her. She ducks and they keep swooping at her playfully. They show signs of wanting to come home with her. Someone sees the swooping birds and Amaya waving her arms. That person starts yelling while rushing towards them. Amaya is startled and freezes. The two Nubelli settle on her shoulders.     
 
 The stranger says they were worried that someone would get hurt. Amaya says it's... fine. It's not really fine, Amaya's spooked, so she decides to head back. She leaves the stranger.
+
+> [!info] New Promise
+> - 💞 **NEW promise**: [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008- Care for Nubelli x2 (1)\|MSFY-P008- Care for Nubelli x2 (1)]]
 
 > [!success]- **🎥 Move**: Try your best!! Strengthen bond with Nubelli (2)?
 > - **🎲 Dice:** Does it work?
@@ -309,10 +313,10 @@ The stranger says they were worried that someone would get hurt. Amaya says it's
 > - - Challenge rolls: 2d10 = [7, 10]
 > - - Interpretation:  7 < [9] < 10. Weak hit. +1 Promise. Time passes.
 > - **💭 Commentary:** I just realised I did my Root Around moves earlier wrong... Note to self for future...
-> - 💞 **Promise progress**: ➕️  1 Tick [0.1/4] [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P005-Decide how to help the community through work (2)\|MSFY-P005-Decide how to help the community through work (2)]]
+> - 💞 **Promise progress**: ➕️  1 Tick [0.1/4] ‐[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P005-Decide how to help the community through work (2)\|MSFY-P005-Decide how to help the community through work (2)]]
 { #005a}
 
-> - **💞 Promise progress**: ➕️1: 0.1/4[[Learn in Public/Play/MSFY-P007-Milk the Nubelli x2 (1)\|MSFY-P007-Milk the Nubelli x2 (1)]]
+> - **💞 Promise progress**: ➕️1: [0.1/4] ‐ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008- Care for Nubelli x2 (1)\|MSFY-P008- Care for Nubelli x2 (1)]]
 { #007a}
 
 > - **🎥 Move**: Time Passes: 4/4. Time to end the day (no more moves, can roleplay) 
@@ -352,7 +356,7 @@ Amaya feels bad, and she apologises. He apologises for coming across creepy. The
 > - Interpretation: Upside down Wheel of Fortune! **Reversed:** no control, clinging to control, bad luck (From Labyrinthos). Hmm... Maybe it changes...?
 
 > [!info] New Promise
-> - 💞 **NEW promise**:  **🎥 Move**: Make a promise (Urgent x Complicated) ➕ [[MSFY-P006-Repair the damage to Amaya's room (3)\|MSFY-P006-Repair the damage to Amaya's room (3)]]
+> - 💞 **NEW promise**:  **🎥 Move**: Make a promise (Urgent x Complicated) ➕ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P007-Repair the damage to Amaya's room (3)\|MSFY-P007-Repair the damage to Amaya's room (3)]]
 
 [📖ROLEPLAY] It's time for bed. Where is everyone sleeping? What? Both Amaya and Stefan are staying in the living room? What? Okay, the **room** that was going to be Amaya's got damaged recently. Need to repair it before she can stay there. Right. She holds her tongue even though she's thinking she could have delayed her move to Aurora until she had her own room... She promises herself that she'll get that room sorted as soon as she can. Good night. 
 

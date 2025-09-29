@@ -18,14 +18,14 @@ Calendar relevant to these games:
 
   
 
-| 🌞 SUMMER CALENDAR 🌞  |                                    |                       |             |                |
-| ---------------------- | ---------------------------------- | --------------------- | ----------- | -------------- |
-| Bread Day              | Friends Day                        | Soup Day              | Laundry Day | Rest Day       |
-| 1                      | 2                                  | 3                     | 4           | 5              |
-| 6 Community Garden Day | 7                                  | 8                     | 9           | 10             |
+| 🌞 SUMMER CALENDAR 🌞  |                             |                       |             |                |
+| ---------------------- | --------------------------- | --------------------- | ----------- | -------------- |
+| Bread Day              | Friends Day                 | Soup Day              | Laundry Day | Rest Day       |
+| 1                      | 2                           | 3                     | 4           | 5              |
+| 6 Community Garden Day | 7                           | 8                     | 9           | 10             |
 | 11                     | 12 [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|Amaya bday]] | 13                    | 14          | 15 Beach Party |
-| 16                     | 17 Town Cook Off                   | 18                    | 19          | 20             |
-| 21                     | 22                                 | 23 Fishing Tournament | 24          | 25             |
+| 16                     | 17 Town Cook Off            | 18                    | 19          | 20             |
+| 21                     | 22                          | 23 Fishing Tournament | 24          | 25             |
 
   
   
@@ -42,14 +42,14 @@ Calendar relevant to these games:
 
   
 
-| ⛄ WINTER CALENDAR ⛄ |             |          |                                                    |          |
-| ------------------- | ----------- | -------- | -------------------------------------------------- | -------- |
-| Bread Day           | Friends Day | Soup Day | Laundry Day                                        | Rest Day |
-| 1                   | 2           | 3        | 4                                                  | 5        |
-| 6                   | 7           | 8        | 9                                                  | 10       |
-| 11                  | 12          | 13       | 14                                                 | 15       |
-| 16                  | 17          | 18       | 19                                                 | 20       |
-| 21                  | 22          | 23       | 24 [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Eskama (Human Aunt)\|Eskama bday]] | 25       |
+| ⛄ WINTER CALENDAR ⛄ |             |          |                           |          |
+| ------------------- | ----------- | -------- | ------------------------- | -------- |
+| Bread Day           | Friends Day | Soup Day | Laundry Day               | Rest Day |
+| 1                   | 2           | 3        | 4                         | 5        |
+| 6                   | 7           | 8        | 9                         | 10       |
+| 11                  | 12          | 13       | 14                        | 15       |
+| 16                  | 17          | 18       | 19                        | 20       |
+| 21                  | 22          | 23       | 24 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]] | 25       |
 
 
 

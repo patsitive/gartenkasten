@@ -30,12 +30,13 @@ Systems of gameplay:
 
 [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|PC-Amaya]]
 
-[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
-[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|TTYOL NPCs]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|Worldbuilding]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|All NPCs in game setting]]
 Inhabits same world as [[Learn in Public/Play/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] — because I didn't want to wait to have to record videos to play Iron Valley LOL 
 
 ### Actual Plays 
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000 Setting up the game\|MSFY-000 Setting up the game]]
 - [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001 - Welcome to Aurora\|MSFY-001 - Welcome to Aurora]]
+- [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-002\|MSFY-002]] 
 - 
 

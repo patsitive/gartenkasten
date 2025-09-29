@@ -62,7 +62,3 @@ The way way to to l create a history for your fantasy world
 Ancient history - leave remnants, leave it mysterious, what traditions have been handed down 
 Recent history - few people alive who experienced some of these events (100 to 500 years old depending on records?)
 Differing interpretation depending on real experience or knowledge from parents or grandparents or from textbooks only 
-
-Related: 
-[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|TTYOL NPCs]]
-[[MSFY-Location-Aurora\|MSFY-Location-Aurora]]

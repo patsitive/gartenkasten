@@ -134,18 +134,19 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 
 #### Year 1 — Summer 24 
 
-> [!info]- **📌 Location**: STILL NEED TO FLESH IT OUT—add to [[Learn in Public/Play/Resources/Hubs/TTYOL-All Locations\|TTYOL-All Locations]]
+> [!info]- **📌 Location**: [[LOC-Big City\|LOC-Big City]]
 
-[[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita\|Sampaguita]] pulled the door open, yanking at it with more force than needed. She found herself off-balance, her midnight black hair thrown back suddenly. The woman held fast to the wood, steadying herself and smoothing out her wide blue skirts. 
+Sampaguita pulled the door open, yanking at it with more force than needed. She found herself off-balance, her midnight black hair thrown back suddenly. The woman held fast to the wood, steadying herself and smoothing out her wide blue skirts. 
 
 "I told you it's in good condition," chided a sour voice. 
 
 Sampaguita paid the gnome no mind, stepping into the carriage. In her experience, doors tended to stick more than not or couldn't be trusted to stay shut. Inside, she took stock of the rounded space with its sloped ceiling and curved walls. On the far wall was a large window with stained glass extending nearly from corner to corner. What little winter sun was available streamed in, bathing the space in a warm glow and rainbow hues. Beneath the window lay a solid wood cabinet with many drawers. To its right was a plush seat.
 
 > [!info]- **💭 Commentary:** Who just spoke? I chose!
-> The carriage-seller is a mascule gnome who goes by he/him. 
+> - The carriage-seller is a masculine gnome who goes by he/him. 
+> - 👤 **NEW Character**:  ➕️  [[Learn in Public/Play/Resources/NPCharacters/NPC-Bayabas (Gnome)\|NPC-Bayabas (Gnome)]]
 
-"That pulls out into your bed," declared the [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Bayabas (Merchant Gnome)\|gnome]], as he shut the door behind him. Surprisingly, there was plenty of room for the two of them. He stepped past Sampaguita and tugged at the seat cushion. "It goes like— well, it goes like," he huffed, pulling at something under the seat. 
+"That pulls out into your bed," declared the gnome, as he shut the door behind him. Surprisingly, there was plenty of room for the two of them. He stepped past Sampaguita and tugged at the seat cushion. "It goes like— well, it goes like," he huffed, pulling at something under the seat. 
 
 Cocking her head, Sampaguita easily lifted the cushion for him. "Thanks," chirped the gnome, before he unfolded hinged wooden slats. The merchant patted at the wood base. "Now the bedding," he declared, pointing meaningfully at the thick material Sampaguita held. She tugged at it, and the material unfurled to reveal its new form as a mattress. 
 
@@ -229,7 +230,7 @@ They were now in front of another carriage, evidently the source of the screamin
 A lady gnome emerged from the carriage, looking harried and rocking a baby. 
 
 > [!info]- **💭 Commentary:**  Picked his name!
-> [[Learn in Public/Play/Resources/Hubs/TTYOL NPCs#Bayabas (Merchant Gnome)\|Bayabas]] means guava fruit in Tagalog. 
+> [[Learn in Public/Play/Resources/NPCharacters/NPC-Bayabas (Gnome)\|NPC-Bayabas (Gnome)]] means guava fruit in Tagalog. 
 
 The gnome frowned in concern. "I tell you what," he began. "Knock on my door if you can help with me baby." He sighed. "I help me wife, but my babe is crying all the time..." 
 

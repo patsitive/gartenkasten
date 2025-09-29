@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T16:11","updated":"2025-09-29T08:50","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:11","updated":"2025-09-29T09:28","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
 ---
 
 
@@ -50,6 +50,12 @@ Loop:
 > - Anise vents to Feyra → Feyra sides with Bob (“yes, you’re loud”).
 > - Feyra’s bluntness annoys Bob → now Bob avoids both of them.
 All tiny, fixable conflicts → but until they talk it out, it’s drama!
+
+##### 🔺 Cosy Drama Triangle Recipe
+
+1. **Pick 3 characters.**
+2. **Give each one a need/desire** that’s good in itself.
+3. **Make those needs conflict in a loop.** (A’s need blocks B, B’s need blocks C, C’s need blocks A.)
 
 #### 5x5
 Draw a grid that has 5 columns and 6 rows. Make each column a distinct category. Filling out each column with your ideas will give you 25 distinct prompts that you can mix and match in new ways. 

@@ -21,8 +21,8 @@ Systems of gameplay:
 ### World 
 
 [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita\|PC-Sampaguita]]
-[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|TTYOL NPCs]]
-[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL NPCs\|All NPCs in game setting]]
+[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|Worldbuilding]]
 
 ### Actual Plays 
 

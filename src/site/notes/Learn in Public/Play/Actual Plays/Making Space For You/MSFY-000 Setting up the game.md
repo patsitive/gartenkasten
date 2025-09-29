@@ -121,13 +121,14 @@ Next: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-001 - Welcom
 
 #### Character Truths
 - I decided on some Character Truths for my character
+- 👤 **NEW Character**:  [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|PC-Amaya]]
 
 ##### She/her & feminine
 - Character Truth: Amaya is feminine and uses she/her pronouns 
 	- **💭 Commentary:** I decided this—no rolls! 
 
 ##### Amaya
-- Character Truth: Character name is [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya\|Amaya]]
+- Character Truth: Character name is Amaya
 	- **🔮 Oracle:** Question: What is my character's name?
 	- - Oracle type: Rolled from [Filipino name generator](https://www.fantasynamegenerators.com/filipino-names.php)
 	- - Result: There were a lot! So I picked one I liked
