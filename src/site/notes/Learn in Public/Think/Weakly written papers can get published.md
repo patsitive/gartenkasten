@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-26T10:36","updated":"2025-08-30T16:06","dg-permalink":"9a-weak-papers-published","dg-publish":true,"id":"9a","dg-path":"Think/Weakly written papers can get published.md","permalink":"/9a-weak-papers-published/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-26T10:36","updated":"2025-08-30T16:05","dg-permalink":"9a-weak-papers-published","dg-publish":true,"id":"9a","dg-path":"Think/Weakly written papers can get published.md","permalink":"/9a-weak-papers-published/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Weakly written papers can get published. I wonder how they get past peer review? 

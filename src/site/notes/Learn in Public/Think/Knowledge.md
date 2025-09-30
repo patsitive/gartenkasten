@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-14T14:1","updated":"2025-09-07T05:48","aliases":"What is knowledge,  Knowledge definition","id":"3c1","dg-permalink":"3c1-knowledge","noteIcon":"flower","excexcalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"dg-publish":true,"dg-path":"Think/Knowledge.md","permalink":"/3c1-knowledge/","dgPassFrontmatter":true}
+{"created":"2025-06-14T14:1","updated":"2025-09-07T05:49","aliases":"What is knowledge,  Knowledge definition","id":"3c1","dg-permalink":"3c1-knowledge","noteIcon":"flower","excexcalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"dg-publish":true,"dg-path":"Think/Knowledge.md","permalink":"/3c1-knowledge/","dgPassFrontmatter":true}
 ---
 
 

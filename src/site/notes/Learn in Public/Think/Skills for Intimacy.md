@@ -1,5 +1,5 @@
 ---
-{"created":"2024-09-21T21:14","updated":"2025-08-30T20:03","id":2,"dg-permalink":"2-skills-intimacy","dg-publish":true,"noteIcon":"signpost","dg-path":"Think/Skills for Intimacy.md","permalink":"/2-skills-intimacy/","dgPassFrontmatter":true}
+{"created":"2024-09-21T21:14","updated":"2025-08-30T19:54","id":2,"dg-permalink":"2-skills-intimacy","dg-publish":true,"noteIcon":"signpost","dg-path":"Think/Skills for Intimacy.md","permalink":"/2-skills-intimacy/","dgPassFrontmatter":true}
 ---
 
 The skills for intimacy come from Laura Doyle who writes on creating joyful heterosexual marriages—even when on the brink of divorce. 
