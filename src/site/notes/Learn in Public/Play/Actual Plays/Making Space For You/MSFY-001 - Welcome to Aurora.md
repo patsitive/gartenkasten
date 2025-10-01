@@ -146,6 +146,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > > [!info]- **🎥 Move**: Root Around (General)  **🎲 Dice:** What does Amaya find?  
 > > - Roll type: 1d100  
 > > - Result: `d100 = 47` > Wild Honey x 1  
+
 > [!example] Item
 > - **📦 Inventory:** Change: ➕ Wild Honey (1) [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya#Backpack\|PC-Amaya#Backpack]]
 >  - **🎥 Move**: **Time Passes**.
@@ -172,6 +173,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 > > - Interpretation: 1 < [7] < 9. Weak hit! Relevant to two promises. Time passes. 
 > - **💞 Promise progress**: [0.2/4] ➕️1+1 (Inquire Level 2) [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]] 
 > - **💞 Promise progress**: [0.2/4] ➕️1+1 (Inquire Level 2) [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P004-Ask around about what the townies think of this plan (2)\|MSFY-P004-Ask around about what the townies think of this plan (2)]]
+
 > [!example]- New Character
 > - 👤 **NEW Character**: ➕ [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
 > - **🕰️ Time passes**: 
@@ -206,7 +208,7 @@ Amaya waves him on — he's on a horse! He shouldn't have to wait for her. He go
 { #OMM001}
 
 
-> [!info] **🎲 Dice:** Does Aunt Eskama open up? 
+> [!info]- **🎲 Dice:** Does Aunt Eskama open up? 
 >- Roll type: MUNE > Unlikely 
 >- - Result: No, and 
 >- - Interpretation: No to talking but yes to... a gift? 
@@ -311,6 +313,7 @@ Amaya says she remembers where the old house is and will come find her around di
 
 > [!example] Inventory change 
 > - **📦 Inventory:** Change: ➕ Nubelli (2) [[Learn in Public/Play/Resources/Player Characters/Amaya/PC-Amaya#Backpack\|PC-Amaya#Backpack]]
+
 > [!example] New character
 >  - 👤 **NEW Character**:  ➕️  [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]]
 
@@ -349,7 +352,7 @@ The stranger says they were worried that someone would get hurt. Amaya says it's
 
 [📖ROLEPLAY] They make it back to town. He's *still* following her. People-pleaser that she is, she doesn't say anything...
 
-> [!info] **🔮 Oracle:** Question: Does Amaya confront Stefan _now_?
+> [!info]- **🔮 Oracle:** Question: Does Amaya confront Stefan _now_?
 > - Oracle type: MUNE Likely
 > - Result: Yes
 > - Interpretation: Fight time!
