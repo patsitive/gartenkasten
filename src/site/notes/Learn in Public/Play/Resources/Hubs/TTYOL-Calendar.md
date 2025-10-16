@@ -31,14 +31,14 @@ Calendar relevant to these games:
   
   
 
-| 🍂  FALL CALENDAR 🍂 |             |          |             |          |
-| -------------------- | ----------- | -------- | ----------- | -------- |
-| Bread Day            | Friends Day | Soup Day | Laundry Day | Rest Day |
-| 1                    | 2           | 3        | 4           | 5        |
-| 6                    | 7           | 8        | 9           | 10       |
-| 11                   | 12          | 13       | 14          | 15       |
-| 16                   | 17          | 18       | 19          | 20       |
-| 21                   | 22          | 23       | 24          | 25       |
+| 🍂  FALL CALENDAR 🍂 |             |                                      |             |          |
+| -------------------- | ----------- | ------------------------------------ | ----------- | -------- |
+| Bread Day            | Friends Day | Soup Day                             | Laundry Day | Rest Day |
+| 1                    | 2           | 3                                    | 4           | 5        |
+| 6                    | 7           | 8                                    | 9           | 10       |
+| 11                   | 12          | 13 <br>[[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita\|Sampaguita]] | 14          | 15       |
+| 16                   | 17          | 18                                   | 19          | 20       |
+| 21                   | 22          | 23                                   | 24          | 25       |
 
   
 

@@ -322,7 +322,7 @@ Amaya says she remembers where the old house is and will come find her around di
 The stranger says they were worried that someone would get hurt. Amaya says it's... fine. It's not really fine, Amaya's spooked, so she decides to head back. She leaves the stranger.
 
 > [!info] New Promise
-> - 💞 **NEW promise**: [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for animals (1)\|MSFY-P008-Care for animals (1)]]
+> - 💞 **NEW promise**: [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for Nubelli (1)\|MSFY-P008-Care for Nubelli (1)]]
 
 > [!success]- **🎥 Move**: Try your best!! Strengthen bond with Nubelli (2)?
 > - **🎲 Dice:** Does it work?
@@ -333,7 +333,7 @@ The stranger says they were worried that someone would get hurt. Amaya says it's
 > - - Interpretation:  7 < [9] < 10. Weak hit. +1 Promise. Time passes.
 > - **💭 Commentary:** I just realised I did my Root Around moves earlier wrong... Note to self for future...
 > - 💞 **Promise progress**: ➕️  1 Tick [0.1/4] ‐[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P005-Decide how to help the community through work (2)\|MSFY-P005-Decide how to help the community through work (2)]]
-> - **💞 Promise progress**: ➕️1: [0.1/4] ‐ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for animals (1)\|MSFY-P008-Care for animals (1)]] 
+> - **💞 Promise progress**: ➕️1: [0.1/4] ‐ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for Nubelli (1)\|MSFY-P008-Care for Nubelli (1)]] 
 > - **🎥 Move**: Time Passes: 4/4. Time to end the day (no more moves, can roleplay) 
 
 [📖ROLEPLAY] Amaya strengthens her bond with the **Nubelli**, which helps with her promises! Time got away from her as she kept stopping while doing this on the way to Aunt's. 

@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-09-30T13:41","type":"webpage","aliases":null,"created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Croaker2024StartOwnSolo.md","permalink":"/reference/croaker2024-start-own-solo/","dgPassFrontmatter":true}
+{"updated":"2025-10-16T18:37","type":"webpage","aliases":null,"created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Croaker2024StartOwnSolo.md","permalink":"/reference/croaker2024-start-own-solo/","dgPassFrontmatter":true}
 ---
 
 # Notes 
@@ -9,7 +9,16 @@
 
 > [!info] Reference:: [Croaker. (2024) The Lone Toad. Start your own Solo Actual Play today!](https://croakerrpgs.substack.com/p/start-your-own-solo-actual-play-today)
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 These are my personal notes and reflections based on the reference source noted above. 💗 My insights may differ from what originally intended by the original author. 
+
+</div></div>
+
 
 ## Key Points
 - Logistics of playing and creating Actual Plays

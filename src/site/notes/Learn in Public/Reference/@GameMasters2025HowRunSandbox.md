@@ -1,12 +1,25 @@
 ---
-{"created":"2025-09-25T16:11","updated":"2025-09-29T09:26","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:11","updated":"2025-10-16T18:38","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
 ---
 
 
-Simplify game setup with these techniques to create a sandbox with near unlimited possibilities. The video talks about these techniques in the context of Game Master preparation for group ttrpg games, but I think the techniques can be adapted for solo RPGs — these essentially utilise constraints to generate creativity, which support emergent narrative. 
+>[!tldr]+ Summary
+> Simplify game setup with these techniques to create a sandbox with near unlimited possibilities. The video talks about these techniques in the context of Game Master preparation for group ttrpg games, but I think the techniques can be adapted for solo RPGs — these essentially utilise constraints to generate creativity, which support emergent narrative. 
 
-> [!note] [Youtube Link](https://www.youtube.com/watch?v=R9C4mgPjv4A)
+> [!info] Reference:: [Game Masters (2025). How to Run a Sandbox Campaign](https://www.youtube.com/watch?v=R9C4mgPjv4A)
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+These are my personal notes and reflections based on the reference source noted above. 💗 My insights may differ from what originally intended by the original author. 
+
+</div></div>
+
+
+---
 ### Techniques I want to use for solo roleplay
 There were three more techniques, but I opted not to take notes on them. 😅
 

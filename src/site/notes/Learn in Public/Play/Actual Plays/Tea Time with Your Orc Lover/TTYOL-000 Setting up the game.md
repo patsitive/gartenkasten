@@ -103,18 +103,6 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 > (Kind regards, Pat)  
 > (Mabait na pagbati, Pat)  
 
-### Links mentioned 
-
-#### Solo roleplay resources 
-- [Tips for playing Solo RPGs as a newbie by Man Alone](https://youtu.be/fZbr9Id1Zlw?si=Hfd0G6F0TGCMuiMa)
-- [Tips for playing Solo RPGs by Me, Myself and Die](https://youtu.be/dgVtt8jC2aA?si=mmU9AOTYmU4OlvWA)
-- [Guide to cozy Solo RPG play by TheGrouchCouch](https://youtu.be/Wsh9vzJI2S8?si=ZJCb1gbeJ3WVOkUN)
-- [What is Solo Roleplaying by TheGrouchCouch](https://youtu.be/1fC5kLgFva0?si=CDBtuM7dfJCXz8UP)
-
-#### Tangents
-- [The magical ISO-8601](https://www.iso.org/iso-8601-date-and-time-format.html)
-- [Executive function strategies for adults](https://theadultspeechtherapyworkbook.com/executive-functioning-activities-for-adults/)
-
 --- 
 
 ## Textual Actual Play 
@@ -125,15 +113,45 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 - [Wandering Tea Garden by AP](https://ap-cartography.itch.io/the-wandering-tea-garden)
 - [Iron Valley by M Kirin](https://mkirin.itch.io/iron-valley)
 
-What I got up to: 
-- Understanding the rules of Wandering Tea Garden and Iron Valley 
+### Context 
+- Went through the rules of Wandering Tea Garden and Iron Valley 
 - What is Solo RPG, what about TTRPG? What do I even know? 
-- Set-up! 
-	- What are the World Truths? [[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
-	- What are your Player Character Truths? [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita\|Sampaguita]]
-	- What are Sampaguita's Starting Promises? [[Learn in Public/Play/Resources/Player Characters/Sampaguita/TTYOL-Promise Tracker-Sampaguita\|TTYOL-Promise Tracker-Sampaguita]]
-- Tangent about ISO-8061 — why it is the best date standard
+
+#### Solo roleplay resources 
+- [Tips for playing Solo RPGs as a newbie by Man Alone](https://youtu.be/fZbr9Id1Zlw?si=Hfd0G6F0TGCMuiMa)
+- [Tips for playing Solo RPGs by Me, Myself and Die](https://youtu.be/dgVtt8jC2aA?si=mmU9AOTYmU4OlvWA)
+- [Guide to cozy Solo RPG play by TheGrouchCouch](https://youtu.be/Wsh9vzJI2S8?si=ZJCb1gbeJ3WVOkUN)
+- [What is Solo Roleplaying by TheGrouchCouch](https://youtu.be/1fC5kLgFva0?si=CDBtuM7dfJCXz8UP)
+
+### Game Setup
+
+#### What are the World Truths? 
+[[Learn in Public/Play/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+
+#### What are your Player Character Truths? 
+[[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita\|Sampaguita]]
+
+##### Starting skills
+- NEW: Foraging Level 1 [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Skills\|PC-Sampaguita#Skills]]
+- NEW: Brewing Level 1 [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Skills\|PC-Sampaguita#Skills]]
+- NEW: Bartering Level 2 [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Skills\|PC-Sampaguita#Skills]]
+
+##### Backpack
+- NEW: Kalimba (1) [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Backpack\|PC-Sampaguita#Backpack]]
+- NEW: Farm fresh eggs (1) [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Backpack\|PC-Sampaguita#Backpack]]
+- NEW: Cookbook (1) [[Learn in Public/Play/Resources/Player Characters/Sampaguita/PC-Sampaguita#Backpack\|PC-Sampaguita#Backpack]]
+
+#### What are Sampaguita's Starting Promises? 
+[[Learn in Public/Play/Resources/Player Characters/Sampaguita/TTYOL-Promise Tracker-Sampaguita\|TTYOL-Promise Tracker-Sampaguita]]
+> [!info] New Promise
+> - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Sampaguita/TTYOL-P001-Explore the world and its garden of delights (8)\|TTYOL-P001-Explore the world and its garden of delights (8)]]
+> - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Sampaguita/TTYOL-P002-Brew teas from garden carriage (6)\|TTYOL-P002-Brew teas from garden carriage (6)]]
+> - 💞 **NEW promise**:  [[Learn in Public/Play/Resources/Player Characters/Sampaguita/TTYOL-P003-Open wandering tea garden (5)\|TTYOL-P003-Open wandering tea garden (5)]]
+
+### Tangents 
+- Tangent about ISO-8061 — why it is the best date standard - [The magical ISO-8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 - Tangent about executive function — the Chase Promises mechanic literally asks you to break down the tasks of the your character's goals, and that is GENIUS executive function hacking
+	- [Executive function strategies for adults](https://theadultspeechtherapyworkbook.com/executive-functioning-activities-for-adults/)
 - Tangent about sampaguita flowers and random Filipino lore
 
 --- 

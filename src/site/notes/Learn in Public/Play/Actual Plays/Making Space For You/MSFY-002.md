@@ -97,7 +97,7 @@ A storm brings Amaya closer to her housemates.
 
 ##### Day left: ⌚⌚⌚⌚ 
 
-> [!info]- **📌 Location**:  House of Aunt Eskama
+> [!info] **📌 Location**:  House of Aunt Eskama
 
 > [!info]- **🔮 Oracle:** Weather? 
 > - Oracle type: IV Weather
@@ -114,7 +114,7 @@ A storm brings Amaya closer to her housemates.
 > > - Result: Action Roll: 1d6+Stat = 1+1 = 2. Challenge rolls: 2d10 = [1, 4]
 > > - Interpretation:  1 < [2] < 4. Weak hit! 
 > >
->  - **💞 Promise progress**: ➕️1 = [0:1/4] [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P007-Repair the damage to Amaya's room (3)\|MSFY-P007-Repair the damage to Amaya's room (3)]]^006a
+>  - **💞 Promise progress**: ➕️1 = [0:1/4]= [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P007-Repair the damage to Amaya's room (3)\|MSFY-P007-Repair the damage to Amaya's room (3)]]-Work on repairs during storm^006a
 >  - **🕰️ Time passes**:  
 >  - ➕️ 1 Favour = 3 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
 >  - ➕️ 1 Favour = 1 [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]]
@@ -127,15 +127,14 @@ A storm brings Amaya closer to her housemates.
 > - Roll type: Action Roll + Heart + Inquire Level 2
 > - Result: Action Roll: 1d6+Stat = 5 + 3 + 1 = 9. Challenge rolls: 2d10 =  [6,3] 
 > - Interpretation:  [9] > 6 > 3 = Strong Hit! (2 + 1 from Inquire Level 2). No time effect. 
-> 
-> - **💞 Promise progress**: ➕️3: [1.1/4]  -[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]]
+> - **💞 Promise progress**: ➕️3: [1.1/4]  -[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]]-A good chat during the storm
 { #001a}
 
->
 > > [!fail]- **🎥 Move**: Try your best! **🎲 Dice:** Does Amaya learn more about the "haunted" house? 
 > > - Roll type: Action + Shadow
 > > - Result: Action Roll: 1d6+Stat = 2+1 = 3. Challenge rolls: 2d10 =  [7, 9]
 > > - Interpretation:  3 < 7 < 9 = MISS. 
+> - **💞 Promise progress**: MISS ❌ [0.0]=[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P006- Investigate Hollow's Haunted House (2)\|MSFY-P006- Investigate Hollow's Haunted House (2)]]-Stefan and Eskama don't know about the haunted house.
 > - **🕰️ Time passes**:  
 > - ➕️ 1 Favour: 4 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
 > - ➕️ 1 Favour: 2 [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]].
@@ -148,19 +147,19 @@ A storm brings Amaya closer to her housemates.
 > - Roll type: Action + Wits + Creature handling Level 1
 > - Result: Action Roll: 1d6+Stat = 1+3+1 = 5. Challenge rolls: 2d10 =  [4, 3]
 > - Interpretation:  [5] > 4 > 3. Great hit! No time passes.
-> - **💞 Promise progress**: ➕️ 1: 0.2/4 - [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for animals (1)\|MSFY-P008-Care for animals (1)]]
+> - **💞 Promise progress**: ➕️ 1: 0.2/4 - [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P008-Care for Nubelli (1)\|MSFY-P008-Care for Nubelli (1)]]-Time spent looking after Nubelli
 { #007a}
 
-> - **🎲 Dice:** Does the weather change? 
+
+> [!info]- **🎲 Dice:** Does the weather change? 
 > - Roll type: MUNE Unlikely
 > - Result: No, and
 > - Interpretation:  uh... no, and it actually gets worse, so Aunt Eskama has a surprise! 
-> 
 > - **🎥 Move**: Try your best!! **🎲 Dice:** Do they get to talk about the town some more? 
 > - Roll type: Action + Heart + Inquire Level 2 
 > - Result: Action Roll: 1d6+Stat = 5+3+1 = 9. Challenge rolls: 2d10 =  [4,8]
 > - Interpretation:  [9] > 4, [9] > 8 = Strong Hit! 2 ticks +1 from Inquire Level 2. No time passes. 
-> - **💞 Promise progress**: [2.0/4] ➕️3 ticks [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]]
+> - **💞 Promise progress**: [2.0/4] ➕️3 ticks [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]] -While playing cards, they talked
 { #001b}
 
 
@@ -189,14 +188,14 @@ As Amaya sips her hot chocolate, she wonders—if this town looks after each oth
 > - Roll type: Action Roll + Edge (flute = light tool?? Idk)
 > - Result: Action Roll: 1d6+Stat = 5+1 = 6. Challenge rolls: 2d10 = [7,5].
 > - Interpretation:  5 < [6] < 7. Weak hit! 1 tick. Time passes.  
-> - **💞 Promise progress**: ➕️1: [0.1/4]- [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P009-Learn to play the flute (3)\|MSFY-P009-Learn to play the flute (3)]]
+> - **💞 Promise progress**: ➕️1: [0.1/4]- [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P009-Learn to play the flute (3)\|MSFY-P009-Learn to play the flute (3)]]-Practicing by herself
 { #008a}
 
-> - 
-> > [!info]-  **🔮 Oracle:** How do Stefan and Aunt Eskama react to her attempts? 
-> >  - Oracle type: IV Action, Theme, Descriptor, Focus
-> > - Result: | 40  | Flirt              | Friendship    | Fragrant         | Hermit           |
-> > - Interpretation: Hermit = Amaya avoiding. Friendship = Aunt Eskama. Flirt = Stefan? Offering help? Hmm.
+
+> [!info]-  **🔮 Oracle:** How do Stefan and Aunt Eskama react to her attempts? 
+> - Oracle type: IV Action, Theme, Descriptor, Focus
+> - Result: | 40  | Flirt              | Friendship    | Fragrant         | Hermit           |
+> - Interpretation: Hermit = Amaya avoiding. Friendship = Aunt Eskama. Flirt = Stefan? Offering help? Hmm.
 > - **🕰️ Time passes**: 
 > - ➕️ 1 Favour: 5 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]].
 > - ➕️ 1 Favour: 3 [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]].
@@ -210,7 +209,7 @@ Later, after Amaya had eaten her sandwich (sharing a bit with the Nubelli!), Ste
 
 ##### Day left: ⌚
 
-> [!info]- **💭 Commentary:** Rule mistake!
+> [!info]+ **💭 Commentary:** Rule mistake!
 > I was just watching an [Actual Play](https://youtu.be/9hxpUtcna5w?si=eTvWkdNGMMsmHH4d) and realised I have been calculating Hits and Misses wrong. 😳
 > > 🚫 My wrong Hit check: Total Action Score >= Challenge score (one die)
 > Here is the rule: 
@@ -222,7 +221,7 @@ Later, after Amaya had eaten her sandwich (sharing a bit with the Nubelli!), Ste
 >  - - Result: 4 +2 (Heart) +1 (Inquire) . [1,2]
 >  - - Interpretation: **[8]** > 2 > 1. Strong hit! 2 ticks +1 Inquire Level 2
 >  -  
->  - **💞 Promise progress**: ➕️3 [2.3/4]-[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]] 
+>  - **💞 Promise progress**: ➕️3 [2.3/4]-[[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P001-Find out what caused Aurora to get so rundown (6)\|MSFY-P001-Find out what caused Aurora to get so rundown (6)]] - after the mine closure, the town became insular
 >  - - **💭 Commentary:** Hmm. Maybe something to do with the community spirit? Also mention community garden day... 
 >  - 
 >  - **🔮 Oracle:** What's for dinner?
@@ -232,9 +231,19 @@ Later, after Amaya had eaten her sandwich (sharing a bit with the Nubelli!), Ste
 > - **💭 Commentary:** Oh, another opportunity for Stefan to be nice but Amaya to completely misread it. 
 
 > [!alert] New Promise
-> - **💞 NEW Promise**: ➕️ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P010-Check out Community Garden Day (1)\|MSFY-P010-Check out Community Garden Day (1)]]
+> - **💞 NEW Promise**: ➕️ [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-Z010-Check out Community Garden Day (1)\|MSFY-Z010-Check out Community Garden Day (1)]]
 
-[📖ROLEPLAY] During dinner — pasta puttanesca, one of Amaya's favourites — **Aunt Eskama** mentions that today was supposed to be Community Garden Day, but with the storm it was likely postponed until the next day of good weather. Amaya says she'll **check it out** to start getting to know people in Aurora. **Stefan** offers to take her to the community garden, but she waves him off, saying she can figure it out. (She isn't incompetent...). 
+[📖ROLEPLAY] During dinner — pasta puttanesca, one of Amaya's favourites — Aunt Eskama mentions that today was supposed to be Community Garden Day, but with the storm it was likely postponed until the next day of good weather. She mentions off-handedly that the community looks after each other no matter what. 
+
+Amaya cocked her head, wondering about the state of the township proper. The shops and buildings that she knew when she was younger were all boarded up or looking worse for wear. After a mouthful of spaghetti, Aunt Eskama dabs at her mouth. "I can see you thinking, you know." She smiled warmly at her niece. 
+
+"Aurora is more than its township—it's a community." The older woman turned her gaze heavenward. "After the closure of the mine, most of the mining folk left, and a lot of trade stopped." She twirled pasta on her fork. "We focussed our attention on looking after each other and less on making a profit." 
+
+She looked at Amaya meaningfully. "Visitors will say that Aurora has gone bad or some nonsense like that—it hasn't. Shops have closed, but we trade favours. People still work and learn and live—it's all informal. You haven't been able to really go around to see it, but the beauty of Aurora is still there—in our hearts and in our homes." She chuckled. "Well, maybe not our home..." 
+
+Amaya touched her aunt's arm gently. Eskama looked at her and smiled. "I know our home isn't how it used to be, but we can restore it. And you'll start seeing the real Aurora if you go to the Community Garden Day tomorrow." 
+
+The young woman promised to **check it out**. She wanted to start getting to know people in Aurora again anyway. Stefan offered to take her to the community garden, but she waved him off, saying she can figure it out. (She isn't incompetent...). 
 
 ##### Day left: ⌚️
 
@@ -245,7 +254,7 @@ Later, after Amaya had eaten her sandwich (sharing a bit with the Nubelli!), Ste
 > -  - Challenge rolls: 2d10 = [5, 10] 
 > - Interpretation:  5 < [7] < 10. Weak hit! 
 > - 
-> - **💞 Promise progress**: ➕️1: [0.2/4]- [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P005-Decide how to help the community through work (2)\|MSFY-P005-Decide how to help the community through work (2)]] 
+> - **💞 Promise progress**: ➕️1: [0.2/4]- [[Learn in Public/Play/Resources/Player Characters/Amaya/MSFY-P005-Decide how to help the community through work (2)\|MSFY-P005-Decide how to help the community through work (2)]] -talk about animal-related work in Aurora
 > - **🕰️ Time passes**:  
 > - ➕️  1 Favour: 6 [[Learn in Public/Play/Resources/NPCharacters/NPC-Eskama (Human)\|NPC-Eskama (Human)]]
 > - ➕️  1 Favour: 4 [[Learn in Public/Play/Resources/NPCharacters/NPC-Stefan\|NPC-Stefan]]
