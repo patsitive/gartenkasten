@@ -1,5 +1,5 @@
 ---
-{"created":"2025-10-16T18:30","updated":"2025-10-16T18:40","dg-publish":true,"dg-path":"Solo Roleplaying.md","permalink":"/solo-roleplaying/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-10-16T18:30","updated":"2025-10-16T18:41","dg-publish":true,"dg-path":"Solo Roleplaying.md","permalink":"/solo-roleplaying/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 #MoC 

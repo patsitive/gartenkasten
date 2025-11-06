@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-26T10:06","updated":"2025-08-26T10:37","dg-publish":true,"noteIcon":"log","dg-path":"Create/Digital Garden Plugin documentation.md","permalink":"/create/digital-garden-plugin-documentation/","dgPassFrontmatter":true}
+{"created":"2025-08-26T10:06","updated":"2025-08-26T10:44","dg-publish":true,"noteIcon":"log","dg-path":"Create/Digital Garden Plugin documentation.md","permalink":"/create/digital-garden-plugin-documentation/","dgPassFrontmatter":true}
 ---
 
 We are working on making the [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) documentation EVEN BETTER. This is a draft project page lol. I am posting this online because Discord said my message is too long (rude).

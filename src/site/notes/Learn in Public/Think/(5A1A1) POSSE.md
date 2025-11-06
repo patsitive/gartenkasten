@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-08-08T17:38","updated":"2025-08-08T17:41","aliases":["Publish on Own Site Syndicate Elsewhere"],"dg-publish":true,"noteIcon":"flower","dg-permalink":"5a1a1-posse","id":"5a1a1","dg-path":"Think/(5A1A1) POSSE.md","permalink":"/5a1a1-posse/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-08-08T17:38","updated":"2025-09-05T11:32","aliases":["Publish on Own Site Syndicate Elsewhere"],"dg-publish":true,"noteIcon":"flower","dg-permalink":"5a1a1-posse","id":"5a1a1","dg-path":"Think/(5A1A1) POSSE.md","permalink":"/5a1a1-posse/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-22T14:50","updated":"2025-08-30T19:20","dg-publish":true,"noteIcon":"flower","dg-permalink":"1a1d-compass-of-thoughts","id":"1a1d","dg-path":"Think/Compass of Thoughts can generate ideas or connections.md","permalink":"/1a1d-compass-of-thoughts/","dgPassFrontmatter":true}
+{"created":"2025-04-22T14:50","updated":"2025-09-04T13:40","dg-publish":true,"noteIcon":"flower","dg-permalink":"1a1d-compass-of-thoughts","id":"1a1d","dg-path":"Think/Compass of Thoughts can generate ideas or connections.md","permalink":"/1a1d-compass-of-thoughts/","dgPassFrontmatter":true}
 ---
 
 

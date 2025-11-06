@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-24T11:11","updated":"2025-09-01T10:48","id":"1a3a","dg-permalink":"1a3a-actions-identity","dg-publish":true,"dg-path":"Think/(1A3A) Shift your identity by changing your actions.md","permalink":"/1a3a-actions-identity/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-06-24T11:11","updated":"2025-09-04T13:58","id":"1a3a","dg-permalink":"1a3a-actions-identity","dg-publish":true,"dg-path":"Think/(1A3A) Shift your identity by changing your actions.md","permalink":"/1a3a-actions-identity/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 If I do, so I am, AND I am, so I do. 

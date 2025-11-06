@@ -5,5 +5,3 @@
 ### The structured system used to organise thoughts, notes and files of an individual
 
 [[Learn in Public/Reference/@butlerBuildYourPersonal2022\|@butlerBuildYourPersonal2022]] - reference
-
-[[Resources/Glossary MoC\|Glossary MoC]]

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T16:11","updated":"2025-10-16T18:38","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:11","updated":"2025-10-16T18:40","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,7 +23,7 @@ These are my personal notes and reflections based on the reference source noted 
 ### Techniques I want to use for solo roleplay
 There were three more techniques, but I opted not to take notes on them. 😅
 
-This video has inspired me so much that I am doing some more prep-setting for [[Learn in Public/Play/Making Space for You\|Making Space for You]] which I will detail here: [[Learn in Public/Play/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]]
+This video has inspired me so much that I am doing some more prep-setting for [[Play TTRPG/Actual Plays/Making Space for You\|Making Space for You]] which I will detail here: [[Play TTRPG/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]]
 
 #### Situation, NOT Story
 
