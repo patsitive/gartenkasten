@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-09-25T13:05","updated":"2025-09-25T16:02","permalink":"/play-ttrpg/resources/hubs/ttyol-all-locations/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"created":"2025-09-25T13:05","updated":"2025-09-25T16:02","dg-path":"PlayResources/Hubs/TTYOL-All Locations.md","permalink":"/play-resources/hubs/ttyol-all-locations/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Template: [[Play TTRPG/Resources/Templates/Location Template\|Location Template]]

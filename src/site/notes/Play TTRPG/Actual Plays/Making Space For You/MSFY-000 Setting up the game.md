@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"msfy-000","dg-publish":true,"created":"2025-09-25T10:40","updated":"2025-09-26T13:01","permalink":"/msfy-000/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"msfy-000","dg-publish":true,"created":"2025-09-25T10:40","updated":"2025-09-26T13:01","dg-path":"PlayActual Plays/Making Space For You/MSFY-000 Setting up the game.md","permalink":"/msfy-000/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

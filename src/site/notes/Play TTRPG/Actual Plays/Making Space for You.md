@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-09-26T13:50","updated":"2025-09-26T13:24","permalink":"/play-ttrpg/actual-plays/making-space-for-you/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"created":"2025-09-26T13:50","updated":"2025-09-26T13:24","dg-path":"PlayActual Plays/Making Space for You.md","permalink":"/play-actual-plays/making-space-for-you/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ![game-ironvalley.png](/img/user/Play%20TTRPG/Resources/Images/game-ironvalley.png) 

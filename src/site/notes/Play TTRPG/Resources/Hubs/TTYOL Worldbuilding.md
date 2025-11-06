@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-24T06:28","updated":"2025-09-30T13:49","dg-publish":true,"permalink":"/play-ttrpg/resources/hubs/ttyol-worldbuilding/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-24T06:28","updated":"2025-09-30T13:49","dg-publish":true,"dg-path":"PlayResources/Hubs/TTYOL Worldbuilding.md","permalink":"/play-resources/hubs/ttyol-worldbuilding/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ## World Truths

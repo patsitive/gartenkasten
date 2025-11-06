@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-22T18:17","updated":"2025-09-26T13:23","dg-publish":true,"aliases":["TTYOL"],"permalink":"/play-ttrpg/actual-plays/tea-time-with-your-orc-lover/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-22T18:17","updated":"2025-09-26T13:23","dg-publish":true,"aliases":["TTYOL"],"dg-path":"PlayActual Plays/Tea Time with Your Orc Lover.md","permalink":"/play-actual-plays/tea-time-with-your-orc-lover/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 ![game-ironvalley.png|300](/img/user/Play%20TTRPG/Resources/Images/game-ironvalley.png) ![game-wanderingteagarden.png|300](/img/user/Play%20TTRPG/Resources/Images/game-wanderingteagarden.png)
