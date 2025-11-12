@@ -1,5 +1,5 @@
 ---
-{"dg-permalink":"msfy-001","dg-publish":true,"created":"2025-09-25T11:51","updated":"2025-09-27T19:45","dg-path":"PlayActual Plays/Making Space For You/MSFY-001 - Welcome to Aurora.md","permalink":"/msfy-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-permalink":"msfy-001","dg-publish":true,"created":"2025-09-25T11:51","updated":"2025-09-27T19:45","permalink":"/msfy-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

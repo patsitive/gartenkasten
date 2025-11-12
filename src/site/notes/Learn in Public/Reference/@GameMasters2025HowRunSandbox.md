@@ -23,14 +23,13 @@ These are my personal notes and reflections based on the reference source noted 
 ### Techniques I want to use for solo roleplay
 There were three more techniques, but I opted not to take notes on them. 😅
 
-This video has inspired me so much that I am doing some more prep-setting for [[Play TTRPG/Actual Plays/Making Space for You\|Making Space for You]] which I will detail here: [[Play TTRPG/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]]
+This video has inspired me so much that I am doing some more prep for a couple solo campaigns: 
+- [[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL-000a - Create a sandbox\|TTYOL-000a - Create a sandbox]]
+- [[Play TTRPG/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]] 
 
 #### Situation, NOT Story
 
-Instead of preparing a story in advance, concoct situations for players and characters to respond to. 
-
-> [!tip] Compelling situation = **Location + Conflict + Motivated characters** (PC & NPC)
-
+[[Learn in Public/Think/Situation NOT story as plot hook\|Situation NOT story as plot hook]]
 For solo roleplay, this may mean fleshing out NPCs more, but I think this will combine well with [[Learn in Public/Reference/@GameMasters2025HowRunSandbox#NPC Triangle\|#NPC Triangle]] and [[Learn in Public/Reference/@GameMasters2025HowRunSandbox#5x5\|#5x5]] below. 
 
 #### NPC Triangle 

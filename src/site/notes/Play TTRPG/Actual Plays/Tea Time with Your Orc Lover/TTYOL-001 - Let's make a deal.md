@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-23T16:06","updated":"2025-09-26T17:15","dg-permalink":"ttyol-001","dg-publish":true,"dg-path":"PlayActual Plays/Tea Time with Your Orc Lover/TTYOL-001 - Let's make a deal.md","permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-23T16:06","updated":"2025-09-26T17:15","dg-permalink":"ttyol-001","dg-publish":true,"permalink":"/ttyol-001/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -28,7 +28,7 @@ Maybe these logs will entertain you, give you ideas or make you want to send me 
 
 > [!note]  **Tea Time with Your Orc Lover** — cosy, solo roleplay
 > > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play-actual-plays/tea-time-with-your-orc-lover/#6bb3b0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/play-ttrpg/actual-plays/tea-time-with-your-orc-lover/#6bb3b0" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -148,7 +148,7 @@ Sampaguita pulled the door open, yanking at it with more force than needed. She 
 [🎮GAMEPLAY]
 > [!info]- **💭 Commentary:** Who just spoke? I chose!
 > - The carriage-seller is a gnome. 
-> - 👤 **NEW Character**:  ➕️  [[Play TTRPG/2. Characters/NPCharacters/NPC-Bayabas (Gnome)\|NPC-Bayabas (Gnome)]] (means guava fruit in Tagalog) and is an older masculine gnome who goes by he/him. 
+> - 👤 **NEW Character**:  ➕️  [[Play TTRPG/2. Characters/NPCharacters/PC-Bayabas (Gnome)\|PC-Bayabas (Gnome)]] (means guava fruit in Tagalog) and is an older masculine gnome who goes by he/him. 
 
 Sampaguita paid the gnome no mind, stepping into the carriage. In her experience, doors tended to stick more than not or couldn't be trusted to stay shut. Inside, she took stock of the rounded space with its sloped ceiling and curved walls. On the far wall was a large window with stained glass extending nearly from corner to corner. Bright summer light streamed in, bathing the space in a warm glow and rainbow hues. Beneath the window lay a solid wood cabinet with many drawers. To its right was a plush seat.
 

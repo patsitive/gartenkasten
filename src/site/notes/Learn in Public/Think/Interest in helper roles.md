@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-24T08:02","updated":"2025-08-30T16:13","dg-publish":true,"dg-permalink":"8-interest-helper-roles","id":8,"dg-path":"Think/Interest in helper roles.md","permalink":"/8-interest-helper-roles/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-24T08:02","updated":"2025-08-30T16:07","dg-publish":true,"dg-permalink":"8-interest-helper-roles","id":8,"dg-path":"Think/Interest in helper roles.md","permalink":"/8-interest-helper-roles/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 I am most interested in mental health, disability (community) and rehabilitation because of my lived experience, what I have seen from the disabled community through work and also what I am observing of my FIL as a stroke survivor. 

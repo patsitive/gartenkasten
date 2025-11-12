@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T14:25","updated":"2025-08-27T07:06","dg-home":true,"dg-publish":true,"dg-hide":true,"noteIcon":"signpost","aliases":["Gartenkasten index"],"dg-path":"Welcome to Pat's gartenkasten.md","permalink":"/welcome-to-pat-s-gartenkasten/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"created":"2025-05-30T14:25","updated":"2025-08-27T07:19","dg-home":true,"dg-publish":true,"dg-hide":true,"noteIcon":"signpost","aliases":["Gartenkasten index"],"dg-path":"Welcome to Pat's gartenkasten.md","permalink":"/welcome-to-pat-s-gartenkasten/","hide":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 

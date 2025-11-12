@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-26T20:10","updated":"2025-09-26T20:40","dg-permalink":"msfy-002","dg-publish":true,"dg-path":"PlayActual Plays/Making Space For You/MSFY-002.md","permalink":"/msfy-002/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-26T20:10","updated":"2025-09-26T20:40","dg-permalink":"msfy-002","dg-publish":true,"permalink":"/msfy-002/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-06T13:40","updated":"2025-09-06T13:56","id":"1a1a1b1b2","dg-permalink":"1a1a1b1b2-interstitial-journal","noteIcon":"signpost","dg-publish":true,"dg-path":"Think/Interstitial Journaling.md","permalink":"/1a1a1b1b2-interstitial-journal/","dgPassFrontmatter":true}
+{"created":"2025-09-06T13:40","updated":"2025-09-06T13:45","id":"1a1a1b1b2","dg-permalink":"1a1a1b1b2-interstitial-journal","noteIcon":"signpost","dg-publish":true,"dg-path":"Think/Interstitial Journaling.md","permalink":"/1a1a1b1b2-interstitial-journal/","dgPassFrontmatter":true}
 ---
 
 ## Interstitial journal

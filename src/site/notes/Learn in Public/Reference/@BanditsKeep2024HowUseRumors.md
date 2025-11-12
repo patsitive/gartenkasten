@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-10-16T18:38","type":"video","created":"2024-10-28T14:29","dg-publish":true,"dg-path":"Reference/@BanditsKeep2024HowUseRumors.md","permalink":"/reference/bandits-keep2024-how-use-rumors/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"updated":"2025-10-14T13:23","type":"video","created":"2024-10-28T14:29","dg-publish":true,"dg-path":"Reference/@BanditsKeep2024HowUseRumors.md","permalink":"/reference/bandits-keep2024-how-use-rumors/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 # @BanditsKeep2024HowUseRumors

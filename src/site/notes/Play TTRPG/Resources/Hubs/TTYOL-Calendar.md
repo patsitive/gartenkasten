@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-09-25T16:35","updated":"2025-09-26T20:51","dg-path":"PlayResources/Hubs/TTYOL-Calendar.md","permalink":"/play-resources/hubs/ttyol-calendar/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"created":"2025-09-25T16:35","updated":"2025-09-26T20:51","permalink":"/play-ttrpg/resources/hubs/ttyol-calendar/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Calendar relevant to these games: 
