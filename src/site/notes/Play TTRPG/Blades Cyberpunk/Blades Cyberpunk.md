@@ -1,5 +1,5 @@
 ---
-{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"player-character":"[[Alice Coseteng]]","created":"2025-11-24T04:37","updated":"2025-11-24T15:20","permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"player-character":"[[Play TTRPG/Blades Cyberpunk/Details/Alice Coseteng\|Alice Coseteng]]","created":"2025-11-24T04:37","updated":"2025-11-24T15:20","permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
