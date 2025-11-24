@@ -21,8 +21,8 @@ Systems of gameplay:
 ### World 
 
 [[Play TTRPG/2. Characters/Player Characters/Sampaguita/PC-Sampaguita\|PC-Sampaguita]]
-[[Play TTRPG/Resources/Hubs/TTYOL NPCs\|All NPCs in game setting]]
-[[Play TTRPG/Resources/Hubs/TTYOL Worldbuilding\|Worldbuilding]]
+[[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL NPCs\|All NPCs in game setting]]
+[[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL Worldbuilding\|Worldbuilding]]
 
 ### Actual Plays 
 

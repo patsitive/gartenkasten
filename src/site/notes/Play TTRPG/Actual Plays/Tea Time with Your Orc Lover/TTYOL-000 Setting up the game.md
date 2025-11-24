@@ -126,7 +126,7 @@ I am committed to accessibility, and I recognise this is an ongoing journey to a
 ### Game Setup
 
 #### What are the World Truths? 
-[[Play TTRPG/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+[[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
 
 #### What are your Player Character Truths? 
 [[Play TTRPG/2. Characters/Player Characters/Sampaguita/PC-Sampaguita\|Sampaguita]]

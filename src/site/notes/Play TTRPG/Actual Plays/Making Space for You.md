@@ -30,8 +30,8 @@ Systems of gameplay:
 
 [[Play TTRPG/2. Characters/Player Characters/Amaya/PC-Amaya\|PC-Amaya]]
 
-[[Play TTRPG/Resources/Hubs/TTYOL Worldbuilding\|Worldbuilding]]
-[[Play TTRPG/Resources/Hubs/TTYOL NPCs\|All NPCs in game setting]]
+[[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL Worldbuilding\|Worldbuilding]]
+[[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL NPCs\|All NPCs in game setting]]
 Inhabits same world as [[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]] — because I didn't want to wait to have to record videos to play Iron Valley LOL 
 
 ### Actual Plays 

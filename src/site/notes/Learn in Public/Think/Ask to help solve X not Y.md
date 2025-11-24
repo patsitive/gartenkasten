@@ -6,10 +6,7 @@
 
 Ask for help to achieve your desired outcome, not what you *think* will lead to your desired outcome. Your premise may be wrong, which will waste the efforts of all involved. (Source: [The XY Problem](https://xyproblem.info/) via Odin Project)
 
-> [!bug] Solving for Y when you want X — Nails 💅 
-> Dana: Help with better nail prep please? 😮‍💨
-> Gemma: Make sure to dehydrate the nail ☺️
-> Result: Great advice, but the nails still peel off. Why? You wanted long-lasting nails, but your problem wasn't your prep—you've been forgetting to cap the free edge. 
+[[Learn in Public/Think/Solving for Y when you want X may lead to wasted time\|Solving for Y when you want X may lead to wasted time]].
 
 > [!tip] Solving for X instead 
 > Dana: My gel nails are coming off after only 3 days. I want them to last longer. Help please? 😣

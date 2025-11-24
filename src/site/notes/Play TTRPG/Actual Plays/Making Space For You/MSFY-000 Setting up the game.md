@@ -106,7 +106,7 @@ Next: [[Play TTRPG/Actual Plays/Making Space For You/MSFY-001 - Welcome to Auror
 - World Truths: This Iron Valley has fantasy species living in the game world. It also has some magic. Also favour economy is preferred, but I may roleplay using precious metals for currency as well!
 	- **💭 Commentary:** I have bended the Iron Valley setting rules to suit my narrative. Is this a bad move as a newbie? Time will tell.  
 	- **💭 Commentary:** Set in the same game universe as [[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover\|Tea Time with Your Orc Lover]]	
-	- **💭 Commentary:** More worldbuilding here: [[Play TTRPG/Resources/Hubs/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
+	- **💭 Commentary:** More worldbuilding here: [[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL Worldbuilding\|TTYOL Worldbuilding]]
 
 ##### Iron Valley is Aurora
 - World Truth: Picked name of Iron Valley: Aurora (just Aurora)
