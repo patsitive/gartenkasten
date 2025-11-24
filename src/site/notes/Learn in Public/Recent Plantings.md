@@ -7,6 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
+- [[Learn in Public/Reference/ASavageWorldsGM2024KeepHackingSimple\|ASavageWorldsGM2024KeepHackingSimple]]: 3:14 PM - November 24, 2025
 - [[Learn in Public/Think/Hobby-go-round\|Hobby-go-round]]: 5:39 AM - November 14, 2025
 - [[Learn in Public/Think/Solving for Y when you want X may lead to wasted time\|Solving for Y when you want X may lead to wasted time]]: 9:34 AM - November 13, 2025
 - [[Learn in Public/Think/Ask to help solve X not Y\|Ask to help solve X not Y]]: 9:33 AM - November 13, 2025
@@ -21,7 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Reference/@Croaker2024StartOwnSolo\|@Croaker2024StartOwnSolo]]: 6:37 PM - October 16, 2025
 - [[Learn in Public/Think/Capture emotion through Causative Details\|Capture emotion through Causative Details]]: 9:32 PM - September 28, 2025
 - [[Learn in Public/Think/Why have visual keys for roleplay Actual Play logs\|Why have visual keys for roleplay Actual Play logs]]: 5:15 PM - September 26, 2025
-- [[Learn in Public/Think/I am a writer\|I am a writer]]: 9:14 AM - September 19, 2025
 
 { .block-language-dataview}
 
