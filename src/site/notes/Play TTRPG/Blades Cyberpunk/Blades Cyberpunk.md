@@ -1,12 +1,12 @@
 ---
-{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"player-character":"[[Play TTRPG/Blades Cyberpunk/Details/Alice Coseteng\|Alice Coseteng]]","created":"2025-11-24T04:37","updated":"2025-11-24T15:26","permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"created":"2025-11-24T04:37","updated":"2025-11-24T15:26","permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
 Group game. I play Alice, a Hacker, who loves to party. 🥰
 
 ## Player Characters
-[[Alice Coseteng]] 
+[[Play TTRPG/Blades Cyberpunk/Details/Alice Coseteng\|Alice Coseteng]] 
 [[Play TTRPG/Blades Cyberpunk/Details/Doc Halo\|Doc Halo]]
 [[Play TTRPG/Blades Cyberpunk/Details/Morgan\|Morgan]]
 
