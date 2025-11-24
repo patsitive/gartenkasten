@@ -2,7 +2,7 @@
 {"created":"2025-11-22T01:48","updated":"2025-11-24T15:13","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/ASavageWorldsGM2024KeepHackingSimple.md","permalink":"/reference/a-savage-worlds-gm-2024-keep-hacking-simple/","dgPassFrontmatter":true}
 ---
 
-Notes on running hacking scenarios or actions with the Savage Worlds setting. Took these to extrapolate ideas for roleplaying a hacker in general, since that is what I am doing in [[Play TTRPG/Blades Cyberpunk/Blades Cyberpunk\|Blades Cyberpunk]]...!
+Notes on running hacking scenarios or actions with the Savage Worlds setting. Took these to extrapolate ideas for roleplaying a hacker in general, since that is what I am doing in [[Play TTRPG/Blades Cyberpunk/Blades Cyberpunk\|Blades Cyberpunk]]...! 💗
 
 Reference: ASavageWorldsGM (2024). [TT Ep 179 Keep Hacking Simple in Savage Worlds](https://youtu.be/k-0j3wtz3ME?si=3XnhDk6T05gNxREd) 
 
