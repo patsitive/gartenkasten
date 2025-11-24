@@ -1,5 +1,5 @@
 ---
-{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","player-character":"[[PC-Alice\|PC-Alice]]","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"realm":"Mapouriki","campaign":"[[Blades Cyberpunk]]","status":"active","role":"Player","ruleset":null,"type":"campaign","player-character":"[[Play TTRPG/Blades Cyberpunk/PC-Alice\|PC-Alice]]","start-date":"2025-11-20","last-date":"2025-11-20","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/blades-cyberpunk/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
