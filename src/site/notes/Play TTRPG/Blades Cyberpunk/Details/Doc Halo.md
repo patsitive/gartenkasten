@@ -1,5 +1,5 @@
 ---
-{"type":"Player Character","player":"Logan","campaign":"[[Blades Cyberpunk]]","realm":"[[LOC-Mapouriki]]","summary":"The Snake of the Crew, Doc Halo is a former academic.","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/details/doc-halo/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"type":"Player Character","player":"Logan","campaign":"[[Blades Cyberpunk]]","realm":"Earth","summary":"The Snake of the Crew, Doc Halo is a former academic.","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/details/doc-halo/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

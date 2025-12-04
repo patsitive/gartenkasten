@@ -24,8 +24,8 @@ These are my personal notes and reflections based on the reference source noted 
 There were three more techniques, but I opted not to take notes on them. 😅
 
 This video has inspired me so much that I am doing some more prep for a couple solo campaigns: 
-- [[Play TTRPG/Actual Plays/Tea Time with Your Orc Lover/TTYOL-000a - Create a sandbox\|TTYOL-000a - Create a sandbox]]
-- [[Play TTRPG/Actual Plays/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]] 
+- [[Play TTRPG/Tea Time with Your Orc Lover/Play/TTYOL-000a - Create a sandbox\|TTYOL-000a - Create a sandbox]]
+- [[Play TTRPG/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]] 
 
 #### Situation, NOT Story
 

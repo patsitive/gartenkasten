@@ -1,5 +1,5 @@
 ---
-{"type":"Player Character","player":"Kelly","campaign":"[[Blades Cyberpunk]]","realm":"[[LOC-Mapouriki]]","summary":"The Punk of the Crew.","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/details/morgan/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"type":"Player Character","player":"Kelly","campaign":"[[Blades Cyberpunk]]","realm":"Earth","summary":"The Punk of the Crew.","dg-publish":true,"permalink":"/play-ttrpg/blades-cyberpunk/details/morgan/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
