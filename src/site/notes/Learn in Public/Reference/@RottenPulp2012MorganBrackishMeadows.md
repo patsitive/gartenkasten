@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"created":"2025-12-01T15:49","updated":"2026-01-04T06:19","dg-path":"Reference/@RottenPulp2012MorganBrackishMeadows.md","permalink":"/reference/rotten-pulp2012-morgan-brackish-meadows/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"dg-publish":true,"created":"2025-12-01T15:49","updated":"2026-01-04T06:25","noteIcon":"bee","dg-path":"Reference/@RottenPulp2012MorganBrackishMeadows.md","permalink":"/reference/rotten-pulp2012-morgan-brackish-meadows/","dgPassFrontmatter":true}
 ---
 
 I was reading about dungeon re-stocking, and as always I opened so many links. This was one that I opened, and I found it really interesting! 
@@ -18,7 +18,8 @@ In addition to tracking the item slots, the sheet also has you note:
 - List of items you want to obtain (handy reminder!)
 
 Example of this system in a [[Worlds Without Number\|Worlds Without Number]] solo campaign I'm playing: 
-![20260104_062105.jpg|341x239](/img/user/Resources/Attachments/20260104_062105.jpg)
+
+![ItemDimensionTracker.jpg|341x239](/img/user/Resources/Attachments/ItemDimensionTracker.jpg)
 
 [^1]: I would argue that this method is compatible with weight-based encumbrance systems like in Worlds Without Number and also something like the Loadout for narrative games like Runners in the Shadows. In the former, you could calculate that the total weight of items in the Anti-Hammerspace Item Tracker does not exceed your encumbrance limit. For the latter, you could ensure that the slots of your items do not exceed the loadout limit. 
 [^2]: While the article did not state this, in theory, you could reduce the number of container but increase the number of slots within. The total slots will still be the same. 
