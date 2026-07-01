@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"1b-play-great-work","id":"1b","dg-path":"Think/'Serious Play' creates great work.md","permalink":"/1b-play-great-work/","dgPassFrontmatter":true}
+{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"1b-play-great-work","id":"1b","source":"secondary","dg-path":"Think/'Serious Play' creates great work.md","permalink":"/1b-play-great-work/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"noteIcon":"flower","id":"1b","source":"secondary"}}
 ---
 
 

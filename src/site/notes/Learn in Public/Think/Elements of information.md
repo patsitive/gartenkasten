@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-18T04:45","updated":"2025-08-25T15:21","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-permalink":"1a1a-info-elements","id":"1a1a","dg-path":"Think/Elements of information.md","permalink":"/1a1a-info-elements/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-18T04:45","updated":"2025-08-25T15:21","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-permalink":"1a1a-info-elements","id":"1a1a","noteIcon":"flower","dg-path":"Think/Elements of information.md","permalink":"/1a1a-info-elements/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-18T04:45","updated":"2025-08-25T15:21","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"id":"1a1a","noteIcon":"flower"}}
 ---
 
 

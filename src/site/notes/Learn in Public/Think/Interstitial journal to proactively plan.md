@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-22T11:31","updated":"2025-08-30T19:04","dg-publish":true,"noteIcon":2,"dg-permalink":"1a1a1b1a-interstitial-journal-plan","id":"1a1a1b1a","dg-path":"Think/Interstitial journal to proactively plan.md","permalink":"/1a1a1b1a-interstitial-journal-plan/","dgPassFrontmatter":true}
+{"created":"2025-04-22T11:31","updated":"2025-08-30T19:04","dg-publish":true,"noteIcon":2,"dg-permalink":"1a1a1b1a-interstitial-journal-plan","id":"1a1a1b1a","dg-path":"Think/Interstitial journal to proactively plan.md","permalink":"/1a1a1b1a-interstitial-journal-plan/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-04-22T11:31","updated":"2025-08-30T19:04","noteIcon":2,"id":"1a1a1b1a"}}
 ---
 
 In keeping an [**Parent**:: [[Learn in Public/Think/Interstitial Journaling\|Interstitial Journaling]]] practice, one keeps a running record of daily life by recording logs that state the __current time__ and **description**. 

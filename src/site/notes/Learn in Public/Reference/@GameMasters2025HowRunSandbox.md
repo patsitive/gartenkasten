@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-25T16:11","updated":"2025-10-16T18:40","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true}
+{"created":"2025-09-25T16:11","updated":"2025-10-16T18:40","type":"video","noteIcon":"bee","dg-publish":true,"dg-path":"Reference/@GameMasters2025HowRunSandbox.md","permalink":"/reference/game-masters2025-how-run-sandbox/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-09-25T16:11","updated":"2025-10-16T18:40","type":"video","noteIcon":"bee"}}
 ---
 
 
@@ -24,8 +24,8 @@ These are my personal notes and reflections based on the reference source noted 
 There were three more techniques, but I opted not to take notes on them. 😅
 
 This video has inspired me so much that I am doing some more prep for a couple solo campaigns: 
-- [[Play TTRPG/Tea Time with Your Orc Lover/Play/TTYOL-000a - Create a sandbox\|TTYOL-000a - Create a sandbox]]
-- [[Play TTRPG/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]] 
+- [[Play TTRPG/Solo Games/Tea Time with Your Orc Lover/Play/TTYOL-000a - Create a sandbox\|TTYOL-000a - Create a sandbox]]
+- [[Play TTRPG/Solo Games/Making Space For You/MSFY-000a Creating a sandbox\|MSFY-000a Creating a sandbox]] 
 
 #### Situation, NOT Story
 

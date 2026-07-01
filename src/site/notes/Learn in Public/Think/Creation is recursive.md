@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-31T13:41","updated":"2025-09-04T14:59","id":"1a2a","dg-permalink":"1a2a-creation-recursive","dg-publish":true,"dg-path":"Think/Creation is recursive.md","permalink":"/1a2a-creation-recursive/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-31T13:41","updated":"2025-09-04T14:59","id":"1a2a","dg-permalink":"1a2a-creation-recursive","dg-publish":true,"dg-path":"Think/Creation is recursive.md","permalink":"/1a2a-creation-recursive/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-31T13:41","updated":"2025-09-04T14:59","id":"1a2a"}}
 ---
 
 The act of creation moves forwards and backwards, in recursions. 

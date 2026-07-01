@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-31T13:32","updated":"2025-08-31T15:04","id":"8c2","dg-permalink":"8c2-prefer-work","dg-publish":true,"dg-path":"Think/Prefer work I can leave at work.md","permalink":"/8c2-prefer-work/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-31T13:32","updated":"2025-08-31T15:04","id":"8c2","dg-permalink":"8c2-prefer-work","dg-publish":true,"dg-path":"Think/Prefer work I can leave at work.md","permalink":"/8c2-prefer-work/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-31T13:32","updated":"2025-08-31T15:04","id":"8c2"}}
 ---
 
 If I can help it, I want a job where I leave my work at the office. 

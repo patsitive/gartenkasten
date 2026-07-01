@@ -1,5 +1,5 @@
 ---
-{"created":"2024-09-21T21:14","updated":"2025-08-30T19:54","id":2,"dg-permalink":"2-skills-intimacy","dg-publish":true,"noteIcon":"signpost","dg-path":"Think/Skills for Intimacy.md","permalink":"/2-skills-intimacy/","dgPassFrontmatter":true}
+{"created":"2024-09-21T21:14","updated":"2026-01-07T10:08","id":2,"dg-permalink":"2-skills-intimacy","dg-publish":true,"noteIcon":"signpost","dg-path":"Think/Skills for Intimacy.md","permalink":"/2-skills-intimacy/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-09-21T21:14","updated":"2026-01-07T10:08","id":2,"noteIcon":"signpost"}}
 ---
 
 The skills for intimacy come from Laura Doyle who writes on creating joyful heterosexual marriages—even when on the brink of divorce. 
@@ -16,7 +16,7 @@ Cultural differences are not inherently _bad_. If one culture greets their grand
 
 Anyway, this is a rant... I need to break this down into cuttings / zettels lol. I have a lot of thoughts about Doyle's books
 
-Oh, yeah, the book is [[Learn in Public/Reference/Doyle (2015) First, Kill All Marriage Counsellors\|Doyle (2015) First, Kill All Marriage Counsellors]] but she's done newer versions of this book, and I'm also working through them (a happy marriage is one of my top priorities lol)
+Oh, yeah, the book is [[Learn in Public/Reference/@Doyle2015FirstKillAllMarriageCounsellors\|@Doyle2015FirstKillAllMarriageCounsellors]] but she's done newer versions of this book, and I'm also working through them (a happy marriage is one of my top priorities lol)
 ## Replenish your spirit with self-care
 [[Learn in Public/Think/(2A1B2) Care For Yourself\|(2A1B2) Care For Yourself]]
 [[Goddess of fun and light\|Goddess of fun and light]]
@@ -35,3 +35,5 @@ Oh, yeah, the book is [[Learn in Public/Reference/Doyle (2015) First, Kill All M
 
 ## Refocus your view with gratitude 
 [[Show Gratitude In A Relationship\|Show Gratitude In A Relationship]]
+
+- can you apply it to a caregiver relationship? Can you apply it to your in laws? [[Owned Identities/Daughter In Law/Skills for Intimacy applied to in law relationships\|Skills for Intimacy applied to in law relationships]]

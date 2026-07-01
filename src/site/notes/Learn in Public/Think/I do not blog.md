@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-26T21:57","updated":"2025-08-27T09:44","dg-publish":true,"dg-permalink":"4a1d1a-not-blog","id":"4a1d1a","dg-path":"Think/I do not blog.md","permalink":"/4a1d1a-not-blog/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-26T21:57","updated":"2026-01-07T10:09","dg-publish":true,"dg-permalink":"4a1d1a-not-blog","id":"4a1d1a","type":"zettel","dg-path":"Think/I do not blog.md","permalink":"/4a1d1a-not-blog/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-26T21:57","updated":"2026-01-07T10:09","id":"4a1d1a","type":"zettel"}}
 ---
 
 ## This gartenkasten is **not** a blog. 

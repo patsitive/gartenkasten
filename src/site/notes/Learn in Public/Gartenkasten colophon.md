@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-02T18:22","updated":"2025-08-29T21:59","dg-permalink":"colophon","dg-publish":true,"dg-path":"Gartenkasten colophon.md","permalink":"/colophon/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-02T18:22","updated":"2025-08-29T21:59","dg-permalink":"colophon","dg-publish":true,"dg-path":"Gartenkasten colophon.md","permalink":"/colophon/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-02T18:22","updated":"2025-08-29T21:59"}}
 ---
 
 ## Gartenkasten Tech Stack ✨️ 🖥 

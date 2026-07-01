@@ -1,8 +1,8 @@
 ---
-{"created":"2025-08-20T15:09","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"2a1b5-daytime-flights","id":"2a1b5","dg-path":"Think/(2A1B5) Prefer daytime flights and avoid red-eye.md","permalink":"/2a1b5-daytime-flights/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-20T15:09","updated":"2026-07-01T12:24","dg-publish":true,"dg-permalink":"2a1b5-daytime-flights","id":"2a1b5","dg-path":"Think/(2A1B5) Prefer daytime flights and avoid red-eye.md","permalink":"/2a1b5-daytime-flights/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-20T15:09","updated":"2026-07-01T12:24","id":"2a1b5"}}
 ---
 
-So I have previously decided that [**Prev**:: [[Learn in Public/Think/(2A1B) I Need To Treat Myself Like A Sim\|(2A1B) I Need To Treat Myself Like A Sim]]], which mostly relates to working hard to stay aware of my internal 'stats', but I could also think about it as applying rules for living (e.g. do not allow your Sim to run out of counter space lest they place their grilled cheese on the floor and starve to death—which I vaguely remember being a bug in Sims 2...). 
+So I have previously decided that [**Prev**:: [[Learn in Public/Think/I Need To Treat Myself Like A Sim\|I Need To Treat Myself Like A Sim]]], which mostly relates to working hard to stay aware of my internal 'stats', but I could also think about it as applying rules for living (e.g. do not allow your Sim to run out of counter space lest they place their grilled cheese on the floor and starve to death—which I vaguely remember being a bug in Sims 2...). 
 
 New rule for myself: stick to daytime or regular flights
 

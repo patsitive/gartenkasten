@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-18T03:28","updated":"2025-09-06T14:00","dg-publish":true,"aliases":["Definition of coaching","Coaching definition"],"dg-permalink":"3b-coaching","id":"3b","dg-path":"Think/Coaching.md","permalink":"/3b-coaching/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-03-18T03:28","updated":"2025-09-06T14:00","dg-publish":true,"aliases":["Definition of coaching","Coaching definition"],"dg-permalink":"3b-coaching","id":"3b","dg-path":"Think/Coaching.md","permalink":"/3b-coaching/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-03-18T03:28","updated":"2025-09-06T14:00","aliases":["Definition of coaching","Coaching definition"],"id":"3b"}}
 ---
 
 ## Coaching is a reflective social process that centres and empowers the coachee to evaluate their own ideas and options, to make meaningful progress, of their own volition.  

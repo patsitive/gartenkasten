@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-14T15:15","updated":"2025-11-06T18:35","title":"Build your personal knowledge management system","authors":"Elizabeth Butler","year":2022,"type":"webpage","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@butlerBuildYourPersonal2022.md","permalink":"/reference/butler-build-your-personal2022/","dgPassFrontmatter":true}
+{"created":"2025-02-14T15:15","updated":"2025-11-06T18:35","title":"Build your personal knowledge management system","authors":"Elizabeth Butler","year":2022,"type":"webpage","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@butlerBuildYourPersonal2022.md","permalink":"/reference/butler-build-your-personal2022/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-14T15:15","updated":"2025-11-06T18:35","title":"Build your personal knowledge management system","authors":"Elizabeth Butler","year":2022,"type":"webpage","noteIcon":"bee"}}
 ---
 
 # Build your personal knowledge management system (2022) - Elizabeth Butler

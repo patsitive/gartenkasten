@@ -1,5 +1,5 @@
 ---
-{"created":"2025-09-04T13:01","updated":"2025-09-04T14:59","id":"17b","dg-permalink":"17b-html-hierarchy","dg-publish":true,"dg-path":"Think/HTML tag hierarchy.md","permalink":"/17b-html-hierarchy/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-09-04T13:01","updated":"2026-01-08T09:29","id":"17b","dg-permalink":"17b-html-hierarchy","dg-publish":true,"noteIcon":"2","source":"personal","dg-path":"Think/HTML tag hierarchy.md","permalink":"/17b-html-hierarchy/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-09-04T13:01","updated":"2026-01-08T09:29","id":"17b","noteIcon":"2","source":"personal"}}
 ---
 
 [**Prev**:: [[Learn in Public/Think/HTML tag use should convey meaning\|HTML tag use should convey meaning]]] because HTML defines structure and meaning of web content.
@@ -13,3 +13,5 @@ I use this tag hierarchy to support this:
 4. generic containers [[Learn in Public/Think/Prefer div and span as last resort\|when nothing else works]]: `<div><span>`
 
 This order prioritises semantics and structure over other aspects and aims to be accessible and SEO-friendly. 
+
+#html #tech

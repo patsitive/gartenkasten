@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-14T09:44","updated":"2025-08-30T19:23","dg-publish":true,"dg-permalink":"1a1d1a-zettelkasten-flow","id":"1a1d1a","dg-path":"Think/Flow of zettelkasten.md","permalink":"/1a1d1a-zettelkasten-flow/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-14T09:44","updated":"2025-08-30T19:24","dg-publish":true,"dg-permalink":"1a1d1a-zettelkasten-flow","id":"1a1d1a","dg-path":"Think/Flow of zettelkasten.md","permalink":"/1a1d1a-zettelkasten-flow/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-07-14T09:44","updated":"2025-08-30T19:24","id":"1a1d1a"}}
 ---
 
 According to [**source**:: [[Learn in Public/Reference/@zhaoCompassZettelkastenThinking\|@zhaoCompassZettelkastenThinking]]], this goes from:
@@ -14,4 +14,4 @@ According to [**source**:: [[Learn in Public/Reference/@zhaoCompassZettelkastenT
 --- 
 
 [**Prev**:: [[Learn in Public/Think/Act of zettelkasten is associative in thinking\|Act of zettelkasten is associative in thinking]]]
-[**example**:: [[Resources/Zettelkasten Process\|Zettelkasten Process]] ] my specific process as a series of flowcharts
+[**example**:: [[Resources/~Zettelkasten Process\|~Zettelkasten Process]] ] my specific process as a series of flowcharts

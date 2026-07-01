@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-08T13:11","updated":"2025-07-11T06:40","dg-publish":true,"noteIcon":"log","dg-path":"Create/Sense-sational Spellbook.md","permalink":"/create/sense-sational-spellbook/","dgPassFrontmatter":true}
+{"created":"2025-07-08T13:11","updated":"2025-07-11T06:40","dg-publish":true,"noteIcon":"log","dg-path":"Create/Sense-sational Spellbook.md","permalink":"/create/sense-sational-spellbook/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-07-08T13:11","updated":"2025-07-11T06:40","noteIcon":"log"}}
 ---
 
 
@@ -27,9 +27,9 @@ I plan to set this up on my website as a proper lead magnet, but for now, it's o
 
 _The big version looks prettier because it's crisper! But if you don't have unlimited data or wifi, definitely go for the 2MB version!!!!_
 
-![Sense-sational Spellbook-1752126059380.png|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059380.png)![Sense-sational Spellbook-1752126059354.png|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059354.png)
+![Sense-sational Spellbook-1752126059380.png\|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059380.png)![Sense-sational Spellbook-1752126059354.png\|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059354.png)
 
-![Sense-sational Spellbook-1752126059370.png|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059370.png)![Sense-sational Spellbook-1752126059365.png|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059365.png)
+![Sense-sational Spellbook-1752126059370.png\|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059370.png)![Sense-sational Spellbook-1752126059365.png\|200](/img/user/Resources/Attachments/Sense-sational%20Spellbook-1752126059365.png)
 ### 🌱 Question / Spark
 > What was I curious about?
 
@@ -117,4 +117,4 @@ Hahahaha is there any time to write zettels when doing a one-day ship like this?
 
 Okay, fine. Here's a thought that came as part of reflection. Maybe that's my process going forward! 
 
-[[Constraints foster creativity\|Constraints foster creativity]]
+[[Learn in Public/Think/Constraints foster creativity\|Constraints foster creativity]]

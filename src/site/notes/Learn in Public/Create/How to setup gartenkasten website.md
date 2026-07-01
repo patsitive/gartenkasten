@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-28T11:38","updated":"2025-08-28T12:45","dg-publish":true,"dg-permalink":"how-garden-technical","dg-path":"Create/How to setup gartenkasten website.md","permalink":"/how-garden-technical/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-28T11:38","updated":"2025-08-28T12:45","dg-publish":true,"dg-permalink":"how-garden-technical","dg-path":"Create/How to setup gartenkasten website.md","permalink":"/how-garden-technical/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-08-28T11:38","updated":"2025-08-28T12:45"}}
 ---
 
 I love my [[Learn in Public/Think/Gartenkasten\|Gartenkasten]] site! 

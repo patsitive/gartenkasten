@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-03T14:21","updated":"2025-08-24T16:14","dg-publish":true,"noteIcon":"log","dg-path":"Create/Callout examples - Markdown.md","permalink":"/create/callout-examples-markdown/","dgPassFrontmatter":true}
+{"created":"2025-05-03T14:21","updated":"2025-08-24T16:14","dg-publish":true,"noteIcon":"log","dg-path":"Create/Callout examples - Markdown.md","permalink":"/create/callout-examples-markdown/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-05-03T14:21","updated":"2025-08-24T16:14","noteIcon":"log"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-21T12:08","updated":"2025-09-01T10:50","id":"1b2a1a","dg-permalink":"1b2a1a-dishes-executive-function","dg-publish":true,"dg-path":"Think/(1B2A1A) Change how you wash dishes to strengthen your executive function.md","permalink":"/1b2a1a-dishes-executive-function/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-21T12:08","updated":"2025-09-01T10:50","id":"1b2a1a","dg-permalink":"1b2a1a-dishes-executive-function","dg-publish":true,"dg-path":"Think/(1B2A1A) Change how you wash dishes to strengthen your executive function.md","permalink":"/1b2a1a-dishes-executive-function/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-07-21T12:08","updated":"2025-09-01T10:50","id":"1b2a1a"}}
 ---
 
 People say washing dishes is easy. Maybe it is for some people. For others, it's an overwhelming mountain. For others still, it depends on the day–depends on the spoons. 

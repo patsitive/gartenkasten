@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-14T09:47","updated":"2025-08-30T19:23","dg-publish":true,"dg-permalink":"1a1d1-zettelkasten-associative","id":"1a1d1","dg-path":"Think/Act of zettelkasten is associative in thinking.md","permalink":"/1a1d1-zettelkasten-associative/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-14T09:47","updated":"2025-08-30T19:23","dg-publish":true,"dg-permalink":"1a1d1-zettelkasten-associative","id":"1a1d1","dg-path":"Think/Act of zettelkasten is associative in thinking.md","permalink":"/1a1d1-zettelkasten-associative/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-07-14T09:47","updated":"2025-08-30T19:23","id":"1a1d1"}}
 ---
 
 Working within your zettelkasten, you are thinking about associations to other thoughts or notes. The folgezettel is one way to track associations. [[Learn in Public/Think/Compass of Thoughts can generate ideas or connections\|Compass of Thoughts can generate ideas or connections]] and is another way of thinking associatively. 

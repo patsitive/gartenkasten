@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-10-16T18:37","type":"webpage","aliases":null,"created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Croaker2024StartOwnSolo.md","permalink":"/reference/croaker2024-start-own-solo/","dgPassFrontmatter":true}
+{"updated":"2025-10-16T18:37","type":"webpage","aliases":null,"created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Croaker2024StartOwnSolo.md","permalink":"/reference/croaker2024-start-own-solo/","dgPassFrontmatter":true,"dg-note-properties":{"updated":"2025-10-16T18:37","type":"webpage","aliases":null,"created":"2024-10-28T14:29","noteIcon":"bee"}}
 ---
 
 # Notes 

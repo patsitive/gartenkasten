@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-28T14:57","updated":"2025-08-30T18:56","dg-permalink":"1a1a1-pkm-organise-integrate","dg-publish":true,"id":"1a1a1","dg-path":"Think/Personal Knowledge Management allows you to organise and integrate thoughts and files.md","permalink":"/1a1a1-pkm-organise-integrate/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-28T14:57","updated":"2025-08-30T18:56","dg-permalink":"1a1a1-pkm-organise-integrate","dg-publish":true,"id":"1a1a1","noteIcon":"2","dg-path":"Think/Personal Knowledge Management allows you to organise and integrate thoughts and files.md","permalink":"/1a1a1-pkm-organise-integrate/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-10-28T14:57","updated":"2025-08-30T18:56","id":"1a1a1","noteIcon":"2"}}
 ---
 
 Various systems exist for managing the knowledge that you hold (e.g. PARA, Getting Things Done, etc.) What connects these [**north**:: [[Learn in Public/Think/Personal Knowledge Management\|PKM]]] methodologies is the intent: systematic integration and organisation of knowledge ([**source**:: [[Learn in Public/Reference/@butlerBuildYourPersonal2022\|@butlerBuildYourPersonal2022]]]). 
@@ -9,7 +9,7 @@ Let's break this down.
 ## Organise 
 _Definition _
 
-Start by keeping a [[Learn in Public/Think/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]. If you have the means to find something, you can then do something with it. (Aside: [[Making is the first step to making it observable\|Making is the first step to making it observable]])
+Start by keeping a [[Learn in Public/Think/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]. If you have the means to find something, you can then do something with it. (Aside: [[Learn in Public/Think/Making is the first step to making it observable\|Making is the first step to making it observable]])
 
 ## Integrate 
 _Definition 1 from Oxford Languages: combine (one thing) with another so that they become a whole_

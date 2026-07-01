@@ -1,5 +1,5 @@
 ---
-{"created":"2025-06-03T09:35","updated":"2025-08-31T15:04","id":"8c1","dg-permalink":"8c1-good-vs-bad-aged-care","dg-publish":true,"dg-path":"Think/Good day vs bad day in aged care.md","permalink":"/8c1-good-vs-bad-aged-care/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-06-03T09:35","updated":"2025-08-31T15:04","id":"8c1","dg-permalink":"8c1-good-vs-bad-aged-care","dg-publish":true,"dg-path":"Think/Good day vs bad day in aged care.md","permalink":"/8c1-good-vs-bad-aged-care/","dgPassFrontmatter":true,"noteIcon":"1","dg-note-properties":{"created":"2025-06-03T09:35","updated":"2025-08-31T15:04","id":"8c1"}}
 ---
 
 Observation: when asked, an elderly person doesn't know what wishes they have. So then you try and ask, "Well, what's the difference between a good day and a bad day?"*

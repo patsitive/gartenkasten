@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-27T07:05","updated":"2025-08-30T18:57","id":"16a","dg-permalink":"16a-gartenkasten","dg-publish":true,"dg-path":"Think/Gartenkasten.md","permalink":"/16a-gartenkasten/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-27T07:05","updated":"2025-08-30T18:57","id":"16a","dg-permalink":"16a-gartenkasten","dg-publish":true,"noteIcon":"2","dg-path":"Think/Gartenkasten.md","permalink":"/16a-gartenkasten/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-08-27T07:05","updated":"2025-08-30T18:57","id":"16a","noteIcon":"2"}}
 ---
 
 Gartenkasten is my whimsical portmanteau of these two thinking and writing models! 

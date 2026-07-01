@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-04T13:49","updated":"2025-08-30T18:49","dg-publish":true,"dg-permalink":"1a1a1a3a-digital-garden-not-blog","id":"1a1a1a3a","dg-path":"Think/Digital gardens are not blogs.md","permalink":"/1a1a1a3a-digital-garden-not-blog/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-04T13:49","updated":"2025-08-30T18:49","dg-publish":true,"dg-permalink":"1a1a1a3a-digital-garden-not-blog","id":"1a1a1a3a","noteIcon":"2","dg-path":"Think/Digital gardens are not blogs.md","permalink":"/1a1a1a3a-digital-garden-not-blog/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-08-04T13:49","updated":"2025-08-30T18:49","id":"1a1a1a3a","noteIcon":"2"}}
 ---
 
 A [**Prev**:: [[Learn in Public/Think/Digital garden\|Digital garden]]] is oppositional to the concept of blogging, where ideas are static and chronological; when ideas change in blogs, we publish new blogs and make a note in the old posts saying "This is old, go to the new version". 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:28","updated":"2025-03-08T21:54","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"1a1-writing-depends-reading","id":"1a1","dg-path":"Think/Writing depends on your ability to read.md","permalink":"/1a1-writing-depends-reading/","dgPassFrontmatter":true}
+{"created":"2025-02-17T15:28","updated":"2025-03-08T21:54","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"1a1-writing-depends-reading","id":"1a1","dg-path":"Think/Writing depends on your ability to read.md","permalink":"/1a1-writing-depends-reading/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-02-17T15:28","updated":"2025-03-08T21:54","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"noteIcon":"flower","id":"1a1"}}
 ---
 
 

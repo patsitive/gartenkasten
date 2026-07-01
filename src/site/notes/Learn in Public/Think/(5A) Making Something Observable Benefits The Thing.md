@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"5a-observable-benefits","id":"5a","dg-path":"Think/(5A) Making Something Observable Benefits The Thing.md","permalink":"/5a-observable-benefits/","dgPassFrontmatter":true}
+{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"5a-observable-benefits","id":"5a","dg-path":"Think/(5A) Making Something Observable Benefits The Thing.md","permalink":"/5a-observable-benefits/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"noteIcon":"flower","id":"5a"}}
 ---
 
 
@@ -28,7 +28,7 @@ But if you make something observable (which means, [[Learn in Public/Think/(5A1)
 
 This thinking has applications in [[systems thinking\|systems thinking]], personal knowledge management and also effectiveness of organisations. 
 
-In [[Learn in Public/Reference/@moran12weekYearGet2013\|@moran12weekYearGet2013]], the author adds that [[Monitoring And Measuring Builds Self-Esteem\|Monitoring And Measuring Builds Self-Esteem]] because progress is documented and made visible. 
+In [[Learn in Public/Reference/@Moran201312WeekYear\|@Moran201312WeekYear]], the author adds that [[Monitoring And Measuring Builds Self-Esteem\|Monitoring And Measuring Builds Self-Esteem]] because progress is documented and made visible. 
 
 #### Related 
 [[Learn in Public/Think/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]

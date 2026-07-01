@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:34","updated":"2025-08-31T13:06","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:34","updated":"2025-08-31T13:06","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true,"dg-note-properties":{"created":"2025-08-24T15:34","updated":"2025-08-31T13:06","noteIcon":"signpost"}}
 ---
 
 ## Start Here 
